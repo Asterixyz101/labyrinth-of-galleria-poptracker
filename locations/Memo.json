@@ -36,8 +36,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 95,
-                                "y": 174,
+                                "x": 87,
+                                "y": 173,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -62,8 +62,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 168,
-                                "y": 172,
+                                "x": 151,
+                                "y": 173,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -88,8 +88,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 219,
-                                "y": 176,
+                                "x": 215,
+                                "y": 173,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -114,8 +114,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 286,
-                                "y": 177,
+                                "x": 279,
+                                "y": 173,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -140,8 +140,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 347,
-                                "y": 171,
+                                "x": 343,
+                                "y": 173,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -166,8 +166,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 397,
-                                "y": 171,
+                                "x": 407,
+                                "y": 173,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -192,8 +192,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 447,
-                                "y": 168,
+                                "x": 471,
+                                "y": 173,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -218,8 +218,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 503,
-                                "y": 166,
+                                "x": 535,
+                                "y": 173,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -244,8 +244,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 554,
-                                "y": 163,
+                                "x": 599,
+                                "y": 173,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -270,8 +270,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 598,
-                                "y": 166,
+                                "x": 663,
+                                "y": 173,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -296,8 +296,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 99,
-                                "y": 232,
+                                "x": 87,
+                                "y": 237,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -322,8 +322,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 164,
-                                "y": 245,
+                                "x": 151,
+                                "y": 237,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -348,8 +348,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 222,
-                                "y": 249,
+                                "x": 215,
+                                "y": 237,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -374,8 +374,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 286,
-                                "y": 246,
+                                "x": 279,
+                                "y": 237,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -400,8 +400,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 338,
-                                "y": 246,
+                                "x": 343,
+                                "y": 237,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -426,8 +426,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 395,
-                                "y": 246,
+                                "x": 407,
+                                "y": 237,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -452,8 +452,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 443,
-                                "y": 245,
+                                "x": 471,
+                                "y": 237,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -478,8 +478,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 501,
-                                "y": 240,
+                                "x": 535,
+                                "y": 237,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -504,8 +504,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 548,
-                                "y": 242,
+                                "x": 599,
+                                "y": 237,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -530,8 +530,8 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 599,
-                                "y": 242,
+                                "x": 663,
+                                "y": 237,
                                 "size": 32,
                                 "shape": "rect"
                             }
