@@ -60,12 +60,6 @@
         "img": "images/maps/Narthex.png"
     },
     {
-        "name": "Narthex B3",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Narthex B3.png"
-    },
-    {
         "name": "Yellow Transept",
         "location_size": 6,
         "location_border_thickness": 1,

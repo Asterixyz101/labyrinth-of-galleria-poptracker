@@ -93,15 +93,6 @@
                 }
             },
             {
-                "title": "Narthex B3",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Narthex B3"
-                    ]
-                }
-            },
-            {
                 "title": "Yellow Transept",
                 "content": {
                     "type": "map",
@@ -247,15 +238,6 @@
                     "type": "map",
                     "maps": [
                         "Narthex"
-                    ]
-                }
-            },
-            {
-                "title": "Narthex B3",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Narthex B3"
                     ]
                 }
             },

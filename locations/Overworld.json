@@ -661,8 +661,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 612,
-                        "y": 86,
+                        "x": 1692,
+                        "y": 1836,
                         "size": 6
                     }
                 ]
@@ -1884,8 +1884,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 825,
-                        "y": 508,
+                        "x": 2064,
+                        "y": 307,
                         "size": 6
                     }
                 ]
@@ -2039,8 +2039,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1310,
-                        "y": 2190,
+                        "x": 2030,
+                        "y": 2439,
                         "size": 6
                     }
                 ]
@@ -2290,8 +2290,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 420,
-                        "y": 1002,
+                        "x": 1537,
+                        "y": 1605,
                         "size": 6
                     }
                 ]
@@ -2353,8 +2353,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 484,
-                        "y": 1575,
+                        "x": 1858,
+                        "y": 1688,
                         "size": 6
                     }
                 ]
@@ -2376,8 +2376,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 775,
-                        "y": 1947,
+                        "x": 2021,
+                        "y": 2428,
                         "size": 6
                     }
                 ]
@@ -2655,8 +2655,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1473,
-                        "y": 240,
+                        "x": 1356,
+                        "y": 152,
                         "size": 6
                     }
                 ]
@@ -2698,8 +2698,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2354,
-                        "y": 894,
+                        "x": 1323,
+                        "y": 1731,
                         "size": 6
                     }
                 ]
@@ -2797,8 +2797,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1288,
-                        "y": 1762,
+                        "x": 1533,
+                        "y": 2473,
                         "size": 6
                     }
                 ]
@@ -3079,6 +3079,10 @@
                     {
                         "name": "B3 Chest 24X 11Y - ",
                         "ref": "Narthex/B3/B3 Chest 24X 11Y/"
+                    },
+                    {
+                        "name": "B3 Chest 6X 19Y - ",
+                        "ref": "Narthex/B3/B3 Chest 6X 19Y/"
                     },
                     {
                         "name": "B3 Chest 7X 19Y - ",
@@ -3532,31 +3536,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 71,
-                        "y": 832,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Narthex B3",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "B3 Chest 6X 19Y - ",
-                        "ref": "Narthex B3/B3 Chest 6X 19Y/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 647,
-                        "y": 2055,
+                        "x": 2305,
+                        "y": 646,
                         "size": 6
                     }
                 ]
@@ -3730,8 +3711,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 89,
-                        "y": 1571,
+                        "x": 1174,
+                        "y": 1052,
                         "size": 6
                     }
                 ]
@@ -3753,8 +3734,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1896,
-                        "y": 533,
+                        "x": 2187,
+                        "y": 1739,
                         "size": 6
                     }
                 ]
@@ -3776,8 +3757,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 893,
-                        "y": 1513,
+                        "x": 1808,
+                        "y": 1935,
                         "size": 6
                     }
                 ]
@@ -3799,8 +3780,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1226,
-                        "y": 1156,
+                        "x": 152,
+                        "y": 379,
                         "size": 6
                     }
                 ]
@@ -3822,8 +3803,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1036,
-                        "y": 2434,
+                        "x": 2022,
+                        "y": 2235,
                         "size": 6
                     }
                 ]
@@ -3845,8 +3826,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1847,
-                        "y": 404,
+                        "x": 836,
+                        "y": 1032,
                         "size": 6
                     }
                 ]
