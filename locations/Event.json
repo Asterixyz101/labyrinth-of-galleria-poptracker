@@ -44,10 +44,10 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Event",
-                                        "x": 39,
-                                        "y": 643,
-                                        "size": 6
+                                        "map": "Narthex B2",
+                                        "x": 1328,
+                                        "y": 758,
+                                        "size": 32
                                     }
                                 ]
                             }
@@ -80,10 +80,10 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Event",
-                                        "x": 2073,
-                                        "y": 646,
-                                        "size": 6
+                                        "map": "Narthex B3",
+                                        "x": 1520,
+                                        "y": 534,
+                                        "size": 32
                                     }
                                 ]
                             }
@@ -117,9 +117,9 @@
                                 "map_locations": [
                                     {
                                         "map": "Event",
-                                        "x": 1577,
-                                        "y": 416,
-                                        "size": 6
+                                        "x": 1392,
+                                        "y": 822,
+                                        "size": 32
                                     }
                                 ]
                             }
@@ -152,10 +152,10 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Event",
-                                        "x": 1681,
-                                        "y": 744,
-                                        "size": 6
+                                        "map": "Narthex B6",
+                                        "x": 1072,
+                                        "y": 694,
+                                        "size": 32
                                     }
                                 ]
                             }
@@ -188,10 +188,10 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Event",
-                                        "x": 1758,
-                                        "y": 1100,
-                                        "size": 6
+                                        "map": "Narthex B7",
+                                        "x": 1200,
+                                        "y": 854,
+                                        "size": 32
                                     }
                                 ]
                             }
@@ -235,10 +235,10 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Event",
-                                        "x": 1813,
-                                        "y": 1011,
-                                        "size": 6
+                                        "map": "Apse Floor 2",
+                                        "x": 1296,
+                                        "y": 406,
+                                        "size": 32
                                     }
                                 ]
                             }
@@ -271,10 +271,10 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Event",
-                                        "x": 600,
-                                        "y": 1865,
-                                        "size": 6
+                                        "map": "Apse Floor 5",
+                                        "x": 1200,
+                                        "y": 630,
+                                        "size": 32
                                     }
                                 ]
                             }
@@ -307,10 +307,10 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Event",
-                                        "x": 938,
-                                        "y": 1108,
-                                        "size": 6
+                                        "map": "Apse Floor 7",
+                                        "x": 1104,
+                                        "y": 438,
+                                        "size": 32
                                     }
                                 ]
                             }
@@ -354,10 +354,10 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Event",
-                                        "x": 569,
-                                        "y": 2049,
-                                        "size": 6
+                                        "map": "Yellow Transept Layer 2",
+                                        "x": 1296,
+                                        "y": 278,
+                                        "size": 32
                                     }
                                 ]
                             }
@@ -401,10 +401,10 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Event",
-                                        "x": 2122,
-                                        "y": 1856,
-                                        "size": 6
+                                        "map": "Crimson Transept Great Labyrinth",
+                                        "x": 976,
+                                        "y": 182,
+                                        "size": 32
                                     }
                                 ]
                             }
@@ -439,10 +439,10 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Event",
-                                "x": 1965,
-                                "y": 2138,
-                                "size": 6
+                                "map": "Apse Floor 9",
+                                "x": 1136,
+                                "y": 758,
+                                "size": 32
                             }
                         ]
                     }
@@ -484,10 +484,10 @@
                                 ],
                                 "map_locations": [
                                     {
-                                        "map": "Event",
-                                        "x": 1221,
-                                        "y": 704,
-                                        "size": 6
+                                        "map": "Chancel Grand Necrohall",
+                                        "x": 1296,
+                                        "y": 534,
+                                        "size": 32
                                     }
                                 ]
                             }
