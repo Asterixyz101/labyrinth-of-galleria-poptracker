@@ -2,7 +2,7 @@
     {
         "name": "progressivenarthex",
         "type": "consumable",
-        "img": "images/items/narthex.png",
+        "img": "images/items/dungeons/narthex.png",
         "min_quantity": 0,
         "max_quantity": 7,
         "increment": 1,
@@ -16,7 +16,7 @@
     {
         "name": "progressiveapse",
         "type": "consumable",
-        "img": "images/items/apse.png",
+        "img": "images/items/dungeons/apse.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -30,7 +30,7 @@
     {
         "name": "progressiveyellowtransept",
         "type": "consumable",
-        "img": "images/items/yellow transept.png",
+        "img": "images/items/dungeons/yellow transept.png",
         "min_quantity": 0,
         "max_quantity": 3,
         "increment": 1,
@@ -44,7 +44,7 @@
     {
         "name": "progressiveindigotransept",
         "type": "consumable",
-        "img": "images/items/indigo transept.png",
+        "img": "images/items/dungeons/indigo transept.png",
         "min_quantity": 0,
         "max_quantity": 3,
         "increment": 1,
@@ -58,7 +58,7 @@
     {
         "name": "progressivecrimsontransept",
         "type": "consumable",
-        "img": "images/items/crimson transept.png",
+        "img": "images/items/dungeons/crimson transept.png",
         "min_quantity": 0,
         "max_quantity": 2,
         "increment": 1,
@@ -72,7 +72,7 @@
     {
         "name": "progressivechancel",
         "type": "consumable",
-        "img": "images/items/chancel.png",
+        "img": "images/items/dungeons/chancel.png",
         "min_quantity": 0,
         "max_quantity": 2,
         "increment": 1,
