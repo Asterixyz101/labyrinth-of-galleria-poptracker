@@ -38,7 +38,15 @@
                                 "map": "Chancel",
                                 "x": 154,
                                 "y": 1239,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1517,
+                                "y": 416,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -63,7 +71,15 @@
                                 "map": "Chancel",
                                 "x": 701,
                                 "y": 1663,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 904,
+                                "y": 334,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -88,7 +104,15 @@
                                 "map": "Chancel",
                                 "x": 2205,
                                 "y": 2186,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1205,
+                                "y": 513,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -113,7 +137,15 @@
                                 "map": "Chancel",
                                 "x": 2085,
                                 "y": 1452,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1296,
+                                "y": 507,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -138,7 +170,15 @@
                                 "map": "Chancel",
                                 "x": 2388,
                                 "y": 859,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 910,
+                                "y": 380,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -163,7 +203,15 @@
                                 "map": "Chancel",
                                 "x": 1302,
                                 "y": 484,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1049,
+                                "y": 380,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -188,7 +236,15 @@
                                 "map": "Chancel",
                                 "x": 2336,
                                 "y": 1242,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 967,
+                                "y": 527,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -213,7 +269,15 @@
                                 "map": "Chancel",
                                 "x": 1655,
                                 "y": 97,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 947,
+                                "y": 564,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -238,7 +302,15 @@
                                 "map": "Chancel",
                                 "x": 768,
                                 "y": 452,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1162,
+                                "y": 538,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -263,7 +335,15 @@
                                 "map": "Chancel",
                                 "x": 406,
                                 "y": 955,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 887,
+                                "y": 493,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -288,7 +368,15 @@
                                 "map": "Chancel",
                                 "x": 2455,
                                 "y": 2126,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 933,
+                                "y": 553,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -313,7 +401,15 @@
                                 "map": "Chancel",
                                 "x": 1290,
                                 "y": 1569,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1270,
+                                "y": 555,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -338,7 +434,15 @@
                                 "map": "Chancel",
                                 "x": 1377,
                                 "y": 967,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1131,
+                                "y": 587,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -363,7 +467,15 @@
                                 "map": "Chancel",
                                 "x": 526,
                                 "y": 1602,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1182,
+                                "y": 547,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -388,7 +500,15 @@
                                 "map": "Chancel",
                                 "x": 2377,
                                 "y": 703,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1029,
+                                "y": 518,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -413,7 +533,15 @@
                                 "map": "Chancel",
                                 "x": 669,
                                 "y": 1437,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 743,
+                                "y": 459,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -438,7 +566,15 @@
                                 "map": "Chancel",
                                 "x": 973,
                                 "y": 44,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 842,
+                                "y": 541,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -463,7 +599,15 @@
                                 "map": "Chancel",
                                 "x": 1032,
                                 "y": 1092,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1026,
+                                "y": 609,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -488,7 +632,15 @@
                                 "map": "Chancel",
                                 "x": 2084,
                                 "y": 840,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1369,
+                                "y": 589,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -513,7 +665,15 @@
                                 "map": "Chancel",
                                 "x": 1549,
                                 "y": 90,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 833,
+                                "y": 501,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -538,7 +698,15 @@
                                 "map": "Chancel",
                                 "x": 2246,
                                 "y": 1181,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 921,
+                                "y": 530,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -563,7 +731,15 @@
                                 "map": "Chancel",
                                 "x": 1763,
                                 "y": 913,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1131,
+                                "y": 587,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -588,7 +764,15 @@
                                 "map": "Chancel",
                                 "x": 1793,
                                 "y": 2122,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 913,
+                                "y": 450,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -613,7 +797,15 @@
                                 "map": "Chancel",
                                 "x": 2036,
                                 "y": 427,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 913,
+                                "y": 601,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -638,7 +830,15 @@
                                 "map": "Chancel",
                                 "x": 59,
                                 "y": 2307,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 779,
+                                "y": 422,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -663,7 +863,15 @@
                                 "map": "Chancel",
                                 "x": 1996,
                                 "y": 1096,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1125,
+                                "y": 473,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -688,7 +896,15 @@
                                 "map": "Chancel",
                                 "x": 111,
                                 "y": 1169,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 595,
+                                "y": 462,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -713,7 +929,15 @@
                                 "map": "Chancel",
                                 "x": 2432,
                                 "y": 577,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1219,
+                                "y": 518,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -738,7 +962,15 @@
                                 "map": "Chancel",
                                 "x": 704,
                                 "y": 120,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1230,
+                                "y": 536,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -763,7 +995,15 @@
                                 "map": "Chancel",
                                 "x": 682,
                                 "y": 2427,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 870,
+                                "y": 456,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -788,7 +1028,15 @@
                                 "map": "Chancel",
                                 "x": 1219,
                                 "y": 717,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 967,
+                                "y": 453,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -813,7 +1061,15 @@
                                 "map": "Chancel",
                                 "x": 696,
                                 "y": 1564,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 779,
+                                "y": 439,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -838,7 +1094,15 @@
                                 "map": "Chancel",
                                 "x": 1307,
                                 "y": 337,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Grand Necrohall",
+                                "x": 1046,
+                                "y": 450,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     }
@@ -874,7 +1138,15 @@
                                 "map": "Chancel",
                                 "x": 2030,
                                 "y": 140,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Chancel Necrohall Lower",
+                                "x": 1318,
+                                "y": 553,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     }

@@ -38,7 +38,15 @@
                                 "map": "Yellow Transept",
                                 "x": 242,
                                 "y": 1632,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 1215,
+                                "y": 432,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -63,7 +71,15 @@
                                 "map": "Yellow Transept",
                                 "x": 2070,
                                 "y": 2427,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 1244,
+                                "y": 471,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -88,7 +104,15 @@
                                 "map": "Yellow Transept",
                                 "x": 255,
                                 "y": 672,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 1073,
+                                "y": 292,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -113,7 +137,15 @@
                                 "map": "Yellow Transept",
                                 "x": 32,
                                 "y": 1535,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 1036,
+                                "y": 345,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -138,7 +170,15 @@
                                 "map": "Yellow Transept",
                                 "x": 2022,
                                 "y": 119,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 1275,
+                                "y": 399,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -163,7 +203,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1145,
                                 "y": 1846,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 857,
+                                "y": 320,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -188,7 +236,15 @@
                                 "map": "Yellow Transept",
                                 "x": 646,
                                 "y": 997,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 966,
+                                "y": 353,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -213,7 +269,15 @@
                                 "map": "Yellow Transept",
                                 "x": 499,
                                 "y": 665,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 1219,
+                                "y": 501,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -238,7 +302,15 @@
                                 "map": "Yellow Transept",
                                 "x": 2360,
                                 "y": 358,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 1193,
+                                "y": 329,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -263,7 +335,15 @@
                                 "map": "Yellow Transept",
                                 "x": 941,
                                 "y": 2012,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 1094,
+                                "y": 320,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -288,7 +368,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1146,
                                 "y": 1855,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 1219,
+                                "y": 341,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -313,7 +401,15 @@
                                 "map": "Yellow Transept",
                                 "x": 882,
                                 "y": 2060,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 1277,
+                                "y": 314,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -338,7 +434,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1412,
                                 "y": 1984,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 1",
+                                "x": 1063,
+                                "y": 333,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     }
@@ -374,7 +478,15 @@
                                 "map": "Yellow Transept",
                                 "x": 2061,
                                 "y": 158,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 1018,
+                                "y": 436,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -399,7 +511,15 @@
                                 "map": "Yellow Transept",
                                 "x": 291,
                                 "y": 335,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 864,
+                                "y": 271,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -424,7 +544,15 @@
                                 "map": "Yellow Transept",
                                 "x": 300,
                                 "y": 60,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 958,
+                                "y": 339,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -449,7 +577,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1965,
                                 "y": 2195,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 1003,
+                                "y": 376,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -474,7 +610,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1929,
                                 "y": 1677,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 1271,
+                                "y": 397,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -499,7 +643,15 @@
                                 "map": "Yellow Transept",
                                 "x": 974,
                                 "y": 1473,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 1045,
+                                "y": 351,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -524,7 +676,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1920,
                                 "y": 601,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 1351,
+                                "y": 384,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -549,7 +709,15 @@
                                 "map": "Yellow Transept",
                                 "x": 949,
                                 "y": 1827,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 964,
+                                "y": 333,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -574,7 +742,15 @@
                                 "map": "Yellow Transept",
                                 "x": 2209,
                                 "y": 2038,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 1059,
+                                "y": 327,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -599,7 +775,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1741,
                                 "y": 1877,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 1110,
+                                "y": 322,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -624,7 +808,15 @@
                                 "map": "Yellow Transept",
                                 "x": 509,
                                 "y": 1413,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 1098,
+                                "y": 240,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -649,7 +841,15 @@
                                 "map": "Yellow Transept",
                                 "x": 260,
                                 "y": 896,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 1024,
+                                "y": 345,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -674,7 +874,15 @@
                                 "map": "Yellow Transept",
                                 "x": 247,
                                 "y": 357,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 855,
+                                "y": 316,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -699,7 +907,15 @@
                                 "map": "Yellow Transept",
                                 "x": 2250,
                                 "y": 1972,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 680,
+                                "y": 285,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -724,7 +940,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1359,
                                 "y": 1124,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 931,
+                                "y": 329,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -749,7 +973,15 @@
                                 "map": "Yellow Transept",
                                 "x": 387,
                                 "y": 1110,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 942,
+                                "y": 308,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -774,7 +1006,15 @@
                                 "map": "Yellow Transept",
                                 "x": 155,
                                 "y": 614,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 2",
+                                "x": 1168,
+                                "y": 183,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     }
@@ -810,7 +1050,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1540,
                                 "y": 1783,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 1061,
+                                "y": 438,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -835,7 +1083,15 @@
                                 "map": "Yellow Transept",
                                 "x": 704,
                                 "y": 1335,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 1119,
+                                "y": 261,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -860,7 +1116,15 @@
                                 "map": "Yellow Transept",
                                 "x": 971,
                                 "y": 1028,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 917,
+                                "y": 327,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -885,7 +1149,15 @@
                                 "map": "Yellow Transept",
                                 "x": 799,
                                 "y": 847,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 839,
+                                "y": 265,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -910,7 +1182,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1253,
                                 "y": 1695,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 1071,
+                                "y": 374,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -935,7 +1215,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1619,
                                 "y": 1963,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 1028,
+                                "y": 353,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -960,7 +1248,15 @@
                                 "map": "Yellow Transept",
                                 "x": 309,
                                 "y": 1142,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 861,
+                                "y": 294,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -985,7 +1281,15 @@
                                 "map": "Yellow Transept",
                                 "x": 433,
                                 "y": 2370,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 995,
+                                "y": 285,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1010,7 +1314,15 @@
                                 "map": "Yellow Transept",
                                 "x": 881,
                                 "y": 108,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 851,
+                                "y": 271,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1035,7 +1347,15 @@
                                 "map": "Yellow Transept",
                                 "x": 2126,
                                 "y": 697,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 816,
+                                "y": 250,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1060,7 +1380,15 @@
                                 "map": "Yellow Transept",
                                 "x": 2395,
                                 "y": 2175,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 1244,
+                                "y": 263,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1085,7 +1413,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1133,
                                 "y": 1348,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 1172,
+                                "y": 318,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1110,7 +1446,15 @@
                                 "map": "Yellow Transept",
                                 "x": 1346,
                                 "y": 1889,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 1156,
+                                "y": 294,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1135,7 +1479,15 @@
                                 "map": "Yellow Transept",
                                 "x": 675,
                                 "y": 2405,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Yellow Transept Layer 3",
+                                "x": 983,
+                                "y": 148,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     }
