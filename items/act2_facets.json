@@ -1,0 +1,130 @@
+[
+    {
+        "name": "primacupido",
+        "type": "toggle",
+        "img": "images/items/facets/act2/primacupido.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "primacupido"
+    },
+    {
+        "name": "asterashe(f)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/asterashe(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "asterashe(f)"
+    },
+    {
+        "name": "peerchariot(m)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/peerchariot(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "peerchariot(m)"
+    },
+    {
+        "name": "famyuchaser(f)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/famyuchaser(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "famyuchaser(f)"
+    },
+    {
+        "name": "magiaconcieri(f)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/magiaconcieri(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magiaconcieri(f)"
+    },
+    {
+        "name": "shinobushi(f)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/shinobushi(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shinobushi(f)"
+    },
+    {
+        "name": "famyuchaser(m)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/famyuchaser(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "famyuchaser(m)"
+    },
+    {
+        "name": "theatricaldolce(m)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/theatricaldolce(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "theatricaldolce(m)"
+    },
+    {
+        "name": "magiaconcieri(m)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/magiaconcieri(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magiaconcieri(m)"
+    },
+    {
+        "name": "wonderviande(f)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/wonderviande(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wonderviande(f)"
+    },
+    {
+        "name": "peerchariot(f)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/peerchariot(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "peerchariot(f)"
+    },
+    {
+        "name": "gothicgrattonia",
+        "type": "toggle",
+        "img": "images/items/facets/act2/gothicgrattonia.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gothicgrattonia"
+    },
+    {
+        "name": "asterashe(m)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/asterashe(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "asterashe(m)"
+    },
+    {
+        "name": "rapidraptor(f)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/rapidraptor(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rapidraptor(f)"
+    },
+    {
+        "name": "rapidraptor(m)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/rapidraptor(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rapidraptor(m)"
+    },
+    {
+        "name": "wonderviande(m)",
+        "type": "toggle",
+        "img": "images/items/facets/act2/wonderviande(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wonderviande(m)"
+    }
+]

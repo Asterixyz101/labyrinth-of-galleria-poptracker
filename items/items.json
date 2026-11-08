@@ -1,13 +1,5 @@
 [
     {
-        "name": "primacupido",
-        "type": "toggle",
-        "img": "images/items/primacupido.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "primacupido"
-    },
-    {
         "name": "highjump",
         "type": "toggle",
         "img": "images/items/highjump.png",
@@ -22,30 +14,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "darklight"
-    },
-    {
-        "name": "asterashe(f)",
-        "type": "toggle",
-        "img": "images/items/asterashe(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "asterashe(f)"
-    },
-    {
-        "name": "peerchariot(m)",
-        "type": "toggle",
-        "img": "images/items/peerchariot(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "peerchariot(m)"
-    },
-    {
-        "name": "famyuchaser(f)",
-        "type": "toggle",
-        "img": "images/items/famyuchaser(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "famyuchaser(f)"
     },
     {
         "name": "puppetparts",
@@ -70,29 +38,12 @@
         "codes": "cursedswampswimming"
     },
     {
-        "name": "magiaconcieri(f)",
-        "type": "toggle",
-        "img": "images/items/magiaconcieri(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "magiaconcieri(f)"
-    },
-    {
         "name": "shinelight",
         "type": "toggle",
         "img": "images/items/shinelight.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "shinelight"
-    },
-
-    {
-        "name": "shinobushi(f)",
-        "type": "toggle",
-        "img": "images/items/shinobushi(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinobushi(f)"
     },
     {
         "name": "shinobushi(m)",
@@ -103,36 +54,12 @@
         "codes": "shinobushi(m)"
     },
     {
-        "name": "famyuchaser(m)",
-        "type": "toggle",
-        "img": "images/items/famyuchaser(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "famyuchaser(m)"
-    },
-    {
-        "name": "theatricaldolce(m)",
-        "type": "toggle",
-        "img": "images/items/theatricaldolce(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "theatricaldolce(m)"
-    },
-    {
         "name": "theatricaldolce(f)",
         "type": "toggle",
         "img": "images/items/theatricaldolce(f).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "theatricaldolce(f)"
-    },
-    {
-        "name": "magiaconcieri(m)",
-        "type": "toggle",
-        "img": "images/items/magiaconcieri(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "magiaconcieri(m)"
     },
     {
         "name": "longjump",
@@ -143,68 +70,12 @@
         "codes": "longjump"
     },
     {
-        "name": "wonderviande(f)",
-        "type": "toggle",
-        "img": "images/items/wonderviande(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wonderviande(f)"
-    },
-    {
-        "name": "peerchariot(f)",
-        "type": "toggle",
-        "img": "images/items/peerchariot(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "peerchariot(f)"
-    },
-    {
-        "name": "gothicgrattonia",
-        "type": "toggle",
-        "img": "images/items/gothicgrattonia.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gothicgrattonia"
-    },
-    {
-        "name": "asterashe(m)",
-        "type": "toggle",
-        "img": "images/items/asterashe(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "asterashe(m)"
-    },
-    {
-        "name": "rapidraptor(f)",
-        "type": "toggle",
-        "img": "images/items/rapidraptor(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rapidraptor(f)"
-    },
-    {
-        "name": "rapidraptor(m)",
-        "type": "toggle",
-        "img": "images/items/rapidraptor(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rapidraptor(m)"
-    },
-    {
         "name": "act1completed",
         "type": "toggle",
         "img": "images/items/act1completed.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "act1completed"
-    },
-    {
-        "name": "wonderviande(m)",
-        "type": "toggle",
-        "img": "images/items/wonderviande(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wonderviande(m)"
     },
     {
         "name": "update",
