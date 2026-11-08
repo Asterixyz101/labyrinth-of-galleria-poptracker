@@ -1373,9 +1373,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 2",
-                                "x": 932,
-                                "y": 712,
-                                "size": 10,
+                                "x": 1520,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3564,9 +3564,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 5",
-                                "x": 664,
-                                "y": 509,
-                                "size": 10,
+                                "x": 1200,
+                                "y": 406,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -6197,9 +6197,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 8",
-                                "x": 1239,
-                                "y": 558,
-                                "size": 10,
+                                "x": 1200,
+                                "y": 406,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -7935,9 +7935,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Innermost Level",
-                                "x": 1494,
-                                "y": 484,
-                                "size": 10,
+                                "x": 1264,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]

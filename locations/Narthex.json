@@ -2524,9 +2524,9 @@
                         "map_locations": [
                             {
                                 "map": "Narthex B5",
-                                "x": 1327,
-                                "y": 399,
-                                "size": 10,
+                                "x": 1520,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
