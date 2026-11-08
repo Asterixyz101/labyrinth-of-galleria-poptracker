@@ -100,51 +100,6 @@
                         "Yellow Transept"
                     ]
                 }
-            },
-            {
-                "title": "Yellow Transept Layer 2 Chest 18X 7Y",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yellow Transept Layer 2 Chest 18X 7Y"
-                    ]
-                }
-            },
-            {
-                "title": "Yellow Transept Layer 2 Chest 20X 5Y",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yellow Transept Layer 2 Chest 20X 5Y"
-                    ]
-                }
-            },
-            {
-                "title": "Yellow Transept Layer 2 Chest 26X 10Y",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yellow Transept Layer 2 Chest 26X 10Y"
-                    ]
-                }
-            },
-            {
-                "title": "Yellow Transept Layer 2 Chest 26X 8Y",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yellow Transept Layer 2 Chest 26X 8Y"
-                    ]
-                }
-            },
-            {
-                "title": "Yellow Transept Layer 2 Curio Testorant 25X 12Y",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yellow Transept Layer 2 Curio Testorant 25X 12Y"
-                    ]
-                }
             }
         ]
     },
@@ -247,51 +202,6 @@
                     "type": "map",
                     "maps": [
                         "Yellow Transept"
-                    ]
-                }
-            },
-            {
-                "title": "Yellow Transept Layer 2 Chest 18X 7Y",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yellow Transept Layer 2 Chest 18X 7Y"
-                    ]
-                }
-            },
-            {
-                "title": "Yellow Transept Layer 2 Chest 20X 5Y",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yellow Transept Layer 2 Chest 20X 5Y"
-                    ]
-                }
-            },
-            {
-                "title": "Yellow Transept Layer 2 Chest 26X 10Y",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yellow Transept Layer 2 Chest 26X 10Y"
-                    ]
-                }
-            },
-            {
-                "title": "Yellow Transept Layer 2 Chest 26X 8Y",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yellow Transept Layer 2 Chest 26X 8Y"
-                    ]
-                }
-            },
-            {
-                "title": "Yellow Transept Layer 2 Curio Testorant 25X 12Y",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yellow Transept Layer 2 Curio Testorant 25X 12Y"
                     ]
                 }
             }

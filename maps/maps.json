@@ -64,35 +64,5 @@
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Yellow Transept.png"
-    },
-    {
-        "name": "Yellow Transept Layer 2 Chest 18X 7Y",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Yellow Transept Layer 2 Chest 18X 7Y.png"
-    },
-    {
-        "name": "Yellow Transept Layer 2 Chest 20X 5Y",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Yellow Transept Layer 2 Chest 20X 5Y.png"
-    },
-    {
-        "name": "Yellow Transept Layer 2 Chest 26X 10Y",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Yellow Transept Layer 2 Chest 26X 10Y.png"
-    },
-    {
-        "name": "Yellow Transept Layer 2 Chest 26X 8Y",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Yellow Transept Layer 2 Chest 26X 8Y.png"
-    },
-    {
-        "name": "Yellow Transept Layer 2 Curio Testorant 25X 12Y",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Yellow Transept Layer 2 Curio Testorant 25X 12Y.png"
     }
 ]

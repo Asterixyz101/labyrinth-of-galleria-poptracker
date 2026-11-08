@@ -661,8 +661,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1692,
-                        "y": 1836,
+                        "x": 1778,
+                        "y": 1052,
                         "size": 6
                     }
                 ]
@@ -1884,8 +1884,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2064,
-                        "y": 307,
+                        "x": 1056,
+                        "y": 1439,
                         "size": 6
                     }
                 ]
@@ -2039,8 +2039,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2030,
-                        "y": 2439,
+                        "x": 146,
+                        "y": 2184,
                         "size": 6
                     }
                 ]
@@ -2290,8 +2290,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1537,
-                        "y": 1605,
+                        "x": 1247,
+                        "y": 1203,
                         "size": 6
                     }
                 ]
@@ -2353,8 +2353,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1858,
-                        "y": 1688,
+                        "x": 1701,
+                        "y": 2114,
                         "size": 6
                     }
                 ]
@@ -2376,8 +2376,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2021,
-                        "y": 2428,
+                        "x": 758,
+                        "y": 925,
                         "size": 6
                     }
                 ]
@@ -2655,8 +2655,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1356,
-                        "y": 152,
+                        "x": 1114,
+                        "y": 1962,
                         "size": 6
                     }
                 ]
@@ -2698,8 +2698,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1323,
-                        "y": 1731,
+                        "x": 1063,
+                        "y": 1175,
                         "size": 6
                     }
                 ]
@@ -2797,8 +2797,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1533,
-                        "y": 2473,
+                        "x": 1692,
+                        "y": 2089,
                         "size": 6
                     }
                 ]
@@ -3536,8 +3536,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2305,
-                        "y": 646,
+                        "x": 2040,
+                        "y": 556,
                         "size": 6
                     }
                 ]
@@ -3652,6 +3652,26 @@
                         "ref": "Yellow Transept/Layer 2/Layer 2 Curio Giant Fire Lizard Egg 14X 23Y/"
                     },
                     {
+                        "name": "Layer 2 Chest 20X 5Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 20X 5Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 26X 8Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 26X 8Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 26X 10Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 26X 10Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 18X 7Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 18X 7Y/"
+                    },
+                    {
+                        "name": "Layer 2 Curio Testorant 25X 12Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Curio Testorant 25X 12Y/"
+                    },
+                    {
                         "name": "Layer 3 Chest 9X 14Y - ",
                         "ref": "Yellow Transept/Layer 3/Layer 3 Chest 9X 14Y/"
                     },
@@ -3711,123 +3731,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1174,
-                        "y": 1052,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Yellow Transept Layer 2 Chest 18X 7Y",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Yellow Transept Layer 2 Chest 18X 7Y - ",
-                        "ref": "Yellow Transept Layer 2 Chest 18X 7Y/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 2187,
-                        "y": 1739,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Yellow Transept Layer 2 Chest 20X 5Y",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Yellow Transept Layer 2 Chest 20X 5Y - ",
-                        "ref": "Yellow Transept Layer 2 Chest 20X 5Y/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 1808,
-                        "y": 1935,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Yellow Transept Layer 2 Chest 26X 10Y",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Yellow Transept Layer 2 Chest 26X 10Y - ",
-                        "ref": "Yellow Transept Layer 2 Chest 26X 10Y/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 152,
-                        "y": 379,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Yellow Transept Layer 2 Chest 26X 8Y",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Yellow Transept Layer 2 Chest 26X 8Y - ",
-                        "ref": "Yellow Transept Layer 2 Chest 26X 8Y/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 2022,
-                        "y": 2235,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Yellow Transept Layer 2 Curio Testorant 25X 12Y",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Yellow Transept Layer 2 Curio Testorant 25X 12Y - ",
-                        "ref": "Yellow Transept Layer 2 Curio Testorant 25X 12Y/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 836,
-                        "y": 1032,
+                        "x": 2239,
+                        "y": 2419,
                         "size": 6
                     }
                 ]
