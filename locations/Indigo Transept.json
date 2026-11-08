@@ -36,9 +36,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 970,
-                                "y": 452,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -62,9 +62,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 938,
-                                "y": 376,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -88,9 +88,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 923,
-                                "y": 290,
-                                "size": 10,
+                                "x": 1296,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -114,9 +114,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 888,
-                                "y": 246,
-                                "size": 10,
+                                "x": 1360,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -140,9 +140,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 1228,
-                                "y": 345,
-                                "size": 10,
+                                "x": 1296,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -166,9 +166,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 870,
-                                "y": 302,
-                                "size": 10,
+                                "x": 1360,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -192,9 +192,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 913,
-                                "y": 329,
-                                "size": 10,
+                                "x": 1424,
+                                "y": 470,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -218,9 +218,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 985,
-                                "y": 294,
-                                "size": 10,
+                                "x": 1424,
+                                "y": 406,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -244,9 +244,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 1022,
-                                "y": 320,
-                                "size": 10,
+                                "x": 1104,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -270,9 +270,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 925,
-                                "y": 318,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 406,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -296,9 +296,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 1065,
-                                "y": 314,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 470,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -322,9 +322,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 942,
-                                "y": 312,
-                                "size": 10,
+                                "x": 1232,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -374,9 +374,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 1080,
-                                "y": 444,
-                                "size": 10,
+                                "x": 1232,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -411,9 +411,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 1165,
-                                "y": 524,
-                                "size": 10,
+                                "x": 1552,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -437,9 +437,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 1409,
-                                "y": 581,
-                                "size": 10,
+                                "x": 1488,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -463,9 +463,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 1131,
-                                "y": 368,
-                                "size": 10,
+                                "x": 1488,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -489,9 +489,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 1826,
-                                "y": 612,
-                                "size": 10,
+                                "x": 1488,
+                                "y": 406,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -515,9 +515,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 782,
-                                "y": 334,
-                                "size": 10,
+                                "x": 1552,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -541,9 +541,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 709,
-                                "y": 360,
-                                "size": 10,
+                                "x": 1424,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -567,9 +567,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 564,
-                                "y": 317,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -593,9 +593,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 1369,
-                                "y": 501,
-                                "size": 10,
+                                "x": 1232,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -619,9 +619,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 1401,
-                                "y": 570,
-                                "size": 10,
+                                "x": 1232,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -645,9 +645,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 1191,
-                                "y": 518,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -671,9 +671,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 1364,
-                                "y": 538,
-                                "size": 10,
+                                "x": 1296,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -697,9 +697,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 1202,
-                                "y": 567,
-                                "size": 10,
+                                "x": 1456,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -723,9 +723,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 873,
-                                "y": 385,
-                                "size": 10,
+                                "x": 1360,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -749,9 +749,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 1324,
-                                "y": 598,
-                                "size": 10,
+                                "x": 1424,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -775,9 +775,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 518,
-                                "y": 433,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -801,9 +801,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 1321,
-                                "y": 598,
-                                "size": 10,
+                                "x": 1232,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -827,9 +827,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 530,
-                                "y": 476,
-                                "size": 10,
+                                "x": 1456,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -853,9 +853,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 913,
-                                "y": 365,
-                                "size": 10,
+                                "x": 1360,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -879,9 +879,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 530,
-                                "y": 328,
-                                "size": 10,
+                                "x": 1392,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -942,9 +942,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 995,
-                                "y": 394,
-                                "size": 10,
+                                "x": 1008,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -968,9 +968,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 890,
-                                "y": 357,
-                                "size": 10,
+                                "x": 1200,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -994,9 +994,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 978,
-                                "y": 428,
-                                "size": 10,
+                                "x": 1328,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1020,9 +1020,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1012,
-                                "y": 490,
-                                "size": 10,
+                                "x": 1360,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1046,9 +1046,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1174,
-                                "y": 504,
-                                "size": 10,
+                                "x": 1424,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1072,9 +1072,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 589,
-                                "y": 394,
-                                "size": 10,
+                                "x": 1264,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1098,9 +1098,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 836,
-                                "y": 476,
-                                "size": 10,
+                                "x": 1328,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1124,9 +1124,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1287,
-                                "y": 655,
-                                "size": 10,
+                                "x": 1168,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1150,9 +1150,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 884,
-                                "y": 589,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1202,9 +1202,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1182,
-                                "y": 652,
-                                "size": 10,
+                                "x": 1296,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1228,9 +1228,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1273,
-                                "y": 689,
-                                "size": 10,
+                                "x": 1008,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1254,9 +1254,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1344,
-                                "y": 674,
-                                "size": 10,
+                                "x": 1104,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1280,9 +1280,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1497,
-                                "y": 734,
-                                "size": 10,
+                                "x": 1168,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1306,9 +1306,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1151,
-                                "y": 683,
-                                "size": 10,
+                                "x": 1232,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1332,9 +1332,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1247,
-                                "y": 683,
-                                "size": 10,
+                                "x": 1296,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1358,9 +1358,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 813,
-                                "y": 680,
-                                "size": 10,
+                                "x": 1264,
+                                "y": 406,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1384,9 +1384,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1225,
-                                "y": 655,
-                                "size": 10,
+                                "x": 1456,
+                                "y": 406,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1410,9 +1410,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1018,
-                                "y": 592,
-                                "size": 10,
+                                "x": 1584,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1436,9 +1436,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1074,
-                                "y": 646,
-                                "size": 10,
+                                "x": 1584,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1462,9 +1462,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1205,
-                                "y": 666,
-                                "size": 10,
+                                "x": 1296,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1488,9 +1488,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1012,
-                                "y": 612,
-                                "size": 10,
+                                "x": 1264,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1514,9 +1514,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 967,
-                                "y": 575,
-                                "size": 10,
+                                "x": 1264,
+                                "y": 118,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1540,9 +1540,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 961,
-                                "y": 564,
-                                "size": 10,
+                                "x": 1200,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1566,9 +1566,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1072,
-                                "y": 677,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1592,9 +1592,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1043,
-                                "y": 652,
-                                "size": 10,
+                                "x": 1072,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1618,9 +1618,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 825,
-                                "y": 527,
-                                "size": 10,
+                                "x": 976,
+                                "y": 854,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1644,9 +1644,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 748,
-                                "y": 516,
-                                "size": 10,
+                                "x": 944,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1670,9 +1670,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1202,
-                                "y": 612,
-                                "size": 10,
+                                "x": 944,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1722,9 +1722,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 612,
-                                "y": 360,
-                                "size": 10,
+                                "x": 1456,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]

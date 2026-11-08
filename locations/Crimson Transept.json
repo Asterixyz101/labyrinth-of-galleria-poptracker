@@ -36,9 +36,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1364,
-                                "y": 470,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -62,9 +62,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 972,
-                                "y": 303,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 854,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -88,9 +88,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1114,
-                                "y": 345,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -114,9 +114,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1117,
-                                "y": 320,
-                                "size": 10,
+                                "x": 816,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -140,9 +140,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 856,
-                                "y": 363,
-                                "size": 10,
+                                "x": 944,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -166,9 +166,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1049,
-                                "y": 416,
-                                "size": 10,
+                                "x": 1008,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -192,9 +192,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1032,
-                                "y": 385,
-                                "size": 10,
+                                "x": 912,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -218,9 +218,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1001,
-                                "y": 416,
-                                "size": 10,
+                                "x": 912,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -244,9 +244,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1001,
-                                "y": 433,
-                                "size": 10,
+                                "x": 912,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -270,9 +270,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1290,
-                                "y": 484,
-                                "size": 10,
+                                "x": 1360,
+                                "y": 1014,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -296,9 +296,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1174,
-                                "y": 456,
-                                "size": 10,
+                                "x": 1648,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -322,9 +322,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1199,
-                                "y": 476,
-                                "size": 10,
+                                "x": 1648,
+                                "y": 982,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -348,9 +348,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 782,
-                                "y": 428,
-                                "size": 10,
+                                "x": 1648,
+                                "y": 1014,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -374,9 +374,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1378,
-                                "y": 496,
-                                "size": 10,
+                                "x": 944,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -400,9 +400,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1069,
-                                "y": 433,
-                                "size": 10,
+                                "x": 1008,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -426,9 +426,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1106,
-                                "y": 431,
-                                "size": 10,
+                                "x": 944,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -452,9 +452,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 754,
-                                "y": 442,
-                                "size": 10,
+                                "x": 1008,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -478,9 +478,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1185,
-                                "y": 462,
-                                "size": 10,
+                                "x": 1680,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -504,9 +504,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1083,
-                                "y": 484,
-                                "size": 10,
+                                "x": 1712,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -530,9 +530,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 944,
-                                "y": 456,
-                                "size": 10,
+                                "x": 1680,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -556,9 +556,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1072,
-                                "y": 513,
-                                "size": 10,
+                                "x": 1712,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -608,9 +608,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 938,
-                                "y": 470,
-                                "size": 10,
+                                "x": 1264,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -634,9 +634,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 870,
-                                "y": 431,
-                                "size": 10,
+                                "x": 1328,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -660,9 +660,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1029,
-                                "y": 453,
-                                "size": 10,
+                                "x": 1072,
+                                "y": 86,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -686,9 +686,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 595,
-                                "y": 394,
-                                "size": 10,
+                                "x": 1104,
+                                "y": 86,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -712,9 +712,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 907,
-                                "y": 431,
-                                "size": 10,
+                                "x": 1168,
+                                "y": 86,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -738,9 +738,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 691,
-                                "y": 402,
-                                "size": 10,
+                                "x": 1200,
+                                "y": 86,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -764,9 +764,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 984,
-                                "y": 416,
-                                "size": 10,
+                                "x": 944,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -790,9 +790,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 621,
-                                "y": 391,
-                                "size": 10,
+                                "x": 1008,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -816,9 +816,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 476,
-                                "y": 360,
-                                "size": 10,
+                                "x": 944,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -842,9 +842,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 952,
-                                "y": 326,
-                                "size": 10,
+                                "x": 1008,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -868,9 +868,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Great Labyrinth",
-                                "x": 1355,
-                                "y": 425,
-                                "size": 10,
+                                "x": 1392,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -905,9 +905,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1330,
-                                "y": 286,
-                                "size": 10,
+                                "x": 1520,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -931,9 +931,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1412,
-                                "y": 445,
-                                "size": 10,
+                                "x": 1008,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -957,9 +957,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 774,
-                                "y": 374,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -983,9 +983,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1508,
-                                "y": 479,
-                                "size": 10,
+                                "x": 1168,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1009,9 +1009,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1772,
-                                "y": 465,
-                                "size": 10,
+                                "x": 1200,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1035,9 +1035,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1355,
-                                "y": 484,
-                                "size": 10,
+                                "x": 1648,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1061,9 +1061,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 896,
-                                "y": 402,
-                                "size": 10,
+                                "x": 1648,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1113,9 +1113,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1259,
-                                "y": 431,
-                                "size": 10,
+                                "x": 1488,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1139,9 +1139,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1494,
-                                "y": 467,
-                                "size": 10,
+                                "x": 1520,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1165,9 +1165,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 360,
-                                "y": 249,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1191,9 +1191,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 802,
-                                "y": 363,
-                                "size": 10,
+                                "x": 848,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1217,9 +1217,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 646,
-                                "y": 280,
-                                "size": 10,
+                                "x": 1008,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1243,9 +1243,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1159,
-                                "y": 450,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1269,9 +1269,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1032,
-                                "y": 433,
-                                "size": 10,
+                                "x": 976,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1295,9 +1295,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 811,
-                                "y": 462,
-                                "size": 10,
+                                "x": 912,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1321,9 +1321,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1401,
-                                "y": 490,
-                                "size": 10,
+                                "x": 912,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1347,9 +1347,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 890,
-                                "y": 428,
-                                "size": 10,
+                                "x": 848,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1373,9 +1373,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1037,
-                                "y": 411,
-                                "size": 10,
+                                "x": 848,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1399,9 +1399,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 757,
-                                "y": 394,
-                                "size": 10,
+                                "x": 1744,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1425,9 +1425,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1313,
-                                "y": 527,
-                                "size": 10,
+                                "x": 1712,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1451,9 +1451,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 224,
-                                "y": 314,
-                                "size": 10,
+                                "x": 880,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1477,9 +1477,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 1148,
-                                "y": 476,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1503,9 +1503,9 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 910,
-                                "y": 320,
-                                "size": 10,
+                                "x": 1008,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]

@@ -36,9 +36,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 1215,
-                                "y": 432,
-                                "size": 10,
+                                "x": 1392,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -62,9 +62,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 1244,
-                                "y": 471,
-                                "size": 10,
+                                "x": 1520,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -88,9 +88,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 1073,
-                                "y": 292,
-                                "size": 10,
+                                "x": 1520,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -114,9 +114,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 1036,
-                                "y": 345,
-                                "size": 10,
+                                "x": 1360,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -140,9 +140,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 1275,
-                                "y": 399,
-                                "size": 10,
+                                "x": 1488,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -166,9 +166,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 857,
-                                "y": 320,
-                                "size": 10,
+                                "x": 1488,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -192,9 +192,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 966,
-                                "y": 353,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -218,9 +218,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 1219,
-                                "y": 501,
-                                "size": 10,
+                                "x": 1200,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -244,9 +244,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 1193,
-                                "y": 329,
-                                "size": 10,
+                                "x": 1232,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -270,9 +270,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 1094,
-                                "y": 320,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -296,9 +296,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 1219,
-                                "y": 341,
-                                "size": 10,
+                                "x": 1072,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -322,9 +322,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 1277,
-                                "y": 314,
-                                "size": 10,
+                                "x": 1072,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -385,9 +385,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 1018,
-                                "y": 436,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -411,9 +411,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 864,
-                                "y": 271,
-                                "size": 10,
+                                "x": 1104,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -437,9 +437,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 958,
-                                "y": 339,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -463,9 +463,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 1003,
-                                "y": 376,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -489,9 +489,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 1271,
-                                "y": 397,
-                                "size": 10,
+                                "x": 1200,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -515,9 +515,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 1045,
-                                "y": 351,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -541,9 +541,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 1351,
-                                "y": 384,
-                                "size": 10,
+                                "x": 1072,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -567,9 +567,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 964,
-                                "y": 333,
-                                "size": 10,
+                                "x": 1488,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -593,9 +593,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 1059,
-                                "y": 327,
-                                "size": 10,
+                                "x": 1520,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -619,9 +619,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 1110,
-                                "y": 322,
-                                "size": 10,
+                                "x": 1328,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -645,9 +645,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 1098,
-                                "y": 240,
-                                "size": 10,
+                                "x": 1296,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -697,9 +697,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 855,
-                                "y": 316,
-                                "size": 10,
+                                "x": 1424,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -723,9 +723,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 680,
-                                "y": 285,
-                                "size": 10,
+                                "x": 1616,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -749,9 +749,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 931,
-                                "y": 329,
-                                "size": 10,
+                                "x": 1616,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -775,9 +775,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 942,
-                                "y": 308,
-                                "size": 10,
+                                "x": 1360,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -838,9 +838,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 1061,
-                                "y": 438,
-                                "size": 10,
+                                "x": 1072,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -864,9 +864,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 1119,
-                                "y": 261,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -890,9 +890,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 917,
-                                "y": 327,
-                                "size": 10,
+                                "x": 1232,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -916,9 +916,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 839,
-                                "y": 265,
-                                "size": 10,
+                                "x": 1328,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -942,9 +942,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 1071,
-                                "y": 374,
-                                "size": 10,
+                                "x": 1232,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -968,9 +968,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 1028,
-                                "y": 353,
-                                "size": 10,
+                                "x": 1104,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -994,9 +994,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 861,
-                                "y": 294,
-                                "size": 10,
+                                "x": 1520,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1020,9 +1020,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 995,
-                                "y": 285,
-                                "size": 10,
+                                "x": 1328,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1046,9 +1046,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 851,
-                                "y": 271,
-                                "size": 10,
+                                "x": 1328,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1072,9 +1072,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 816,
-                                "y": 250,
-                                "size": 10,
+                                "x": 1360,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1124,9 +1124,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 1172,
-                                "y": 318,
-                                "size": 10,
+                                "x": 1136,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1150,9 +1150,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 1156,
-                                "y": 294,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1176,9 +1176,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 983,
-                                "y": 148,
-                                "size": 10,
+                                "x": 1072,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
