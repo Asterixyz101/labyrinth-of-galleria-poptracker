@@ -1,0 +1,90 @@
+[
+    {
+        "name": "marquischestkey",
+        "type": "toggle",
+        "img": "images/items/keys/act1_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "marquischestkey"
+    },
+    {
+        "name": "ashenchestkey",
+        "type": "toggle",
+        "img": "images/items/keys/act1_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ashenchestkey"
+    },
+    {
+        "name": "crimsonchestkey",
+        "type": "toggle",
+        "img": "images/items/keys/act1_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crimsonchestkey"
+    },
+    {
+        "name": "yellowchestkey",
+        "type": "toggle",
+        "img": "images/items/keys/act1_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yellowchestkey"
+    },
+    {
+        "name": "apsechestkey",
+        "type": "toggle",
+        "img": "images/items/keys/act1_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "apsechestkey"
+    },
+    {
+        "name": "apsechestkeyii",
+        "type": "toggle",
+        "img": "images/items/keys/act1_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "apsechestkeyii"
+    },
+    {
+        "name": "apsechestkeyiii",
+        "type": "toggle",
+        "img": "images/items/keys/act1_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "apsechestkeyiii"
+    },
+    {
+        "name": "narthexchestkey",
+        "type": "toggle",
+        "img": "images/items/keys/act1_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "narthexchestkey"
+    },
+    {
+        "name": "narthexchestkeyii",
+        "type": "toggle",
+        "img": "images/items/keys/act1_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "narthexchestkeyii"
+    },
+    {
+        "name": "suspiciouschestkey",
+        "type": "toggle",
+        "img": "images/items/keys/act1_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "suspiciouschestkey"
+    },
+    {
+        "name": "indigochestkey",
+        "type": "toggle",
+        "img": "images/items/keys/act1_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "indigochestkey"
+    }
+]

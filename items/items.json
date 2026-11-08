@@ -38,28 +38,12 @@
         "codes": "primacupido"
     },
     {
-        "name": "marquischestkey",
-        "type": "toggle",
-        "img": "images/items/marquischestkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "marquischestkey"
-    },
-    {
         "name": "shinobushi(m)",
         "type": "toggle",
         "img": "images/items/shinobushi(m).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "shinobushi(m)"
-    },
-    {
-        "name": "ashenchestkey",
-        "type": "toggle",
-        "img": "images/items/ashenchestkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ashenchestkey"
     },
     {
         "name": "highjump",
@@ -148,14 +132,6 @@
         "codes": "visitanightmareworld"
     },
     {
-        "name": "crimsonchestkey",
-        "type": "toggle",
-        "img": "images/items/crimsonchestkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "crimsonchestkey"
-    },
-    {
         "name": "progressivetalisman",
         "type": "consumable",
         "img": "images/items/progressivetalisman.png",
@@ -230,14 +206,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "peerfortress(m)"
-    },
-    {
-        "name": "yellowchestkey",
-        "type": "toggle",
-        "img": "images/items/yellowchestkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "yellowchestkey"
     },
     {
         "name": "rapidvenator(f)",
@@ -426,14 +394,6 @@
         "codes": "renamesoulpacts"
     },
     {
-        "name": "apsechestkeyiii",
-        "type": "toggle",
-        "img": "images/items/apsechestkeyiii.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "apsechestkeyiii"
-    },
-    {
         "name": "progressivestockpilexp",
         "type": "consumable",
         "img": "images/items/progressivestockpilexp.png",
@@ -468,14 +428,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "wondercorsair(m)"
-    },
-    {
-        "name": "narthexchestkeyii",
-        "type": "toggle",
-        "img": "images/items/narthexchestkeyii.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "narthexchestkeyii"
     },
     {
         "name": "theatricalstar(m)",
@@ -592,14 +544,6 @@
         "codes": "theatricaldolce(f)"
     },
     {
-        "name": "suspiciouschestkey",
-        "type": "toggle",
-        "img": "images/items/suspiciouschestkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "suspiciouschestkey"
-    },
-    {
         "name": "exorcise",
         "type": "toggle",
         "img": "images/items/exorcise.png",
@@ -636,14 +580,6 @@
         "codes": "progressiveindigotransept"
     },
     {
-        "name": "apsechestkeyii",
-        "type": "toggle",
-        "img": "images/items/apsechestkeyii.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "apsechestkeyii"
-    },
-    {
         "name": "magiaconcieri(m)",
         "type": "toggle",
         "img": "images/items/magiaconcieri(m).png",
@@ -672,14 +608,6 @@
         "overlay_font_size": 14,
         "overlay_background": "#000000",
         "codes": "progressiveeattastymeat"
-    },
-    {
-        "name": "narthexchestkey",
-        "type": "toggle",
-        "img": "images/items/narthexchestkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "narthexchestkey"
     },
     {
         "name": "wonderviande(f)",
@@ -750,14 +678,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "astercrow(f)"
-    },
-    {
-        "name": "indigochestkey",
-        "type": "toggle",
-        "img": "images/items/indigochestkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "indigochestkey"
     },
     {
         "name": "wallbreaker",
@@ -1010,14 +930,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "avoidenemiesaltogether"
-    },
-    {
-        "name": "apsechestkey",
-        "type": "toggle",
-        "img": "images/items/apsechestkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "apsechestkey"
     },
     {
         "name": "lureenemies",
