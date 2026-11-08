@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "Main Menu",
-                        "x": 1526,
-                        "y": 2157,
-                        "size": 6
+                        "x": 344,
+                        "y": 316,
+                        "size": 32,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -54,7 +55,8 @@
                         "map": "Main Menu",
                         "x": 2128,
                         "y": 478,
-                        "size": 6
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -77,9 +79,10 @@
                 "map_locations": [
                     {
                         "map": "Main Menu",
-                        "x": 242,
-                        "y": 1293,
-                        "size": 6
+                        "x": 127,
+                        "y": 58,
+                        "size": 32,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -102,9 +105,10 @@
                 "map_locations": [
                     {
                         "map": "Main Menu",
-                        "x": 856,
-                        "y": 2132,
-                        "size": 6
+                        "x": 192,
+                        "y": 58,
+                        "size": 32,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -127,9 +131,10 @@
                 "map_locations": [
                     {
                         "map": "Main Menu",
-                        "x": 183,
-                        "y": 956,
-                        "size": 6
+                        "x": 261,
+                        "y": 54,
+                        "size": 32,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -152,9 +157,10 @@
                 "map_locations": [
                     {
                         "map": "Main Menu",
-                        "x": 1847,
-                        "y": 754,
-                        "size": 6
+                        "x": 339,
+                        "y": 57,
+                        "size": 32,
+                        "shape": "rect"
                     }
                 ]
             }

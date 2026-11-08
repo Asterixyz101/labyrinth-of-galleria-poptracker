@@ -36,9 +36,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 2379,
-                                "y": 1989,
-                                "size": 6
+                                "x": 95,
+                                "y": 174,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -61,9 +62,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 2333,
-                                "y": 1461,
-                                "size": 6
+                                "x": 168,
+                                "y": 172,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -86,9 +88,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 2116,
-                                "y": 1042,
-                                "size": 6
+                                "x": 219,
+                                "y": 176,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -111,9 +114,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 532,
-                                "y": 586,
-                                "size": 6
+                                "x": 286,
+                                "y": 177,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -136,9 +140,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 674,
-                                "y": 489,
-                                "size": 6
+                                "x": 347,
+                                "y": 171,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -161,9 +166,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 1783,
-                                "y": 706,
-                                "size": 6
+                                "x": 397,
+                                "y": 171,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -186,9 +192,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 916,
-                                "y": 1437,
-                                "size": 6
+                                "x": 447,
+                                "y": 168,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -211,9 +218,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 346,
-                                "y": 264,
-                                "size": 6
+                                "x": 503,
+                                "y": 166,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -236,9 +244,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 529,
-                                "y": 730,
-                                "size": 6
+                                "x": 554,
+                                "y": 163,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -261,9 +270,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 2445,
-                                "y": 2047,
-                                "size": 6
+                                "x": 598,
+                                "y": 166,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -286,9 +296,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 1594,
-                                "y": 2235,
-                                "size": 6
+                                "x": 99,
+                                "y": 232,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -311,9 +322,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 450,
-                                "y": 389,
-                                "size": 6
+                                "x": 164,
+                                "y": 245,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -336,9 +348,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 704,
-                                "y": 267,
-                                "size": 6
+                                "x": 222,
+                                "y": 249,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -361,9 +374,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 1008,
-                                "y": 36,
-                                "size": 6
+                                "x": 286,
+                                "y": 246,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -386,9 +400,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 268,
-                                "y": 2055,
-                                "size": 6
+                                "x": 338,
+                                "y": 246,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -411,9 +426,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 1254,
-                                "y": 2136,
-                                "size": 6
+                                "x": 395,
+                                "y": 246,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -436,9 +452,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 632,
-                                "y": 492,
-                                "size": 6
+                                "x": 443,
+                                "y": 245,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -461,9 +478,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 1579,
-                                "y": 1049,
-                                "size": 6
+                                "x": 501,
+                                "y": 240,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -486,9 +504,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 452,
-                                "y": 1963,
-                                "size": 6
+                                "x": 548,
+                                "y": 242,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -511,9 +530,10 @@
                         "map_locations": [
                             {
                                 "map": "Memo",
-                                "x": 2000,
-                                "y": 876,
-                                "size": 6
+                                "x": 599,
+                                "y": 242,
+                                "size": 32,
+                                "shape": "rect"
                             }
                         ]
                     }
