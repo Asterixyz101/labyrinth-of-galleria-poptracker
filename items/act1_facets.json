@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Shinomashira(F)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/shinomashira(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shinomashira(f),act1facet"
+    },
+    {
+        "name": "Shinomashira(M)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/shinomashira(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shinomashira(m),act1facet"
+    },
+    {
+        "name": "Rapid Venator(F)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/rapidvenator(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rapidvenator(f),act1facet"
+    },
+    {
+        "name": "Rapid Venator(M)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/rapidvenator(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rapidvenator(m),act1facet"
+    },
+    {
+        "name": "Peer Fortress(F)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/peerfortress(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "peerfortress(f),act1facet"
+    },
+    {
+        "name": "Peer Fortress(M)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/peerfortress(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "peerfortress(m),act1facet"
+    },
+    {
+        "name": "Magia Maid(F)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/magiamaid(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magiamaid(f),act1facet"
+    },
+    {
+        "name": "Magia Maid(M)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/magiamaid(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magiamaid(m),act1facet"
+    },
+    {
+        "name": "Theatrical Star(F)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/theatricalstar(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "theatricalstar(f),act1facet"
+    },
+    {
+        "name": "Theatrical Star(M)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/theatricalstar(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "theatricalstar(m),act1facet"
+    },
+    {
+        "name": "Aster Crow(F)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/astercrow(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "astercrow(f),act1facet"
+    },
+    {
+        "name": "Aster Crow(M)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/astercrow(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "astercrow(m),act1facet"
+    },
+    {
+        "name": "Wonder Corsair(F)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/wondercorsair(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wondercorsair(f),act1facet"
+    },
+    {
+        "name": "Wonder Corsair(M)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/wondercorsair(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wondercorsair(m),act1facet"
+    },
+    {
+        "name": "Prima Reaper",
+        "type": "toggle",
+        "img": "images/items/facets/act1/primareaper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "primareaper,act1facet"
+    },
+    {
+        "name": "Gothic Coppelia",
+        "type": "toggle",
+        "img": "images/items/facets/act1/gothiccoppelia.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gothiccoppelia,act1facet"
+    },
+    {
+        "name": "Famyu Seeker(F)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/famyuseeker(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "famyuseeker(f),act1facet"
+    },
+    {
+        "name": "Famyu Seeker(M)",
+        "type": "toggle",
+        "img": "images/items/facets/act1/famyuseeker(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "famyuseeker(m),act1facet"
+    }
+]

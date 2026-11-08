@@ -8,14 +8,6 @@
         "codes": "primacupido"
     },
     {
-        "name": "shinobushi(m)",
-        "type": "toggle",
-        "img": "images/items/shinobushi(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinobushi(m)"
-    },
-    {
         "name": "highjump",
         "type": "toggle",
         "img": "images/items/highjump.png",
@@ -48,76 +40,12 @@
         "codes": "peerchariot(m)"
     },
     {
-        "name": "rapidraptor(f)",
-        "type": "toggle",
-        "img": "images/items/rapidraptor(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rapidraptor(f)"
-    },
-    {
         "name": "famyuchaser(f)",
         "type": "toggle",
         "img": "images/items/famyuchaser(f).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "famyuchaser(f)"
-    },
-    {
-        "name": "rapidraptor(m)",
-        "type": "toggle",
-        "img": "images/items/rapidraptor(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rapidraptor(m)"
-    },
-    {
-        "name": "primareaper",
-        "type": "toggle",
-        "img": "images/items/primareaper.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "primareaper"
-    },
-    {
-        "name": "peerfortress(f)",
-        "type": "toggle",
-        "img": "images/items/peerfortress(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "peerfortress(f)"
-    },
-    {
-        "name": "peerfortress(m)",
-        "type": "toggle",
-        "img": "images/items/peerfortress(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "peerfortress(m)"
-    },
-    {
-        "name": "rapidvenator(f)",
-        "type": "toggle",
-        "img": "images/items/rapidvenator(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rapidvenator(f)"
-    },
-    {
-        "name": "magiamaid(m)",
-        "type": "toggle",
-        "img": "images/items/magiamaid(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "magiamaid(m)"
-    },
-    {
-        "name": "shinomashira(f)",
-        "type": "toggle",
-        "img": "images/items/shinomashira(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinomashira(f)"
     },
     {
         "name": "puppetparts",
@@ -134,36 +62,12 @@
         "codes": "puppetparts"
     },
     {
-        "name": "magiamaid(f)",
-        "type": "toggle",
-        "img": "images/items/magiamaid(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "magiamaid(f)"
-    },
-    {
         "name": "cursedswampswimming",
         "type": "toggle",
         "img": "images/items/cursedswampswimming.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cursedswampswimming"
-    },
-    {
-        "name": "theatricalstar(f)",
-        "type": "toggle",
-        "img": "images/items/theatricalstar(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "theatricalstar(f)"
-    },
-    {
-        "name": "gothiccoppelia",
-        "type": "toggle",
-        "img": "images/items/gothiccoppelia.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gothiccoppelia"
     },
     {
         "name": "magiaconcieri(f)",
@@ -174,13 +78,14 @@
         "codes": "magiaconcieri(f)"
     },
     {
-        "name": "astercrow(m)",
+        "name": "shinelight",
         "type": "toggle",
-        "img": "images/items/astercrow(m).png",
+        "img": "images/items/shinelight.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "astercrow(m)"
+        "codes": "shinelight"
     },
+
     {
         "name": "shinobushi(f)",
         "type": "toggle",
@@ -190,52 +95,12 @@
         "codes": "shinobushi(f)"
     },
     {
-        "name": "shinelight",
+        "name": "shinobushi(m)",
         "type": "toggle",
-        "img": "images/items/shinelight.png",
+        "img": "images/items/shinobushi(m).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "shinelight"
-    },
-    {
-        "name": "rapidvenator(m)",
-        "type": "toggle",
-        "img": "images/items/rapidvenator(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rapidvenator(m)"
-    },
-    {
-        "name": "wondercorsair(m)",
-        "type": "toggle",
-        "img": "images/items/wondercorsair(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wondercorsair(m)"
-    },
-    {
-        "name": "theatricalstar(m)",
-        "type": "toggle",
-        "img": "images/items/theatricalstar(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "theatricalstar(m)"
-    },
-    {
-        "name": "famyuseeker(f)",
-        "type": "toggle",
-        "img": "images/items/famyuseeker(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "famyuseeker(f)"
-    },
-    {
-        "name": "shinomashira(m)",
-        "type": "toggle",
-        "img": "images/items/shinomashira(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinomashira(m)"
+        "codes": "shinobushi(m)"
     },
     {
         "name": "famyuchaser(m)",
@@ -261,7 +126,6 @@
         "overlay_align": "right",
         "codes": "theatricaldolce(f)"
     },
-
     {
         "name": "magiaconcieri(m)",
         "type": "toggle",
@@ -303,28 +167,28 @@
         "codes": "gothicgrattonia"
     },
     {
-        "name": "astercrow(f)",
-        "type": "toggle",
-        "img": "images/items/astercrow(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "astercrow(f)"
-    },
-    {
-        "name": "wondercorsair(f)",
-        "type": "toggle",
-        "img": "images/items/wondercorsair(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wondercorsair(f)"
-    },
-    {
         "name": "asterashe(m)",
         "type": "toggle",
         "img": "images/items/asterashe(m).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "asterashe(m)"
+    },
+    {
+        "name": "rapidraptor(f)",
+        "type": "toggle",
+        "img": "images/items/rapidraptor(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rapidraptor(f)"
+    },
+    {
+        "name": "rapidraptor(m)",
+        "type": "toggle",
+        "img": "images/items/rapidraptor(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rapidraptor(m)"
     },
     {
         "name": "act1completed",
@@ -341,14 +205,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "wonderviande(m)"
-    },
-    {
-        "name": "famyuseeker(m)",
-        "type": "toggle",
-        "img": "images/items/famyuseeker(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "famyuseeker(m)"
     },
     {
         "name": "update",
