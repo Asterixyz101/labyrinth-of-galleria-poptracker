@@ -1,22 +1,6 @@
 [
     {
-        "name": "highjump",
-        "type": "toggle",
-        "img": "images/items/highjump.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "highjump"
-    },
-    {
-        "name": "darklight",
-        "type": "toggle",
-        "img": "images/items/darklight.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "darklight"
-    },
-    {
-        "name": "puppetparts",
+        "name": "Puppet Parts",
         "type": "consumable",
         "img": "images/items/puppetparts.png",
         "min_quantity": 0,
@@ -30,31 +14,7 @@
         "codes": "puppetparts"
     },
     {
-        "name": "cursedswampswimming",
-        "type": "toggle",
-        "img": "images/items/cursedswampswimming.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cursedswampswimming"
-    },
-    {
-        "name": "shinelight",
-        "type": "toggle",
-        "img": "images/items/shinelight.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinelight"
-    },
-    {
-        "name": "longjump",
-        "type": "toggle",
-        "img": "images/items/longjump.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "longjump"
-    },
-    {
-        "name": "act1completed",
+        "name": "Act 1 Completed",
         "type": "toggle",
         "img": "images/items/act1completed.png",
         "initial_active_state": false,
@@ -62,7 +22,7 @@
         "codes": "act1completed"
     },
     {
-        "name": "update",
+        "name": "Update",
         "type": "toggle",
         "img": "images/items/update.png",
         "initial_active_state": false,

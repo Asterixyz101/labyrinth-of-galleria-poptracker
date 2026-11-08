@@ -1,0 +1,42 @@
+[
+    {
+        "name": "High Jump",
+        "type": "toggle",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "highjump"
+    },
+    {
+        "name": "Dark Light",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "darklight"
+    },
+    {
+        "name": "Cursed Swamp Swimming",
+        "type": "toggle",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cursedswampswimming"
+    },
+    {
+        "name": "Shine Light",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shinelight"
+    },
+    {
+        "name": "Long Jump",
+        "type": "toggle",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "longjump"
+    }
+]
