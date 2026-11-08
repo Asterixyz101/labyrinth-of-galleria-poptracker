@@ -35,13 +35,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1557,
-                                "y": 275,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 1590,
                                 "y": 465,
@@ -67,13 +60,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 495,
-                                "y": 1997,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 1288,
@@ -101,13 +87,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 794,
-                                "y": 805,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 796,
                                 "y": 242,
@@ -133,13 +112,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 703,
-                                "y": 1194,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 870,
@@ -167,13 +139,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2258,
-                                "y": 233,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 1490,
                                 "y": 444,
@@ -199,13 +164,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1649,
-                                "y": 596,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 1830,
@@ -233,13 +191,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1679,
-                                "y": 2482,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 1629,
                                 "y": 503,
@@ -265,13 +216,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 927,
-                                "y": 1744,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 1700,
@@ -299,13 +243,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 992,
-                                "y": 1189,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 1410,
                                 "y": 476,
@@ -331,13 +268,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1832,
-                                "y": 267,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 1238,
@@ -365,13 +295,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2389,
-                                "y": 827,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 1321,
                                 "y": 447,
@@ -397,13 +320,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1093,
-                                "y": 784,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 1330,
@@ -431,13 +347,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 555,
-                                "y": 899,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 648,
                                 "y": 281,
@@ -463,13 +372,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 330,
-                                "y": 31,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 1054,
@@ -497,13 +399,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1074,
-                                "y": 737,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 1273,
                                 "y": 512,
@@ -529,13 +424,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1459,
-                                "y": 1005,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 936,
@@ -563,13 +451,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2243,
-                                "y": 574,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 1353,
                                 "y": 334,
@@ -595,13 +476,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1987,
-                                "y": 694,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 1033,
@@ -629,13 +503,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1099,
-                                "y": 530,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 942,
                                 "y": 414,
@@ -661,13 +528,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2420,
-                                "y": 209,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 1475,
@@ -695,13 +555,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 841,
-                                "y": 374,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 1881,
                                 "y": 527,
@@ -727,13 +580,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1005,
-                                "y": 2040,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 977,
@@ -761,13 +607,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2021,
-                                "y": 758,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 936,
                                 "y": 331,
@@ -793,13 +632,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2041,
-                                "y": 1045,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 1300,
@@ -827,13 +659,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2143,
-                                "y": 224,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 1244,
                                 "y": 414,
@@ -859,13 +684,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1806,
-                                "y": 1844,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 1250,
@@ -893,13 +711,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 607,
-                                "y": 1488,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 1024,
                                 "y": 364,
@@ -926,13 +737,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 385,
-                                "y": 1717,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 1",
                                 "x": 1350,
                                 "y": 239,
@@ -958,13 +762,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 185,
-                                "y": 839,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 1",
                                 "x": 1087,
@@ -1003,13 +800,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 776,
-                                "y": 838,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 2",
                                 "x": 707,
                                 "y": 364,
@@ -1035,13 +825,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1166,
-                                "y": 231,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 2",
                                 "x": 825,
@@ -1069,13 +852,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1187,
-                                "y": 2230,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 2",
                                 "x": 794,
                                 "y": 379,
@@ -1101,13 +877,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2120,
-                                "y": 2004,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 2",
                                 "x": 816,
@@ -1135,13 +904,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 212,
-                                "y": 513,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 2",
                                 "x": 928,
                                 "y": 350,
@@ -1167,13 +929,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 831,
-                                "y": 1235,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 2",
                                 "x": 677,
@@ -1201,13 +956,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2382,
-                                "y": 2137,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 2",
                                 "x": 693,
                                 "y": 275,
@@ -1233,13 +981,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 860,
-                                "y": 2087,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 2",
                                 "x": 905,
@@ -1267,13 +1008,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 774,
-                                "y": 208,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 2",
                                 "x": 996,
                                 "y": 386,
@@ -1299,13 +1033,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1763,
-                                "y": 2219,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 2",
                                 "x": 650,
@@ -1333,13 +1060,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 988,
-                                "y": 453,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 2",
                                 "x": 714,
                                 "y": 361,
@@ -1365,13 +1085,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 141,
-                                "y": 2436,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 2",
                                 "x": 935,
@@ -1399,13 +1112,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1102,
-                                "y": 1875,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 2",
                                 "x": 916,
                                 "y": 445,
@@ -1431,13 +1137,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1046,
-                                "y": 2039,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 2",
                                 "x": 696,
@@ -1465,13 +1164,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 409,
-                                "y": 503,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 2",
                                 "x": 953,
                                 "y": 379,
@@ -1497,13 +1189,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1571,
-                                "y": 1454,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 2",
                                 "x": 764,
@@ -1531,13 +1216,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 212,
-                                "y": 2216,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 2",
                                 "x": 561,
                                 "y": 329,
@@ -1563,13 +1241,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 423,
-                                "y": 42,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 2",
                                 "x": 716,
@@ -1597,13 +1268,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2210,
-                                "y": 1992,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 2",
                                 "x": 1012,
                                 "y": 411,
@@ -1629,13 +1293,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1772,
-                                "y": 1410,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 2",
                                 "x": 1126,
@@ -1663,13 +1320,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 808,
-                                "y": 2160,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 2",
                                 "x": 1183,
                                 "y": 725,
@@ -1696,13 +1346,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1909,
-                                "y": 394,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 2",
                                 "x": 782,
                                 "y": 370,
@@ -1728,13 +1371,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 437,
-                                "y": 1551,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 2",
                                 "x": 932,
@@ -1773,13 +1409,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2022,
-                                "y": 2264,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 1126,
                                 "y": 568,
@@ -1805,13 +1434,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2266,
-                                "y": 2097,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 1262,
@@ -1839,13 +1461,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1096,
-                                "y": 858,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 1025,
                                 "y": 366,
@@ -1871,13 +1486,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1009,
-                                "y": 1289,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 1123,
@@ -1905,13 +1513,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1824,
-                                "y": 1721,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 875,
                                 "y": 373,
@@ -1937,13 +1538,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1488,
-                                "y": 1436,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 1014,
@@ -1971,13 +1565,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1267,
-                                "y": 2136,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 812,
                                 "y": 473,
@@ -2003,13 +1590,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1219,
-                                "y": 877,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 894,
@@ -2037,13 +1617,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 420,
-                                "y": 2473,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 928,
                                 "y": 500,
@@ -2069,13 +1642,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 340,
-                                "y": 1828,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 643,
@@ -2103,13 +1669,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2323,
-                                "y": 498,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 946,
                                 "y": 409,
@@ -2135,13 +1694,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2064,
-                                "y": 981,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 914,
@@ -2169,13 +1721,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 379,
-                                "y": 1329,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 1194,
                                 "y": 514,
@@ -2201,13 +1746,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 839,
-                                "y": 1653,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 985,
@@ -2235,13 +1773,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 414,
-                                "y": 634,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 1239,
                                 "y": 527,
@@ -2267,13 +1798,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1363,
-                                "y": 2486,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 944,
@@ -2301,13 +1825,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 155,
-                                "y": 477,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 875,
                                 "y": 464,
@@ -2333,13 +1850,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2366,
-                                "y": 1972,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 891,
@@ -2367,13 +1877,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2271,
-                                "y": 2323,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 1021,
                                 "y": 441,
@@ -2399,13 +1902,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 134,
-                                "y": 1416,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 819,
@@ -2433,13 +1929,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 613,
-                                "y": 78,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 1160,
                                 "y": 505,
@@ -2465,13 +1954,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 664,
-                                "y": 1700,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 787,
@@ -2499,13 +1981,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1017,
-                                "y": 1480,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 1055,
                                 "y": 441,
@@ -2531,13 +2006,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 514,
-                                "y": 702,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 1119,
@@ -2565,13 +2033,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2295,
-                                "y": 596,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 1036,
                                 "y": 373,
@@ -2597,13 +2058,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1796,
-                                "y": 2309,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 1150,
@@ -2631,13 +2085,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 479,
-                                "y": 522,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 1367,
                                 "y": 435,
@@ -2663,13 +2110,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 896,
-                                "y": 832,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 1002,
@@ -2697,13 +2137,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1462,
-                                "y": 915,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 1246,
                                 "y": 257,
@@ -2730,13 +2163,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1066,
-                                "y": 2224,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 3",
                                 "x": 1143,
                                 "y": 348,
@@ -2762,13 +2188,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 930,
-                                "y": 2274,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 3",
                                 "x": 1066,
@@ -2807,13 +2226,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1931,
-                                "y": 764,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 1269,
                                 "y": 457,
@@ -2839,13 +2251,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1293,
-                                "y": 1003,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 916,
@@ -2873,13 +2278,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 833,
-                                "y": 2064,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 969,
                                 "y": 270,
@@ -2905,13 +2303,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 779,
-                                "y": 2141,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 1114,
@@ -2939,13 +2330,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1765,
-                                "y": 2032,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 1251,
                                 "y": 245,
@@ -2971,13 +2355,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1746,
-                                "y": 379,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 1132,
@@ -3005,13 +2382,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2034,
-                                "y": 2394,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 1294,
                                 "y": 450,
@@ -3037,13 +2407,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2034,
-                                "y": 472,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 1180,
@@ -3071,13 +2434,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2296,
-                                "y": 1571,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 1431,
                                 "y": 459,
@@ -3103,13 +2459,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1290,
-                                "y": 1213,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 800,
@@ -3137,13 +2486,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1337,
-                                "y": 261,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 1121,
                                 "y": 505,
@@ -3169,13 +2511,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 643,
-                                "y": 861,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 944,
@@ -3203,13 +2538,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1743,
-                                "y": 980,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 1067,
                                 "y": 489,
@@ -3235,13 +2563,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2303,
-                                "y": 1548,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 1062,
@@ -3269,13 +2590,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1194,
-                                "y": 699,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 1180,
                                 "y": 514,
@@ -3301,13 +2615,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1042,
-                                "y": 1229,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 1135,
@@ -3335,13 +2642,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 579,
-                                "y": 437,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 1230,
                                 "y": 584,
@@ -3367,13 +2667,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 470,
-                                "y": 546,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 1260,
@@ -3401,13 +2694,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1632,
-                                "y": 1035,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 937,
                                 "y": 341,
@@ -3433,13 +2719,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1682,
-                                "y": 699,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 527,
@@ -3467,13 +2746,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 145,
-                                "y": 1112,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 1294,
                                 "y": 591,
@@ -3499,13 +2771,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2031,
-                                "y": 1219,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 1192,
@@ -3533,13 +2798,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1246,
-                                "y": 1274,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 982,
                                 "y": 530,
@@ -3565,13 +2823,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2032,
-                                "y": 1176,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 914,
@@ -3599,13 +2850,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 990,
-                                "y": 850,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 784,
                                 "y": 425,
@@ -3631,13 +2875,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 534,
-                                "y": 187,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 546,
@@ -3665,13 +2902,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1789,
-                                "y": 114,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 946,
                                 "y": 304,
@@ -3697,13 +2927,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 465,
-                                "y": 650,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 1035,
@@ -3731,13 +2954,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 871,
-                                "y": 2137,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 928,
                                 "y": 327,
@@ -3763,13 +2979,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1617,
-                                "y": 497,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 837,
@@ -3797,13 +3006,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 618,
-                                "y": 2129,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 4",
                                 "x": 976,
                                 "y": 311,
@@ -3829,13 +3031,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2054,
-                                "y": 760,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 4",
                                 "x": 1155,
@@ -3874,13 +3069,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 903,
-                                "y": 2254,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 1114,
                                 "y": 468,
@@ -3906,13 +3094,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1665,
-                                "y": 1508,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 691,
@@ -3940,13 +3121,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1565,
-                                "y": 1688,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 787,
                                 "y": 259,
@@ -3972,13 +3146,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1669,
-                                "y": 2024,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 739,
@@ -4006,13 +3173,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 571,
-                                "y": 2474,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 436,
                                 "y": 284,
@@ -4038,13 +3198,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 984,
-                                "y": 2400,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 439,
@@ -4072,13 +3225,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 700,
-                                "y": 2100,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 1374,
                                 "y": 450,
@@ -4104,13 +3250,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2182,
-                                "y": 2151,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 1249,
@@ -4138,13 +3277,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2074,
-                                "y": 956,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 1130,
                                 "y": 480,
@@ -4170,13 +3302,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2238,
-                                "y": 1098,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 652,
@@ -4204,13 +3329,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1655,
-                                "y": 1789,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 1383,
                                 "y": 511,
@@ -4236,13 +3354,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1268,
-                                "y": 2284,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 832,
@@ -4270,13 +3381,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1119,
-                                "y": 2111,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 552,
                                 "y": 379,
@@ -4302,13 +3406,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1780,
-                                "y": 842,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 771,
@@ -4336,13 +3433,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2248,
-                                "y": 1200,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 944,
                                 "y": 534,
@@ -4368,13 +3458,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2447,
-                                "y": 235,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 691,
@@ -4402,13 +3485,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1148,
-                                "y": 2271,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 1178,
                                 "y": 573,
@@ -4434,13 +3510,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 292,
-                                "y": 1879,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 534,
@@ -4468,13 +3537,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2240,
-                                "y": 998,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 739,
                                 "y": 523,
@@ -4500,13 +3562,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1953,
-                                "y": 131,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 664,
@@ -4534,13 +3589,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2336,
-                                "y": 1190,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 568,
                                 "y": 502,
@@ -4566,13 +3614,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1264,
-                                "y": 1599,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 550,
@@ -4600,13 +3641,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 574,
-                                "y": 1962,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 259,
                                 "y": 320,
@@ -4632,13 +3666,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1916,
-                                "y": 90,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 532,
@@ -4666,13 +3693,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2032,
-                                "y": 1826,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 605,
                                 "y": 370,
@@ -4698,13 +3718,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 138,
-                                "y": 1233,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 393,
@@ -4732,13 +3745,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2194,
-                                "y": 911,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 395,
                                 "y": 288,
@@ -4764,13 +3770,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1067,
-                                "y": 1180,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 361,
@@ -4798,13 +3797,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 954,
-                                "y": 2331,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 5",
                                 "x": 470,
                                 "y": 247,
@@ -4830,13 +3822,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1330,
-                                "y": 625,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 5",
                                 "x": 900,
@@ -4875,13 +3860,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 787,
-                                "y": 340,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 812,
                                 "y": 222,
@@ -4907,13 +3885,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 922,
-                                "y": 2336,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 809,
@@ -4941,13 +3912,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1919,
-                                "y": 2118,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 891,
                                 "y": 245,
@@ -4973,13 +3937,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2211,
-                                "y": 1224,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 778,
@@ -5007,13 +3964,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 74,
-                                "y": 2038,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 778,
                                 "y": 257,
@@ -5039,13 +3989,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 851,
-                                "y": 29,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 912,
@@ -5073,13 +4016,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1268,
-                                "y": 71,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 1005,
                                 "y": 439,
@@ -5105,13 +4041,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1490,
-                                "y": 392,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 948,
@@ -5139,13 +4068,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1838,
-                                "y": 523,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 1251,
                                 "y": 477,
@@ -5171,13 +4093,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 505,
-                                "y": 138,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 1101,
@@ -5205,13 +4120,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2389,
-                                "y": 165,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 716,
                                 "y": 441,
@@ -5237,13 +4145,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1065,
-                                "y": 309,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 1035,
@@ -5271,13 +4172,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 80,
-                                "y": 347,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 971,
                                 "y": 259,
@@ -5303,13 +4197,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1981,
-                                "y": 1478,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 837,
@@ -5337,13 +4224,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 298,
-                                "y": 1104,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 493,
                                 "y": 409,
@@ -5369,13 +4249,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 739,
-                                "y": 1209,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 919,
@@ -5403,13 +4276,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 949,
-                                "y": 253,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 1037,
                                 "y": 377,
@@ -5435,13 +4301,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 533,
-                                "y": 529,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 1019,
@@ -5469,13 +4328,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1643,
-                                "y": 2012,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 728,
                                 "y": 452,
@@ -5501,13 +4353,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1160,
-                                "y": 905,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 989,
@@ -5535,13 +4380,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1172,
-                                "y": 2105,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 689,
                                 "y": 393,
@@ -5567,13 +4405,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 947,
-                                "y": 482,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 1048,
@@ -5601,13 +4432,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 986,
-                                "y": 1732,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 814,
                                 "y": 352,
@@ -5633,13 +4457,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 751,
-                                "y": 990,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 853,
@@ -5667,13 +4484,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 787,
-                                "y": 1151,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 1067,
                                 "y": 423,
@@ -5699,13 +4509,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2284,
-                                "y": 1596,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 991,
@@ -5733,13 +4536,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 172,
-                                "y": 984,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 869,
                                 "y": 402,
@@ -5765,13 +4561,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 968,
-                                "y": 352,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 782,
@@ -5799,13 +4588,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 658,
-                                "y": 381,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 780,
                                 "y": 361,
@@ -5831,13 +4613,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 409,
-                                "y": 1517,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 200,
@@ -5865,13 +4640,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2357,
-                                "y": 2407,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 912,
                                 "y": 291,
@@ -5897,13 +4665,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 364,
-                                "y": 425,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 666,
@@ -5931,13 +4692,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 551,
-                                "y": 1735,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 812,
                                 "y": 320,
@@ -5963,13 +4717,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1582,
-                                "y": 560,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 832,
@@ -5997,13 +4744,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 579,
-                                "y": 984,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 596,
                                 "y": 252,
@@ -6029,13 +4769,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1094,
-                                "y": 989,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 716,
@@ -6063,13 +4796,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2012,
-                                "y": 1713,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 859,
                                 "y": 247,
@@ -6095,13 +4821,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 137,
-                                "y": 493,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 1046,
@@ -6129,13 +4848,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1183,
-                                "y": 1973,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 1023,
                                 "y": 300,
@@ -6161,13 +4873,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 455,
-                                "y": 1602,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 675,
@@ -6195,13 +4900,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1912,
-                                "y": 1011,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 6",
                                 "x": 1144,
                                 "y": 316,
@@ -6227,13 +4925,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1701,
-                                "y": 1045,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 6",
                                 "x": 1101,
@@ -6272,13 +4963,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1550,
-                                "y": 1038,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 1264,
                                 "y": 433,
@@ -6304,13 +4988,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1027,
-                                "y": 991,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 967,
@@ -6338,13 +5015,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2243,
-                                "y": 773,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 550,
                                 "y": 303,
@@ -6370,13 +5040,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 488,
-                                "y": 351,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 1080,
@@ -6404,13 +5067,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2039,
-                                "y": 1942,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 822,
                                 "y": 402,
@@ -6436,13 +5092,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 770,
-                                "y": 1532,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 836,
@@ -6470,13 +5119,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1865,
-                                "y": 2381,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 1418,
                                 "y": 445,
@@ -6502,13 +5144,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1766,
-                                "y": 873,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 825,
@@ -6536,13 +5171,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1771,
-                                "y": 977,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 794,
                                 "y": 490,
@@ -6568,13 +5196,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 936,
-                                "y": 2474,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 683,
@@ -6602,13 +5223,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1377,
-                                "y": 929,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 955,
                                 "y": 411,
@@ -6634,13 +5248,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 646,
-                                "y": 1359,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 1083,
@@ -6668,13 +5275,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1071,
-                                "y": 2322,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 1219,
                                 "y": 465,
@@ -6700,13 +5300,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1444,
-                                "y": 766,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 720,
@@ -6734,13 +5327,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 383,
-                                "y": 619,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 779,
                                 "y": 467,
@@ -6766,13 +5352,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1036,
-                                "y": 1210,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 765,
@@ -6800,13 +5379,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1706,
-                                "y": 747,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 870,
                                 "y": 448,
@@ -6832,13 +5404,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 179,
-                                "y": 448,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 570,
@@ -6866,13 +5431,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2108,
-                                "y": 39,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 984,
                                 "y": 484,
@@ -6898,13 +5456,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 985,
-                                "y": 1958,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 816,
@@ -6932,13 +5483,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 922,
-                                "y": 1377,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 726,
                                 "y": 516,
@@ -6964,13 +5508,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 643,
-                                "y": 1345,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 1023,
@@ -6998,13 +5535,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 270,
-                                "y": 2026,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 709,
                                 "y": 439,
@@ -7030,13 +5560,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 987,
-                                "y": 1031,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 893,
@@ -7064,13 +5587,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1410,
-                                "y": 312,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 913,
                                 "y": 436,
@@ -7096,13 +5612,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1636,
-                                "y": 1647,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 958,
@@ -7130,13 +5639,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2041,
-                                "y": 380,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 828,
                                 "y": 433,
@@ -7162,13 +5664,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1751,
-                                "y": 1333,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 904,
@@ -7196,13 +5691,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 288,
-                                "y": 1094,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 589,
                                 "y": 289,
@@ -7228,13 +5716,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 835,
-                                "y": 1951,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 1001,
@@ -7262,13 +5743,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2095,
-                                "y": 2143,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 774,
                                 "y": 524,
@@ -7294,13 +5768,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 80,
-                                "y": 894,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 1063,
@@ -7328,13 +5795,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 514,
-                                "y": 288,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 1114,
                                 "y": 385,
@@ -7360,13 +5820,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 160,
-                                "y": 1641,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 779,
@@ -7394,13 +5847,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 433,
-                                "y": 463,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 615,
                                 "y": 453,
@@ -7426,13 +5872,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 877,
-                                "y": 1667,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 694,
@@ -7460,13 +5899,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 266,
-                                "y": 567,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 1154,
                                 "y": 363,
@@ -7493,13 +5925,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 136,
-                                "y": 819,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 7",
                                 "x": 774,
                                 "y": 360,
@@ -7525,13 +5950,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2297,
-                                "y": 2490,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 7",
                                 "x": 1315,
@@ -7570,13 +5988,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 218,
-                                "y": 2403,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 8",
                                 "x": 1089,
                                 "y": 499,
@@ -7602,13 +6013,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1026,
-                                "y": 1435,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 8",
                                 "x": 890,
@@ -7636,13 +6040,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1673,
-                                "y": 1751,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 8",
                                 "x": 796,
                                 "y": 394,
@@ -7668,13 +6065,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1498,
-                                "y": 2379,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 8",
                                 "x": 1157,
@@ -7702,13 +6092,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 263,
-                                "y": 954,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 8",
                                 "x": 1072,
                                 "y": 360,
@@ -7734,13 +6117,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 930,
-                                "y": 2420,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 8",
                                 "x": 1083,
@@ -7768,13 +6144,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2282,
-                                "y": 139,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 8",
                                 "x": 819,
                                 "y": 433,
@@ -7800,13 +6169,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1835,
-                                "y": 1396,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 8",
                                 "x": 669,
@@ -7834,13 +6196,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1076,
-                                "y": 1028,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 8",
                                 "x": 1239,
                                 "y": 558,
@@ -7866,13 +6221,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 417,
-                                "y": 1522,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 8",
                                 "x": 791,
@@ -7900,13 +6248,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 283,
-                                "y": 1767,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 8",
                                 "x": 1037,
                                 "y": 462,
@@ -7932,13 +6273,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2309,
-                                "y": 642,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 8",
                                 "x": 927,
@@ -7966,13 +6300,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1984,
-                                "y": 647,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 8",
                                 "x": 921,
                                 "y": 479,
@@ -7998,13 +6325,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1424,
-                                "y": 2396,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 8",
                                 "x": 1063,
@@ -8032,13 +6352,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1453,
-                                "y": 545,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 8",
                                 "x": 1020,
                                 "y": 431,
@@ -8064,13 +6377,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2284,
-                                "y": 1290,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 8",
                                 "x": 714,
@@ -8098,13 +6404,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 537,
-                                "y": 2395,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 8",
                                 "x": 598,
                                 "y": 448,
@@ -8131,13 +6430,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1636,
-                                "y": 1215,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 8",
                                 "x": 955,
                                 "y": 504,
@@ -8163,13 +6455,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1187,
-                                "y": 831,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 8",
                                 "x": 830,
@@ -8208,13 +6493,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2098,
-                                "y": 2399,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 155,
                                 "y": 286,
@@ -8240,13 +6518,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 368,
-                                "y": 628,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 1125,
@@ -8274,13 +6545,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2142,
-                                "y": 1362,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1012,
                                 "y": 419,
@@ -8306,13 +6570,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2401,
-                                "y": 262,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 1483,
@@ -8340,13 +6597,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1077,
-                                "y": 2092,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1281,
                                 "y": 507,
@@ -8372,13 +6622,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1379,
-                                "y": 381,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 1259,
@@ -8406,13 +6649,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1817,
-                                "y": 381,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1352,
                                 "y": 482,
@@ -8438,13 +6674,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 288,
-                                "y": 1517,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 1429,
@@ -8472,13 +6701,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1758,
-                                "y": 114,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1114,
                                 "y": 479,
@@ -8504,13 +6726,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1713,
-                                "y": 360,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 1276,
@@ -8538,13 +6753,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1549,
-                                "y": 2238,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1412,
                                 "y": 581,
@@ -8570,13 +6778,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2049,
-                                "y": 410,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 972,
@@ -8604,13 +6805,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 948,
-                                "y": 1536,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1125,
                                 "y": 501,
@@ -8636,13 +6830,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1876,
-                                "y": 306,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 893,
@@ -8670,13 +6857,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 458,
-                                "y": 589,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1159,
                                 "y": 561,
@@ -8702,13 +6882,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 769,
-                                "y": 2342,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 1287,
@@ -8736,13 +6909,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1035,
-                                "y": 425,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1154,
                                 "y": 550,
@@ -8768,13 +6934,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1530,
-                                "y": 1961,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 408,
@@ -8802,13 +6961,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 407,
-                                "y": 1466,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 910,
                                 "y": 524,
@@ -8834,13 +6986,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1499,
-                                "y": 344,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 635,
@@ -8868,13 +7013,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 580,
-                                "y": 307,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 873,
                                 "y": 567,
@@ -8900,13 +7038,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 182,
-                                "y": 907,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 1037,
@@ -8934,13 +7065,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 395,
-                                "y": 2201,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 510,
                                 "y": 476,
@@ -8966,13 +7090,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1456,
-                                "y": 2499,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 984,
@@ -9000,13 +7117,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1599,
-                                "y": 2442,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1335,
                                 "y": 513,
@@ -9032,13 +7142,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1576,
-                                "y": 2043,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 1349,
@@ -9066,13 +7169,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1439,
-                                "y": 1756,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1236,
                                 "y": 408,
@@ -9098,13 +7194,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 831,
-                                "y": 542,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 1006,
@@ -9132,13 +7221,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 579,
-                                "y": 2470,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1111,
                                 "y": 397,
@@ -9164,13 +7246,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 637,
-                                "y": 2162,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 989,
@@ -9198,13 +7273,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1966,
-                                "y": 206,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1182,
                                 "y": 465,
@@ -9231,13 +7299,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2144,
-                                "y": 1234,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Floor 9",
                                 "x": 1055,
                                 "y": 450,
@@ -9263,13 +7324,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1277,
-                                "y": 1983,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Floor 9",
                                 "x": 1069,
@@ -9308,13 +7362,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2410,
-                                "y": 329,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Innermost Level",
                                 "x": 1080,
                                 "y": 289,
@@ -9340,13 +7387,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2272,
-                                "y": 1683,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Innermost Level",
                                 "x": 1188,
@@ -9374,13 +7414,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1180,
-                                "y": 771,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Innermost Level",
                                 "x": 1148,
                                 "y": 572,
@@ -9406,13 +7439,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 316,
-                                "y": 1935,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Innermost Level",
                                 "x": 1060,
@@ -9440,13 +7466,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2280,
-                                "y": 181,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Innermost Level",
                                 "x": 1020,
                                 "y": 402,
@@ -9472,13 +7491,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 759,
-                                "y": 398,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Innermost Level",
                                 "x": 1636,
@@ -9506,13 +7518,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 988,
-                                "y": 2405,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Innermost Level",
                                 "x": 1287,
                                 "y": 609,
@@ -9538,13 +7543,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 154,
-                                "y": 2174,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Innermost Level",
                                 "x": 1191,
@@ -9572,13 +7570,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2360,
-                                "y": 1905,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Innermost Level",
                                 "x": 1225,
                                 "y": 581,
@@ -9604,13 +7595,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1164,
-                                "y": 761,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Innermost Level",
                                 "x": 1083,
@@ -9638,13 +7622,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 745,
-                                "y": 2371,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Innermost Level",
                                 "x": 1026,
                                 "y": 442,
@@ -9670,13 +7647,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 354,
-                                "y": 2324,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Innermost Level",
                                 "x": 1026,
@@ -9704,13 +7674,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 2432,
-                                "y": 1951,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Innermost Level",
                                 "x": 1137,
                                 "y": 462,
@@ -9736,13 +7699,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1199,
-                                "y": 718,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Innermost Level",
                                 "x": 1023,
@@ -9770,13 +7726,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 908,
-                                "y": 842,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Innermost Level",
                                 "x": 1298,
                                 "y": 527,
@@ -9802,13 +7751,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2339,
-                                "y": 512,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Innermost Level",
                                 "x": 964,
@@ -9836,13 +7778,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1859,
-                                "y": 758,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Innermost Level",
                                 "x": 1069,
                                 "y": 518,
@@ -9868,13 +7803,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 2174,
-                                "y": 2352,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Innermost Level",
                                 "x": 998,
@@ -9902,13 +7830,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 769,
-                                "y": 1933,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Innermost Level",
                                 "x": 1069,
                                 "y": 507,
@@ -9934,13 +7855,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1196,
-                                "y": 1622,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Innermost Level",
                                 "x": 1174,
@@ -9968,13 +7882,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 1261,
-                                "y": 1772,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Innermost Level",
                                 "x": 1185,
                                 "y": 433,
@@ -10001,13 +7908,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Apse",
-                                "x": 951,
-                                "y": 358,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Apse Innermost Level",
                                 "x": 1165,
                                 "y": 280,
@@ -10033,13 +7933,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Apse",
-                                "x": 1478,
-                                "y": 2081,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Apse Innermost Level",
                                 "x": 1494,

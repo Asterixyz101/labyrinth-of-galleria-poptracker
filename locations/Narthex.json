@@ -35,13 +35,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1516,
-                                "y": 1391,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B1",
                                 "x": 808,
                                 "y": 157,
@@ -67,13 +60,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 892,
-                                "y": 146,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B1",
                                 "x": 890,
@@ -101,13 +87,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 399,
-                                "y": 176,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B1",
                                 "x": 783,
                                 "y": 380,
@@ -133,13 +112,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1274,
-                                "y": 935,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B1",
                                 "x": 937,
@@ -167,13 +139,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 416,
-                                "y": 100,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B1",
                                 "x": 776,
                                 "y": 591,
@@ -199,13 +164,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 396,
-                                "y": 1838,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B1",
                                 "x": 644,
@@ -233,13 +191,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1896,
-                                "y": 455,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B1",
                                 "x": 833,
                                 "y": 644,
@@ -265,13 +216,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1592,
-                                "y": 1404,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B1",
                                 "x": 877,
@@ -299,13 +243,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2386,
-                                "y": 1093,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B1",
                                 "x": 890,
                                 "y": 333,
@@ -331,13 +268,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1632,
-                                "y": 2117,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B1",
                                 "x": 861,
@@ -365,13 +295,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 790,
-                                "y": 1553,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B1",
                                 "x": 993,
                                 "y": 594,
@@ -397,13 +320,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 387,
-                                "y": 2278,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B1",
                                 "x": 1270,
@@ -431,13 +347,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1786,
-                                "y": 1585,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B1",
                                 "x": 1528,
                                 "y": 399,
@@ -463,13 +372,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1470,
-                                "y": 475,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B1",
                                 "x": 1695,
@@ -497,13 +399,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 218,
-                                "y": 2245,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B1",
                                 "x": 1355,
                                 "y": 754,
@@ -529,13 +424,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1400,
-                                "y": 2066,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B1",
                                 "x": 1242,
@@ -563,13 +451,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1850,
-                                "y": 228,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B1",
                                 "x": 1534,
                                 "y": 996,
@@ -595,13 +476,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 109,
-                                "y": 482,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B1",
                                 "x": 1745,
@@ -629,13 +503,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1477,
-                                "y": 1922,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B1",
                                 "x": 1679,
                                 "y": 792,
@@ -661,13 +528,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1276,
-                                "y": 1253,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B1",
                                 "x": 934,
@@ -695,13 +555,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 365,
-                                "y": 322,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B1",
                                 "x": 805,
                                 "y": 918,
@@ -728,13 +581,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1424,
-                                "y": 1878,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B1",
                                 "x": 864,
                                 "y": 820,
@@ -760,13 +606,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2398,
-                                "y": 584,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B1",
                                 "x": 1096,
@@ -805,13 +644,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1884,
-                                "y": 497,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B2",
                                 "x": 886,
                                 "y": 273,
@@ -837,13 +669,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1961,
-                                "y": 1908,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B2",
                                 "x": 1114,
@@ -871,13 +696,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2418,
-                                "y": 197,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B2",
                                 "x": 1283,
                                 "y": 276,
@@ -903,13 +721,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1999,
-                                "y": 767,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B2",
                                 "x": 1324,
@@ -937,13 +748,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1022,
-                                "y": 1572,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B2",
                                 "x": 1418,
                                 "y": 574,
@@ -969,13 +773,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1982,
-                                "y": 1017,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B2",
                                 "x": 1595,
@@ -1003,13 +800,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1051,
-                                "y": 2497,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B2",
                                 "x": 1539,
                                 "y": 419,
@@ -1035,13 +825,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 883,
-                                "y": 1201,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B2",
                                 "x": 1404,
@@ -1069,13 +852,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2348,
-                                "y": 1644,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B2",
                                 "x": 1087,
                                 "y": 835,
@@ -1101,13 +877,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 771,
-                                "y": 1591,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B2",
                                 "x": 1466,
@@ -1135,13 +904,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1443,
-                                "y": 245,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B2",
                                 "x": 1353,
                                 "y": 598,
@@ -1167,13 +929,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2005,
-                                "y": 2064,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B2",
                                 "x": 1216,
@@ -1201,13 +956,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 199,
-                                "y": 1130,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B2",
                                 "x": 1343,
                                 "y": 319,
@@ -1233,13 +981,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1207,
-                                "y": 2203,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B2",
                                 "x": 1197,
@@ -1267,13 +1008,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1220,
-                                "y": 419,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B2",
                                 "x": 889,
                                 "y": 475,
@@ -1299,13 +1033,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2119,
-                                "y": 1863,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B2",
                                 "x": 1372,
@@ -1333,13 +1060,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 288,
-                                "y": 2316,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B2",
                                 "x": 1377,
                                 "y": 295,
@@ -1365,13 +1085,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 225,
-                                "y": 2032,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B2",
                                 "x": 1426,
@@ -1399,13 +1112,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 982,
-                                "y": 1083,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B2",
                                 "x": 1345,
                                 "y": 432,
@@ -1431,13 +1137,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 688,
-                                "y": 1919,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B2",
                                 "x": 1407,
@@ -1465,13 +1164,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2284,
-                                "y": 1435,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B2",
                                 "x": 1351,
                                 "y": 362,
@@ -1498,13 +1190,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 189,
-                                "y": 942,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B2",
                                 "x": 1305,
                                 "y": 373,
@@ -1530,13 +1215,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 907,
-                                "y": 1487,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B2",
                                 "x": 1055,
@@ -1575,13 +1253,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2293,
-                                "y": 2340,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B3",
                                 "x": 782,
                                 "y": 380,
@@ -1607,13 +1278,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 36,
-                                "y": 2071,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B3",
                                 "x": 1403,
@@ -1641,13 +1305,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 353,
-                                "y": 751,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B3",
                                 "x": 1259,
                                 "y": 306,
@@ -1673,13 +1330,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2475,
-                                "y": 1362,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B3",
                                 "x": 867,
@@ -1707,13 +1357,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2269,
-                                "y": 956,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B3",
                                 "x": 1069,
                                 "y": 575,
@@ -1739,13 +1382,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 226,
-                                "y": 1944,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B3",
                                 "x": 1069,
@@ -1773,13 +1409,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1290,
-                                "y": 2114,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B3",
                                 "x": 1040,
                                 "y": 380,
@@ -1805,13 +1434,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1891,
-                                "y": 2459,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B3",
                                 "x": 1270,
@@ -1839,13 +1461,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 662,
-                                "y": 1236,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B3",
                                 "x": 1157,
                                 "y": 731,
@@ -1871,13 +1486,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1911,
-                                "y": 2159,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B3",
                                 "x": 1137,
@@ -1905,13 +1513,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 972,
-                                "y": 850,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B3",
                                 "x": 1284,
                                 "y": 629,
@@ -1937,13 +1538,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2330,
-                                "y": 123,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B3",
                                 "x": 1264,
@@ -1971,13 +1565,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1451,
-                                "y": 1574,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B3",
                                 "x": 1245,
                                 "y": 487,
@@ -2003,13 +1590,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 400,
-                                "y": 2133,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B3",
                                 "x": 1344,
@@ -2037,13 +1617,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2450,
-                                "y": 2156,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B3",
                                 "x": 1103,
                                 "y": 442,
@@ -2069,13 +1642,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1471,
-                                "y": 2475,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B3",
                                 "x": 1508,
@@ -2103,13 +1669,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2279,
-                                "y": 1689,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B3",
                                 "x": 1522,
                                 "y": 419,
@@ -2135,13 +1694,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1343,
-                                "y": 2132,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B3",
                                 "x": 1369,
@@ -2169,13 +1721,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2496,
-                                "y": 2402,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B3",
                                 "x": 1296,
                                 "y": 419,
@@ -2201,13 +1746,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 368,
-                                "y": 1301,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B3",
                                 "x": 1247,
@@ -2235,13 +1773,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 637,
-                                "y": 1642,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B3",
                                 "x": 1089,
                                 "y": 286,
@@ -2267,13 +1798,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2250,
-                                "y": 1642,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B3",
                                 "x": 1137,
@@ -2301,13 +1825,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1656,
-                                "y": 674,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B3",
                                 "x": 1057,
                                 "y": 260,
@@ -2333,13 +1850,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1069,
-                                "y": 928,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B3",
                                 "x": 1029,
@@ -2378,13 +1888,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2150,
-                                "y": 374,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B4",
                                 "x": 1107,
                                 "y": 343,
@@ -2410,13 +1913,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 902,
-                                "y": 2429,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B4",
                                 "x": 1078,
@@ -2444,13 +1940,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1095,
-                                "y": 1020,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B4",
                                 "x": 1030,
                                 "y": 456,
@@ -2476,13 +1965,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2473,
-                                "y": 1899,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B4",
                                 "x": 1081,
@@ -2510,13 +1992,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 669,
-                                "y": 1453,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B4",
                                 "x": 1140,
                                 "y": 450,
@@ -2542,13 +2017,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1473,
-                                "y": 1872,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B4",
                                 "x": 1161,
@@ -2576,13 +2044,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 345,
-                                "y": 2138,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B4",
                                 "x": 1024,
                                 "y": 331,
@@ -2608,13 +2069,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1286,
-                                "y": 1828,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B4",
                                 "x": 1010,
@@ -2642,13 +2096,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1604,
-                                "y": 2121,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B4",
                                 "x": 1030,
                                 "y": 562,
@@ -2674,13 +2121,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1135,
-                                "y": 2318,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B4",
                                 "x": 1433,
@@ -2708,13 +2148,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1350,
-                                "y": 1900,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B4",
                                 "x": 1457,
                                 "y": 393,
@@ -2740,13 +2173,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1797,
-                                "y": 223,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B4",
                                 "x": 1362,
@@ -2774,13 +2200,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 285,
-                                "y": 239,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B4",
                                 "x": 1303,
                                 "y": 308,
@@ -2806,13 +2225,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2145,
-                                "y": 2409,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B4",
                                 "x": 1324,
@@ -2840,13 +2252,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 729,
-                                "y": 2325,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B4",
                                 "x": 1069,
                                 "y": 785,
@@ -2872,13 +2277,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 370,
-                                "y": 2257,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B4",
                                 "x": 1501,
@@ -2906,13 +2304,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 492,
-                                "y": 1611,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B4",
                                 "x": 1493,
                                 "y": 322,
@@ -2938,13 +2329,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1652,
-                                "y": 747,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B4",
                                 "x": 1543,
@@ -2972,13 +2356,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 455,
-                                "y": 560,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B4",
                                 "x": 1507,
                                 "y": 619,
@@ -3004,13 +2381,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 169,
-                                "y": 428,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B4",
                                 "x": 1525,
@@ -3038,13 +2408,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1809,
-                                "y": 1548,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B4",
                                 "x": 1555,
                                 "y": 592,
@@ -3070,13 +2433,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1498,
-                                "y": 1615,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B4",
                                 "x": 1380,
@@ -3115,13 +2471,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 657,
-                                "y": 852,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B5",
                                 "x": 1250,
                                 "y": 479,
@@ -3147,13 +2496,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1657,
-                                "y": 1439,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B5",
                                 "x": 1333,
@@ -3181,13 +2523,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 261,
-                                "y": 303,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B5",
                                 "x": 1327,
                                 "y": 399,
@@ -3213,13 +2548,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 686,
-                                "y": 1176,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B5",
                                 "x": 1205,
@@ -3247,13 +2575,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1760,
-                                "y": 108,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B5",
                                 "x": 1042,
                                 "y": 521,
@@ -3279,13 +2600,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1422,
-                                "y": 257,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B5",
                                 "x": 1167,
@@ -3313,13 +2627,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 924,
-                                "y": 405,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B5",
                                 "x": 1285,
                                 "y": 722,
@@ -3345,13 +2652,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1851,
-                                "y": 1334,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B5",
                                 "x": 1528,
@@ -3379,13 +2679,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2199,
-                                "y": 74,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B5",
                                 "x": 1190,
                                 "y": 574,
@@ -3411,13 +2704,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1409,
-                                "y": 2014,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B5",
                                 "x": 1232,
@@ -3445,13 +2731,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2119,
-                                "y": 1105,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B5",
                                 "x": 1104,
                                 "y": 512,
@@ -3477,13 +2756,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2490,
-                                "y": 1408,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B5",
                                 "x": 1229,
@@ -3511,13 +2783,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1572,
-                                "y": 1187,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B5",
                                 "x": 1344,
                                 "y": 550,
@@ -3543,13 +2808,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 531,
-                                "y": 1517,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B5",
                                 "x": 1285,
@@ -3577,13 +2835,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2274,
-                                "y": 1836,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B5",
                                 "x": 1404,
                                 "y": 503,
@@ -3609,13 +2860,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 314,
-                                "y": 870,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B5",
                                 "x": 1448,
@@ -3643,13 +2887,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2335,
-                                "y": 1575,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B5",
                                 "x": 1294,
                                 "y": 438,
@@ -3675,13 +2912,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2476,
-                                "y": 864,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B5",
                                 "x": 1442,
@@ -3709,13 +2939,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 29,
-                                "y": 29,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B5",
                                 "x": 1519,
                                 "y": 435,
@@ -3741,13 +2964,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1033,
-                                "y": 1730,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B5",
                                 "x": 1445,
@@ -3775,13 +2991,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2216,
-                                "y": 1744,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B5",
                                 "x": 1448,
                                 "y": 370,
@@ -3808,13 +3017,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 809,
-                                "y": 1280,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B5",
                                 "x": 1389,
                                 "y": 305,
@@ -3840,13 +3042,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1802,
-                                "y": 1552,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B5",
                                 "x": 1297,
@@ -3885,13 +3080,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1114,
-                                "y": 1392,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 1170,
                                 "y": 441,
@@ -3917,13 +3105,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1472,
-                                "y": 1149,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 1336,
@@ -3951,13 +3132,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 509,
-                                "y": 958,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 1259,
                                 "y": 396,
@@ -3983,13 +3157,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 654,
-                                "y": 775,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 1558,
@@ -4017,13 +3184,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 580,
-                                "y": 2442,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 1507,
                                 "y": 583,
@@ -4049,13 +3209,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 846,
-                                "y": 1360,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 604,
@@ -4083,13 +3236,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2091,
-                                "y": 1633,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 1407,
                                 "y": 657,
@@ -4115,13 +3261,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 430,
-                                "y": 1128,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 1125,
@@ -4149,13 +3288,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1490,
-                                "y": 2328,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 776,
                                 "y": 352,
@@ -4181,13 +3313,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 595,
-                                "y": 1295,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 408,
@@ -4215,13 +3340,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1942,
-                                "y": 1276,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 998,
                                 "y": 574,
@@ -4247,13 +3365,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 767,
-                                "y": 273,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 841,
@@ -4281,13 +3392,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1960,
-                                "y": 2025,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 1312,
                                 "y": 559,
@@ -4313,13 +3417,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2416,
-                                "y": 1577,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 915,
@@ -4347,13 +3444,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 988,
-                                "y": 659,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 876,
                                 "y": 559,
@@ -4379,13 +3469,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2465,
-                                "y": 2240,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 1353,
@@ -4413,13 +3496,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1121,
-                                "y": 1090,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 950,
                                 "y": 589,
@@ -4445,13 +3521,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1106,
-                                "y": 706,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 989,
@@ -4479,13 +3548,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 32,
-                                "y": 1291,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 1104,
                                 "y": 553,
@@ -4511,13 +3573,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1170,
-                                "y": 941,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 1101,
@@ -4545,13 +3600,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 199,
-                                "y": 361,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 1140,
                                 "y": 580,
@@ -4577,13 +3625,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 876,
-                                "y": 1492,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 734,
@@ -4611,13 +3652,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1819,
-                                "y": 55,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 462,
                                 "y": 450,
@@ -4643,13 +3677,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2205,
-                                "y": 2286,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 598,
@@ -4677,13 +3704,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2173,
-                                "y": 1290,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 847,
                                 "y": 571,
@@ -4710,13 +3730,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2398,
-                                "y": 898,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B6",
                                 "x": 681,
                                 "y": 518,
@@ -4742,13 +3755,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2091,
-                                "y": 568,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B6",
                                 "x": 888,
@@ -4787,13 +3793,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 2134,
-                                "y": 2472,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 1181,
                                 "y": 468,
@@ -4819,13 +3818,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 148,
-                                "y": 107,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 826,
@@ -4853,13 +3845,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1603,
-                                "y": 1421,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 862,
                                 "y": 367,
@@ -4885,13 +3870,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 735,
-                                "y": 1143,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 1537,
@@ -4919,13 +3897,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 197,
-                                "y": 1545,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 989,
                                 "y": 382,
@@ -4951,13 +3922,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 475,
-                                "y": 498,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 817,
@@ -4985,13 +3949,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 818,
-                                "y": 587,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 1045,
                                 "y": 447,
@@ -5017,13 +3974,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1212,
-                                "y": 2362,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 1475,
@@ -5051,13 +4001,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1292,
-                                "y": 1719,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 1368,
                                 "y": 577,
@@ -5083,13 +4026,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1802,
-                                "y": 1502,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 1202,
@@ -5117,13 +4053,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 324,
-                                "y": 2090,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 1113,
                                 "y": 553,
@@ -5149,13 +4078,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1536,
-                                "y": 1929,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 1309,
@@ -5183,13 +4105,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 555,
-                                "y": 247,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 1401,
                                 "y": 610,
@@ -5215,13 +4130,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 118,
-                                "y": 1349,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 1267,
@@ -5249,13 +4157,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 235,
-                                "y": 1138,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 1101,
                                 "y": 550,
@@ -5281,13 +4182,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1667,
-                                "y": 23,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 1312,
@@ -5315,13 +4209,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 153,
-                                "y": 1909,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 1051,
                                 "y": 562,
@@ -5347,13 +4234,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2176,
-                                "y": 404,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 1013,
@@ -5381,13 +4261,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 707,
-                                "y": 1101,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 865,
                                 "y": 536,
@@ -5413,13 +4286,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2470,
-                                "y": 454,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 1113,
@@ -5447,13 +4313,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1709,
-                                "y": 499,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 1244,
                                 "y": 592,
@@ -5479,13 +4338,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1698,
-                                "y": 1026,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 1036,
@@ -5513,13 +4365,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 315,
-                                "y": 1034,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 1170,
                                 "y": 613,
@@ -5545,13 +4390,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 366,
-                                "y": 2230,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 1090,
@@ -5579,13 +4417,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 848,
-                                "y": 2376,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 1256,
                                 "y": 577,
@@ -5611,13 +4442,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 720,
-                                "y": 1725,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 847,
@@ -5645,13 +4469,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 460,
-                                "y": 84,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 844,
                                 "y": 539,
@@ -5677,13 +4494,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 2190,
-                                "y": 230,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 782,
@@ -5711,13 +4521,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 752,
-                                "y": 31,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 974,
                                 "y": 411,
@@ -5743,13 +4546,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1848,
-                                "y": 983,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 956,
@@ -5777,13 +4573,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 1624,
-                                "y": 83,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 669,
                                 "y": 302,
@@ -5809,13 +4598,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1673,
-                                "y": 507,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 782,
@@ -5843,13 +4625,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 801,
-                                "y": 2379,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 1033,
                                 "y": 432,
@@ -5875,13 +4650,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1200,
-                                "y": 1131,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 980,
@@ -5909,13 +4677,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 541,
-                                "y": 1524,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 980,
                                 "y": 577,
@@ -5941,13 +4702,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1245,
-                                "y": 909,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 977,
@@ -5975,13 +4729,6 @@
                         ],
                         "map_locations": [
                             {
-                                "map": "Narthex",
-                                "x": 430,
-                                "y": 949,
-                                "size": 6,
-                                "shape": "rect"
-                            },
-                            {
                                 "map": "Narthex B7",
                                 "x": 891,
                                 "y": 601,
@@ -6007,13 +4754,6 @@
                             }
                         ],
                         "map_locations": [
-                            {
-                                "map": "Narthex",
-                                "x": 1113,
-                                "y": 830,
-                                "size": 6,
-                                "shape": "rect"
-                            },
                             {
                                 "map": "Narthex B7",
                                 "x": 752,
