@@ -3,60 +3,6 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Apartments",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Apartments"
-                    ]
-                }
-            },
-            {
-                "title": "Apse",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Apse"
-                    ]
-                }
-            },
-            {
-                "title": "Chancel",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Chancel"
-                    ]
-                }
-            },
-            {
-                "title": "Crimson Transept",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Crimson Transept"
-                    ]
-                }
-            },
-            {
-                "title": "Event",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Event"
-                    ]
-                }
-            },
-            {
-                "title": "Indigo Transept",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Indigo Transept"
-                    ]
-                }
-            },
-            {
                 "title": "Main Menu",
                 "content": {
                     "type": "map",
@@ -66,124 +12,335 @@
                 }
             },
             {
-                "title": "Memo",
+                "title": "Act 1",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Memo"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Narthex",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "B1",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Narthex B1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "B2",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Narthex B2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "B3",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Narthex B3"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "B4",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Narthex B4"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "B5",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Narthex B5"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "B6",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Narthex B6"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "B7",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Narthex B7"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Apse",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Floor 1",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Apse Floor 1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Floor 2",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Apse Floor 2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Floor 3",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Apse Floor 3"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Floor 4",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Apse Floor 4"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Floor 5",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Apse Floor 5"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Floor 6",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Apse Floor 6"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Floor 7",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Apse Floor 7"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Floor 8",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Apse Floor 8"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Floor 9",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Apse Floor 9"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Innermost Level",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Apse Innermost Level"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Yellow Transept",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Layer 1",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Yellow Transept Layer 1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Layer 2",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Yellow Transept Layer 2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Layer 3",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Yellow Transept Layer 3"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Indigo Transept",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Waterway 1",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Indigo Transept Waterway 1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Waterway 2",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Indigo Transept Waterway 2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Waterway 3",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Indigo Transept Waterway 3"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Crimson Transept",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Great Labyrinth",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Crimson Transept Great Labyrinth"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Underground",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Crimson Transept Underground"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Chancel",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Grand Necrohall",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Chancel Grand Necrohall"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Necrohall Lower",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Chancel Necrohall Lower"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Memo",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Memo"
+                                ]
+                            }
+                        }
                     ]
                 }
             },
             {
-                "title": "Narthex",
+                "title": "Act 2",
                 "content": {
-                    "type": "map",
-                    "maps": [
-                        "Narthex"
-                    ]
-                }
-            },
-            {
-                "title": "Yellow Transept",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yellow Transept"
-                    ]
-                }
-            }
-        ]
-    },
-    "tabbed_maps_vertical": {
-        "type": "tabbed",
-        "tabs": [
-            {
-                "title": "Apartments",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Apartments"
-                    ]
-                }
-            },
-            {
-                "title": "Apse",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Apse"
-                    ]
-                }
-            },
-            {
-                "title": "Chancel",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Chancel"
-                    ]
-                }
-            },
-            {
-                "title": "Crimson Transept",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Crimson Transept"
-                    ]
-                }
-            },
-            {
-                "title": "Event",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Event"
-                    ]
-                }
-            },
-            {
-                "title": "Indigo Transept",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Indigo Transept"
-                    ]
-                }
-            },
-            {
-                "title": "Main Menu",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Main Menu"
-                    ]
-                }
-            },
-            {
-                "title": "Memo",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Memo"
-                    ]
-                }
-            },
-            {
-                "title": "Narthex",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Narthex"
-                    ]
-                }
-            },
-            {
-                "title": "Yellow Transept",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Yellow Transept"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Apartments",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Apartments",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Apartments"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
                     ]
                 }
             }
