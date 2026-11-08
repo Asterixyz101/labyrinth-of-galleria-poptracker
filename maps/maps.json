@@ -1,62 +1,182 @@
 [
     {
-        "name": "Apartments",
+        "name": "Memo",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Apartments.png"
-    },
-    {
-        "name": "Apse",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Apse.png"
-    },
-    {
-        "name": "Chancel",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Chancel.png"
-    },
-    {
-        "name": "Crimson Transept",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Crimson Transept.png"
-    },
-    {
-        "name": "Event",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Event.png"
-    },
-    {
-        "name": "Indigo Transept",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Indigo Transept.png"
+        "img": "images/maps/Misc/Memo.png"
     },
     {
         "name": "Main Menu",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Main Menu.png"
+        "img": "images/maps/Misc/Main Menu.png"
     },
     {
-        "name": "Memo",
+        "name": "Narthex B1",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Memo.png"
+        "img": "images/maps/Narthex/B1.png"
     },
     {
-        "name": "Narthex",
+        "name": "Narthex B2",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Narthex.png"
+        "img": "images/maps/Narthex/B2.png"
     },
     {
-        "name": "Yellow Transept",
+        "name": "Narthex B3",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Yellow Transept.png"
+        "img": "images/maps/Narthex/B3.png"
+    },
+    {
+        "name": "Narthex B4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Narthex/B4.png"
+    },
+    {
+        "name": "Narthex B5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Narthex/B5.png"
+    },
+    {
+        "name": "Narthex B6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Narthex/B6.png"
+    },
+    {
+        "name": "Narthex B7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Narthex/B7.png"
+    },
+    {
+        "name": "Apse Floor 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apse/Floor 1.png"
+    },
+    {
+        "name": "Apse Floor 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apse/Floor 2.png"
+    },
+    {
+        "name": "Apse Floor 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apse/Floor 3.png"
+    },
+    {
+        "name": "Apse Floor 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apse/Floor 4.png"
+    },
+    {
+        "name": "Apse Floor 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apse/Floor 5.png"
+    },
+    {
+        "name": "Apse Floor 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apse/Floor 6.png"
+    },
+    {
+        "name": "Apse Floor 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apse/Floor 7.png"
+    },
+    {
+        "name": "Apse Floor 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apse/Floor 8.png"
+    },
+    {
+        "name": "Apse Floor 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apse/Floor 9.png"
+    },
+    {
+        "name": "Apse Innermost Level",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apse/Innermost Level.png"
+    },
+    {
+        "name": "Yellow Transept Layer 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Yellow Transept/Layer 1.png"
+    },
+    {
+        "name": "Yellow Transept Layer 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Yellow Transept/Layer 2.png"
+    },
+    {
+        "name": "Yellow Transept Layer 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Yellow Transept/Layer 3.png"
+    },
+    {
+        "name": "Indigo Transept Waterway 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Indigo Transept/Waterway 1.png"
+    },
+    {
+        "name": "Indigo Transept Waterway 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Indigo Transept/Waterway 2.png"
+    },
+    {
+        "name": "Indigo Transept Waterway 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Indigo Transept/Waterway 3.png"
+    },
+    {
+        "name": "Crimson Transept Great Labyrinth",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Crimson Transept/Great Labyrinth.png"
+    },
+    {
+        "name": "Crimson Transept Underground",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Crimson Transept/Underground.png"
+    },
+    {
+        "name": "Chancel Grand Necrohall",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Chancel/Grand Necrohall.png"
+    },
+    {
+        "name": "Chancel Necrohall Lower",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Chancel/Necrohall Lower.png"
+    },
+    {
+        "name": "Apartments",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apartments/Apartments.png"
     }
 ]
