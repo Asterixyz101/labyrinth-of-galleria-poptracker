@@ -47,7 +47,7 @@
         "overlay_align": "right",
         "codes": "shinobushi(f)"
     },
-        {
+    {
         "name": "shinobushi(m)",
         "type": "toggle",
         "img": "images/items/shinobushi(m).png",
