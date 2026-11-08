@@ -1,0 +1,460 @@
+[
+    {
+        "name": "unsealingritual",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_question.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "unsealingritual"
+    },
+    {
+        "name": "galleriacatalog",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_question.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "galleriacatalog"
+    },
+    {
+        "name": "visitagentleworld",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "visitagentleworld"
+    },
+        {
+        "name": "visitanightmareworld",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "visitanightmareworld"
+    },
+    {
+        "name": "progressivestartleenemies",
+        "type": "consumable",
+        "img": "images/items/witch_petition/red_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivestartleenemies"
+    },
+    {
+        "name": "progressivepost-battlerecovery",
+        "type": "consumable",
+        "img": "images/items/witch_petition/red_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivepost-battlerecovery"
+    },
+    {
+        "name": "immortality",
+        "type": "toggle",
+        "img": "images/items/witch_petition/red_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "immortality"
+    },
+    {
+        "name": "progressivetalisman",
+        "type": "consumable",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivetalisman"
+    },
+    {
+        "name": "userfoffensively",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "userfoffensively"
+    },
+    {
+        "name": "progressiveincreasetravelrange",
+        "type": "consumable",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveincreasetravelrange"
+    },
+    {
+        "name": "footwear",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "footwear"
+    },
+    {
+        "name": "userfdefensively",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "userfdefensively"
+    },
+    {
+        "name": "leavesnotesatwill",
+        "type": "toggle",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leavesnotesatwill"
+    },
+    {
+        "name": "progressivemorerewards",
+        "type": "consumable",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivemorerewards"
+    },
+    {
+        "name": "progressivestopenemies",
+        "type": "consumable",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivestopenemies"
+    },
+    {
+        "name": "renamesoulpacts",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "renamesoulpacts"
+    },
+    {
+        "name": "progressivestockpilexp",
+        "type": "consumable",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivestockpilexp"
+    },
+    {
+        "name": "progressiveescapebattleseasier",
+        "type": "consumable",
+        "img": "images/items/witch_petition/red_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveescapebattleseasier"
+    },
+    {
+        "name": "possess",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "possess"
+    },
+    {
+        "name": "dodgepitfalls",
+        "type": "toggle",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dodgepitfalls"
+    },
+    {
+        "name": "hastyrfuse",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hastyrfuse"
+    },
+    {
+        "name": "progressiveswimming",
+        "type": "consumable",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveswimming"
+    },
+    {
+        "name": "progressivesearchforthelost",
+        "type": "consumable",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivesearchforthelost"
+    },
+    {
+        "name": "exorcise",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "exorcise"
+    },
+    {
+        "name": "progressiveeattastymeat",
+        "type": "consumable",
+        "img": "images/items/witch_petition/red_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveeattastymeat"
+    },
+    {
+        "name": "stopbeforeapitfall",
+        "type": "toggle",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stopbeforeapitfall"
+    },
+    {
+        "name": "tacticalrfuse",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tacticalrfuse"
+    },
+    {
+        "name": "scapegoat",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scapegoat"
+    },
+    {
+        "name": "progressiveblockenemies",
+        "type": "consumable",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveblockenemies"
+    },
+    {
+        "name": "wallbreaker",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wallbreaker"
+    },
+    {
+        "name": "progressivehidefromenemies",
+        "type": "consumable",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivehidefromenemies"
+    },
+    {
+        "name": "renamepuppetsoldiers",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "renamepuppetsoldiers"
+    },
+    {
+        "name": "progressiveleavelabyrinthatwill",
+        "type": "consumable",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveleavelabyrinthatwill"
+    },
+    {
+        "name": "bringmanaintolabyrinth",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bringmanaintolabyrinth"
+    },
+    {
+        "name": "bringthemback",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bringthemback"
+    },
+    {
+        "name": "treasure",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "treasure"
+    },
+    {
+        "name": "morestatgrowthoptions",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "morestatgrowthoptions"
+    },
+    {
+        "name": "progressiveformations",
+        "type": "consumable",
+        "img": "images/items/witch_petition/red_tag.png",
+        "min_quantity": 0,
+        "max_quantity": 4,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveformations"
+    },
+    {
+        "name": "learnenemymoves",
+        "type": "toggle",
+        "img": "images/items/witch_petition/red_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "learnenemymoves"
+    },
+    {
+        "name": "findmoreitems",
+        "type": "toggle",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "findmoreitems"
+    },
+    {
+        "name": "useportalmagic",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "useportalmagic"
+    },
+    {
+        "name": "specialordersinbattle",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "specialordersinbattle"
+    },
+    {
+        "name": "destroyotherswithtackle",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "destroyotherswithtackle"
+    },
+    {
+        "name": "leavenotesonmap",
+        "type": "toggle",
+        "img": "images/items/witch_petition/blue_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leavenotesonmap"
+    },
+    {
+        "name": "avoidenemiesaltogether",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "avoidenemiesaltogether"
+    },
+    {
+        "name": "lureenemies",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lureenemies"
+    }
+]

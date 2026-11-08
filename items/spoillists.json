@@ -1,0 +1,50 @@
+[
+    {
+        "name": "crimsontranseptspoilslist",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crimsontranseptspoilslist"
+    },
+    {
+        "name": "narthexspoilslist",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "narthexspoilslist"
+    },
+    {
+        "name": "chancelspoilslist",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chancelspoilslist"
+    },
+    {
+        "name": "apsespoilslist",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "apsespoilslist"
+    },
+    {
+        "name": "indigotranseptspoilslist",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "indigotranseptspoilslist"
+    },
+    {
+        "name": "yellowtranseptspoilslist",
+        "type": "toggle",
+        "img": "images/items/witch_petition/gray_rune.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yellowtranseptspoilslist"
+    }
+]

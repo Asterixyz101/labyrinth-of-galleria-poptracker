@@ -1,3 +1,5 @@
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/labels.json")
 Tracker:AddItems("items/keys.json")
+Tracker:AddItems("items/spoillists.json")
+Tracker:AddItems("items/witch_petition.json")
