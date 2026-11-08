@@ -1,0 +1,318 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Apartments",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Apartments"
+                    ]
+                }
+            },
+            {
+                "title": "Apse",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Apse"
+                    ]
+                }
+            },
+            {
+                "title": "Chancel",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Chancel"
+                    ]
+                }
+            },
+            {
+                "title": "Crimson Transept",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crimson Transept"
+                    ]
+                }
+            },
+            {
+                "title": "Event",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Event"
+                    ]
+                }
+            },
+            {
+                "title": "Events",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Events"
+                    ]
+                }
+            },
+            {
+                "title": "Indigo Transept",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Indigo Transept"
+                    ]
+                }
+            },
+            {
+                "title": "Main Menu",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Main Menu"
+                    ]
+                }
+            },
+            {
+                "title": "Memo",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Memo"
+                    ]
+                }
+            },
+            {
+                "title": "Narthex",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Narthex"
+                    ]
+                }
+            },
+            {
+                "title": "Narthex B3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Narthex B3"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Transept",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Transept"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Transept Layer 2 Chest 18X 7Y",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Transept Layer 2 Chest 18X 7Y"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Transept Layer 2 Chest 20X 5Y",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Transept Layer 2 Chest 20X 5Y"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Transept Layer 2 Chest 26X 10Y",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Transept Layer 2 Chest 26X 10Y"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Transept Layer 2 Chest 26X 8Y",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Transept Layer 2 Chest 26X 8Y"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Transept Layer 2 Curio Testorant 25X 12Y",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Transept Layer 2 Curio Testorant 25X 12Y"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Apartments",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Apartments"
+                    ]
+                }
+            },
+            {
+                "title": "Apse",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Apse"
+                    ]
+                }
+            },
+            {
+                "title": "Chancel",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Chancel"
+                    ]
+                }
+            },
+            {
+                "title": "Crimson Transept",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crimson Transept"
+                    ]
+                }
+            },
+            {
+                "title": "Event",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Event"
+                    ]
+                }
+            },
+            {
+                "title": "Events",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Events"
+                    ]
+                }
+            },
+            {
+                "title": "Indigo Transept",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Indigo Transept"
+                    ]
+                }
+            },
+            {
+                "title": "Main Menu",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Main Menu"
+                    ]
+                }
+            },
+            {
+                "title": "Memo",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Memo"
+                    ]
+                }
+            },
+            {
+                "title": "Narthex",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Narthex"
+                    ]
+                }
+            },
+            {
+                "title": "Narthex B3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Narthex B3"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Transept",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Transept"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Transept Layer 2 Chest 18X 7Y",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Transept Layer 2 Chest 18X 7Y"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Transept Layer 2 Chest 20X 5Y",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Transept Layer 2 Chest 20X 5Y"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Transept Layer 2 Chest 26X 10Y",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Transept Layer 2 Chest 26X 10Y"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Transept Layer 2 Chest 26X 8Y",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Transept Layer 2 Chest 26X 8Y"
+                    ]
+                }
+            },
+            {
+                "title": "Yellow Transept Layer 2 Curio Testorant 25X 12Y",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Yellow Transept Layer 2 Curio Testorant 25X 12Y"
+                    ]
+                }
+            }
+        ]
+    }
+}

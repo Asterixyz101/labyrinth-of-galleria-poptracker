@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Yellow Transept Layer 2 Curio Testorant 25X 12Y",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Yellow Transept Layer 2 Curio Testorant 25X 12Y",
+                "x": 1845,
+                "y": 1659,
+                "size": 6
+            }
+        ]
+    }
+]

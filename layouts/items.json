@@ -1,0 +1,322 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "progressivepost-battlerecovery",
+                                "immortality",
+                                "rapidraptor(m)",
+                                "tacticalrfuse",
+                                "userfdefensively",
+                                "treasure",
+                                "learnenemymoves",
+                                "wonderviande(m)",
+                                "primacupido",
+                                "puppetparts",
+                                "rapidvenator(f)"
+                            ],
+                            [
+                                "cursedswampswimming",
+                                "crimsonchestkey",
+                                "shinobushi(m)",
+                                "scapegoat",
+                                "theatricaldolce(f)",
+                                "leavesnotesatwill",
+                                "wondercorsair(f)",
+                                "shinomashira(f)",
+                                "famyuchaser(m)",
+                                "progressiveswimming",
+                                "progressiveeattastymeat"
+                            ],
+                            [
+                                "exorcise",
+                                "wondercorsair(m)",
+                                "progressivehidefromenemies",
+                                "destroyotherswithtackle",
+                                "unsealingritual",
+                                "specialordersinbattle",
+                                "theatricaldolce(m)",
+                                "act1completed",
+                                "indigochestkey",
+                                "progressivenarthex",
+                                "dodgepitfalls"
+                            ],
+                            [
+                                "progressivestockpilexp",
+                                "shinomashira(m)",
+                                "progressiveblockenemies",
+                                "apsechestkeyiii",
+                                "primareaper",
+                                "bringthemback",
+                                "indigotranseptspoilslist",
+                                "gothicgrattonia",
+                                "progressivestartleenemies",
+                                "famyuseeker(m)",
+                                "suspiciouschestkey"
+                            ],
+                            [
+                                "apsespoilslist",
+                                "renamepuppetsoldiers",
+                                "narthexchestkeyii",
+                                "astercrow(m)",
+                                "magiamaid(m)",
+                                "visitagentleworld",
+                                "useportalmagic",
+                                "progressivechancel",
+                                "rapidvenator(m)",
+                                "shinelight",
+                                "yellowtranseptspoilslist"
+                            ],
+                            [
+                                "crimsontranseptspoilslist",
+                                "asterashe(m)",
+                                "narthexchestkey",
+                                "apsechestkey",
+                                "morestatgrowthoptions",
+                                "progressivemorerewards",
+                                "peerfortress(f)",
+                                "progressivecrimsontransept",
+                                "galleriacatalog",
+                                "wallbreaker",
+                                "leavenotesonmap"
+                            ],
+                            [
+                                "possess",
+                                "lureenemies",
+                                "renamesoulpacts",
+                                "visitanightmareworld",
+                                "progressiveapse",
+                                "peerfortress(m)",
+                                "ashenchestkey",
+                                "magiamaid(f)",
+                                "magiaconcieri(f)",
+                                "peerchariot(f)",
+                                "progressivetalisman"
+                            ],
+                            [
+                                "theatricalstar(m)",
+                                "stopbeforeapitfall",
+                                "chancelspoilslist",
+                                "findmoreitems",
+                                "progressiveindigotransept",
+                                "highjump",
+                                "longjump",
+                                "progressiveescapebattleseasier",
+                                "progressivestopenemies",
+                                "wonderviande(f)",
+                                "rapidraptor(f)"
+                            ],
+                            [
+                                "narthexspoilslist",
+                                "astercrow(f)",
+                                "progressiveformations",
+                                "peerchariot(m)",
+                                "progressiveincreasetravelrange",
+                                "gothiccoppelia",
+                                "footwear",
+                                "shinobushi(f)",
+                                "theatricalstar(f)",
+                                "bringmanaintolabyrinth",
+                                "yellowchestkey"
+                            ],
+                            [
+                                "marquischestkey",
+                                "hastyrfuse",
+                                "progressivesearchforthelost",
+                                "avoidenemiesaltogether",
+                                "famyuseeker(f)",
+                                "magiaconcieri(m)",
+                                "famyuchaser(f)",
+                                "darklight",
+                                "progressiveyellowtransept",
+                                "apsechestkeyii",
+                                "userfoffensively"
+                            ],
+                            [
+                                "progressiveleavelabyrinthatwill",
+                                "asterashe(f)",
+                                "update"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "progressivepost-battlerecovery",
+                                "immortality",
+                                "rapidraptor(m)",
+                                "tacticalrfuse",
+                                "userfdefensively",
+                                "treasure",
+                                "learnenemymoves",
+                                "wonderviande(m)",
+                                "primacupido",
+                                "puppetparts",
+                                "rapidvenator(f)"
+                            ],
+                            [
+                                "cursedswampswimming",
+                                "crimsonchestkey",
+                                "shinobushi(m)",
+                                "scapegoat",
+                                "theatricaldolce(f)",
+                                "leavesnotesatwill",
+                                "wondercorsair(f)",
+                                "shinomashira(f)",
+                                "famyuchaser(m)",
+                                "progressiveswimming",
+                                "progressiveeattastymeat"
+                            ],
+                            [
+                                "exorcise",
+                                "wondercorsair(m)",
+                                "progressivehidefromenemies",
+                                "destroyotherswithtackle",
+                                "unsealingritual",
+                                "specialordersinbattle",
+                                "theatricaldolce(m)",
+                                "act1completed",
+                                "indigochestkey",
+                                "progressivenarthex",
+                                "dodgepitfalls"
+                            ],
+                            [
+                                "progressivestockpilexp",
+                                "shinomashira(m)",
+                                "progressiveblockenemies",
+                                "apsechestkeyiii",
+                                "primareaper",
+                                "bringthemback",
+                                "indigotranseptspoilslist",
+                                "gothicgrattonia",
+                                "progressivestartleenemies",
+                                "famyuseeker(m)",
+                                "suspiciouschestkey"
+                            ],
+                            [
+                                "apsespoilslist",
+                                "renamepuppetsoldiers",
+                                "narthexchestkeyii",
+                                "astercrow(m)",
+                                "magiamaid(m)",
+                                "visitagentleworld",
+                                "useportalmagic",
+                                "progressivechancel",
+                                "rapidvenator(m)",
+                                "shinelight",
+                                "yellowtranseptspoilslist"
+                            ],
+                            [
+                                "crimsontranseptspoilslist",
+                                "asterashe(m)",
+                                "narthexchestkey",
+                                "apsechestkey",
+                                "morestatgrowthoptions",
+                                "progressivemorerewards",
+                                "peerfortress(f)",
+                                "progressivecrimsontransept",
+                                "galleriacatalog",
+                                "wallbreaker",
+                                "leavenotesonmap"
+                            ],
+                            [
+                                "possess",
+                                "lureenemies",
+                                "renamesoulpacts",
+                                "visitanightmareworld",
+                                "progressiveapse",
+                                "peerfortress(m)",
+                                "ashenchestkey",
+                                "magiamaid(f)",
+                                "magiaconcieri(f)",
+                                "peerchariot(f)",
+                                "progressivetalisman"
+                            ],
+                            [
+                                "theatricalstar(m)",
+                                "stopbeforeapitfall",
+                                "chancelspoilslist",
+                                "findmoreitems",
+                                "progressiveindigotransept",
+                                "highjump",
+                                "longjump",
+                                "progressiveescapebattleseasier",
+                                "progressivestopenemies",
+                                "wonderviande(f)",
+                                "rapidraptor(f)"
+                            ],
+                            [
+                                "narthexspoilslist",
+                                "astercrow(f)",
+                                "progressiveformations",
+                                "peerchariot(m)",
+                                "progressiveincreasetravelrange",
+                                "gothiccoppelia",
+                                "footwear",
+                                "shinobushi(f)",
+                                "theatricalstar(f)",
+                                "bringmanaintolabyrinth",
+                                "yellowchestkey"
+                            ],
+                            [
+                                "marquischestkey",
+                                "hastyrfuse",
+                                "progressivesearchforthelost",
+                                "avoidenemiesaltogether",
+                                "famyuseeker(f)",
+                                "magiaconcieri(m)",
+                                "famyuchaser(f)",
+                                "darklight",
+                                "progressiveyellowtransept",
+                                "apsechestkeyii",
+                                "userfoffensively"
+                            ],
+                            [
+                                "progressiveleavelabyrinthatwill",
+                                "asterashe(f)",
+                                "update"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

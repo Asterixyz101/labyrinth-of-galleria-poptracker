@@ -1,0 +1,3856 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Apartments",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Apartments Generic Yellow Chest 1 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 1/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 2 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 2/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 3 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 3/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 4 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 4/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 5 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 5/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 6 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 6/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 7 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 7/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 8 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 8/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 9 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 9/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 10 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 10/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 11 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 11/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 12 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 12/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 13 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 13/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 14 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 14/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 15 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 15/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 16 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 16/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 17 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 17/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 18 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 18/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 19 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 19/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 20 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 20/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 21 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 21/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 22 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 22/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 23 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 23/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 24 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 24/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 25 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 25/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 26 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 26/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 27 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 27/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 28 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 28/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 29 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 29/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 30 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 30/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 31 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 31/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 32 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 32/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 33 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 33/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 34 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 34/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 35 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 35/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 36 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 36/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 37 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 37/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 38 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 38/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 39 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 39/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 40 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 40/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 41 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 41/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 42 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 42/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 43 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 43/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 44 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 44/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 45 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 45/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 46 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 46/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 47 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 47/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 48 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 48/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 49 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 49/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 50 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 50/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 51 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 51/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 52 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 52/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 53 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 53/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 54 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 54/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 55 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 55/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 56 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 56/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 57 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 57/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 58 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 58/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 59 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 59/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 60 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 60/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 61 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 61/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 62 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 62/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 63 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 63/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 64 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 64/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 65 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 65/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 66 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 66/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 67 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 67/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 68 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 68/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 69 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 69/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 70 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 70/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 71 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 71/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 72 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 72/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 73 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 73/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 74 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 74/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 75 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 75/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 76 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 76/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 77 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 77/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 78 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 78/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 79 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 79/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 80 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 80/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 81 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 81/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 82 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 82/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 83 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 83/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 84 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 84/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 85 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 85/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 86 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 86/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 87 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 87/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 88 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 88/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 89 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 89/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 90 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 90/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 91 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 91/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 92 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 92/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 93 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 93/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 94 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 94/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 95 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 95/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 96 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 96/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 97 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 97/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 98 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 98/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 99 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 99/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 100 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 100/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 101 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 101/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 102 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 102/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 103 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 103/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 104 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 104/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 105 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 105/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 106 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 106/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 107 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 107/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 108 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 108/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 109 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 109/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 110 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 110/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 111 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 111/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 112 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 112/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 113 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 113/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 114 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 114/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 115 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 115/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 116 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 116/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 117 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 117/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 118 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 118/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 119 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 119/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 120 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 120/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 121 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 121/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 122 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 122/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 123 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 123/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 124 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 124/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 125 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 125/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 126 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 126/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 127 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 127/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 128 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 128/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 129 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 129/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 130 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 130/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 131 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 131/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 132 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 132/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 133 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 133/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 134 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 134/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 135 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 135/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 136 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 136/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 137 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 137/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 138 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 138/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 139 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 139/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 140 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 140/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 141 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 141/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 142 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 142/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 143 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 143/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 144 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 144/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 145 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 145/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 146 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 146/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 147 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 147/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 148 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 148/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 149 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 149/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 150 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 150/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 151 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 151/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 152 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 152/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 153 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 153/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 154 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 154/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 155 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 155/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 156 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 156/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 157 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 157/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 158 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 158/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 159 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 159/"
+                    },
+                    {
+                        "name": "Apartments Generic Yellow Chest 160 - ",
+                        "ref": "Apartments/Apartments Generic Yellow Chest 160/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 612,
+                        "y": 86,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Apse",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 1 Chest 15X 15Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 15X 15Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 12X 16Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 12X 16Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 9X 12Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 9X 12Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 6X 17Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 6X 17Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 10X 17Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 10X 17Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 11X 17Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 11X 17Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 8X 20Y (Apse Chest Key) - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 8X 20Y (Apse Chest Key)/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 10X 24Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 10X 24Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 17X 23Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 17X 23Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 8X 14Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 8X 14Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 6X 7Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 6X 7Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 7X 7Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 7X 7Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 7X 6Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 7X 6Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 8X 6Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 8X 6Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 9X 9Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 9X 9Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 15X 11Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 15X 11Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 11X 6Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 11X 6Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 16X 7Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 16X 7Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 20X 7Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 20X 7Y/"
+                    },
+                    {
+                        "name": "Floor 1 25X 9Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 25X 9Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 25X 15Y (Apse Chest Key) - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 25X 15Y (Apse Chest Key)/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 25X 17Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 25X 17Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 25X 19Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 25X 19Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 21X 21Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 21X 21Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 17X 22Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 17X 22Y/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 24X 25Y (Ashen Chest Key) - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 24X 25Y (Ashen Chest Key)/"
+                    },
+                    {
+                        "name": "Floor 1 Chest 25X 21Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 25X 21Y/"
+                    },
+                    {
+                        "name": "Floor 1 Curio Ancient Coin Of Est 28X 22Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Curio Ancient Coin Of Est 28X 22Y/"
+                    },
+                    {
+                        "name": "Floor 1 Curio Star Emperors Stuff 19X 20Y - ",
+                        "ref": "Apse/Floor 1/Floor 1 Curio Star Emperors Stuff 19X 20Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 20X 16Y (Apse Chest Key) - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 20X 16Y (Apse Chest Key)/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 24X 16Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 24X 16Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 21X 25Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 21X 25Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 21X 23Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 21X 23Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 15X 25Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 15X 25Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 13X 25Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 13X 25Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 14X 25Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 14X 25Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 9X 23Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 9X 23Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 10X 23Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 10X 23Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 6X 24Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 6X 24Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 7X 19Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 7X 19Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 12X 19Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 12X 19Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 13X 19Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 13X 19Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 14X 15Y (Apse Chest Key) - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 14X 15Y (Apse Chest Key)/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 16X 14Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 16X 14Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 15X 20Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 15X 20Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 13X 8Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 13X 8Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 15X 7Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 15X 7Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 8X 6Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 8X 6Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 8X 7Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 8X 7Y/"
+                    },
+                    {
+                        "name": "Floor 2 Curio Masque Neck Vase 7X 6Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Curio Masque Neck Vase 7X 6Y/"
+                    },
+                    {
+                        "name": "Floor 2 Chest 25X 6Y - ",
+                        "ref": "Apse/Floor 2/Floor 2 Chest 25X 6Y/"
+                    },
+                    {
+                        "name": "Find Apse Floor 2 Wardrobe - ",
+                        "ref": "Apse/Floor 2/Find Apse Floor 2 Wardrobe/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 6X 11Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 6X 11Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 11X 12Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 11X 12Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 9X 13Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 9X 13Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 9X 15Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 9X 15Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 7X 13Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 7X 13Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 7X 15Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 7X 15Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 11X 15Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 11X 15Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 8X 7Y (Suspicious Chest Key) - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 8X 7Y (Suspicious Chest Key)/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 9X 8Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 9X 8Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 24X 9Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 24X 9Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 15X 11Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 15X 11Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 15X 7Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 15X 7Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 19X 11Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 19X 11Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 18X 7Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 18X 7Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 22X 11Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 22X 11Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 25X 7Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 25X 7Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 23X 16Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 23X 16Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 19X 13Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 19X 13Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 8X 18Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 8X 18Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 6X 17Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 6X 17Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 8X 22Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 8X 22Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 10X 23Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 10X 23Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 14X 23Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 14X 23Y/"
+                    },
+                    {
+                        "name": "Floor 3 Curio Starry Sea Vase 21X 19Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Curio Starry Sea Vase 21X 19Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 24X 21Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 24X 21Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 25X 21Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 25X 21Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 24X 24Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 24X 24Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 10X 17Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 10X 17Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 11X 17Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 11X 17Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 9X 18Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 9X 18Y/"
+                    },
+                    {
+                        "name": "Floor 3 Chest 14X 18Y - ",
+                        "ref": "Apse/Floor 3/Floor 3 Chest 14X 18Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 25X 15Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 25X 15Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 24X 18Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 24X 18Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 20X 19Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 20X 19Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 16X 14Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 16X 14Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 17X 14Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 17X 14Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 18X 15Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 18X 15Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 18X 19Y (Apse Chest Key 2) - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 18X 19Y (Apse Chest Key 2)/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 21X 12Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 21X 12Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 22X 12Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 22X 12Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 20X 12Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 20X 12Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 25X 9Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 25X 9Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 22X 7Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 22X 7Y/"
+                    },
+                    {
+                        "name": "Floor 4 Curio Kings Chess Piece 25X 12Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Curio Kings Chess Piece 25X 12Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 10X 7Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 10X 7Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 11X 7Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 11X 7Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 12X 11Y (Apse Chest Key II) - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 12X 11Y (Apse Chest Key II)/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 18X 10Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 18X 10Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 18X 9Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 18X 9Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 16X 7Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 16X 7Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 14X 16Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 14X 16Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 14X 14Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 14X 14Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 13X 18Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 13X 18Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 14X 18Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 14X 18Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 9X 22Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 9X 22Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 9X 25Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 9X 25Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 14X 24Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 14X 24Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 14X 21Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 14X 21Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 10X 25Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 10X 25Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 24X 24Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 24X 24Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 21X 24Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 21X 24Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 23X 23Y - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 23X 23Y/"
+                    },
+                    {
+                        "name": "Floor 4 Chest 9X 17Y (Apse Chest Key II) - ",
+                        "ref": "Apse/Floor 4/Floor 4 Chest 9X 17Y (Apse Chest Key II)/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 25X 24Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 25X 24Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 19X 18Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 19X 18Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 23X 19Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 23X 19Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 25X 18Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 25X 18Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 21X 22Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 21X 22Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 12X 24Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 12X 24Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 6X 25Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 6X 25Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 12X 21Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 12X 21Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 6X 17Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 6X 17Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 7X 11Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 7X 11Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 7X 13Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 7X 13Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 7X 7Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 7X 7Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 10X 7Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 10X 7Y/"
+                    },
+                    {
+                        "name": "Floor 5 Curio Empress Chair 10X 6Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Curio Empress Chair 10X 6Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 9X 17Y (Apse Chest Key II) - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 9X 17Y (Apse Chest Key II)/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 10X 11Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 10X 11Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 12X 17Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 12X 17Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 15X 14Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 15X 14Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 13X 15Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 13X 15Y/"
+                    },
+                    {
+                        "name": "Find Apse Floor 5 Wardrobe - ",
+                        "ref": "Apse/Floor 5/Find Apse Floor 5 Wardrobe/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 25X 11Y (Apse Chest Key II) - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 25X 11Y (Apse Chest Key II)/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 18X 13Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 18X 13Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 21X 11Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 21X 11Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 22X 9Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 22X 9Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 17X 10Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 17X 10Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 21X 6Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 21X 6Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 18X 4Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 18X 4Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 28X 8Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 28X 8Y/"
+                    },
+                    {
+                        "name": "Floor 5 Chest 25X 13Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Chest 25X 13Y/"
+                    },
+                    {
+                        "name": "Floor 5 Curio Suuyas Mirror 27X 13Y - ",
+                        "ref": "Apse/Floor 5/Floor 5 Curio Suuyas Mirror 27X 13Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 10X 19Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 10X 19Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 17X 15Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 17X 15Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 19X 15Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 19X 15Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 20X 15Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 20X 15Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 18X 18Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 18X 18Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 18X 19Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 18X 19Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 23X 23Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 23X 23Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 23X 25Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 23X 25Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 24X 25Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 24X 25Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 25X 25Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 25X 25Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 25X 24Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 25X 24Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 16X 13Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 16X 13Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 15X 15Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 15X 15Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 12X 15Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 12X 15Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 12X 14Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 12X 14Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 15X 13Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 15X 13Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 10X 9Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 10X 9Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 13X 11Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 13X 11Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 11X 22Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 11X 22Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 8X 19Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 8X 19Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 9X 19Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 9X 19Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 9X 10Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 9X 10Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 8X 10Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 8X 10Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 10X 6Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 10X 6Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 10X 7Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 10X 7Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 24X 8Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 24X 8Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 25X 8Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 25X 8Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 24X 9Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 24X 9Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 25X 9Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 25X 9Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 24X 14Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 24X 14Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 25X 16Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 25X 16Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 21X 25Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 21X 25Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 6X 12Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 6X 12Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 20X 10Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 20X 10Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 18X 10Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 18X 10Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 20X 11Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 20X 11Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 20X 9Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 20X 9Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 18X 9Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 18X 9Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 18X 11Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 18X 11Y/"
+                    },
+                    {
+                        "name": "Floor 6 Curio Perpetual Clock 21X 8Y - ",
+                        "ref": "Apse/Floor 6/Floor 6 Curio Perpetual Clock 21X 8Y/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 14X 20Y (Apse Chest Key II) - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 14X 20Y (Apse Chest Key II)/"
+                    },
+                    {
+                        "name": "Floor 6 Chest 13X 19Y (Ashen Chest Key) - ",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 13X 19Y (Ashen Chest Key)/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 6X 7Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 6X 7Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 6X 9Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 6X 9Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 13X 8Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 13X 8Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 13X 9Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 13X 9Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 25X 8Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 25X 8Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 25X 6Y (Suspicious Chest Key) - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 25X 6Y (Suspicious Chest Key)/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 24X 6Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 24X 6Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 16X 9Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 16X 9Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 15X 9Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 15X 9Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 21X 14Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 21X 14Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 16X 11Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 16X 11Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 15X 11Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 15X 11Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 24X 15Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 24X 15Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 21X 9Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 21X 9Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 20X 8Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 20X 8Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 13X 13Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 13X 13Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 12X 11Y (Apse Chest Key III) - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 12X 11Y (Apse Chest Key III)/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 7X 17Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 7X 17Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 11X 13Y (Apse Chest Key III) - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 11X 13Y (Apse Chest Key III)/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 16X 19Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 16X 19Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 15X 20Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 15X 20Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 20X 23Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 20X 23Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 23X 25Y (Apse Chest Key III) - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 23X 25Y (Apse Chest Key III)/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 20X 21Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 20X 21Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 20X 22Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 20X 22Y/"
+                    },
+                    {
+                        "name": "Floor 7 Curio Death Of Civilizations 14X 25Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Curio Death Of Civilizations 14X 25Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 6X 25Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 6X 25Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 13X 19Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 13X 19Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 6X 23Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 6X 23Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 14X 9Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 14X 9Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 24X 23Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 24X 23Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 23X 19Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 23X 19Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 24X 20Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 24X 20Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 20X 18Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 20X 18Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 14X 18Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 14X 18Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 10X 18Y (Suspicious Chest Key) - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 10X 18Y (Suspicious Chest Key)/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 6X 18Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 6X 18Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 6X 15Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 6X 15Y/"
+                    },
+                    {
+                        "name": "Floor 7 Chest 7X 12Y - ",
+                        "ref": "Apse/Floor 7/Floor 7 Chest 7X 12Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 9X 25Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 9X 25Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 12X 23Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 12X 23Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 23X 23Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 23X 23Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 24X 20Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 24X 20Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 25X 20Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 25X 20Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 15X 20Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 15X 20Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 15X 22Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 15X 22Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 15X 9Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 15X 9Y/"
+                    },
+                    {
+                        "name": "Find Apse Floor 8 Wardrobe - ",
+                        "ref": "Apse/Floor 8/Find Apse Floor 8 Wardrobe/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 6X 13Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 6X 13Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 8X 6Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 8X 6Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 18X 6Y (Suspicious Chest Key) - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 18X 6Y (Suspicious Chest Key)/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 21X 18Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 21X 18Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 13X 7Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 13X 7Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 11X 12Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 11X 12Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 15X 12Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 15X 12Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 16X 15Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 16X 15Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 11X 11Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 11X 11Y/"
+                    },
+                    {
+                        "name": "Floor 8 Chest 10X 16Y - ",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 10X 16Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 19X 10Y (Apse Chest Key III) - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 19X 10Y (Apse Chest Key III)/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 22X 18Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 22X 18Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 20X 18Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 20X 18Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 22X 20Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 22X 20Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 24X 20Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 24X 20Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 25X 20Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 25X 20Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 24X 15Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 24X 15Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 25X 15Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 25X 15Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 22X 24Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 22X 24Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 17X 25Y (Ashen Chest Key) - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 17X 25Y (Ashen Chest Key)/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 12X 24Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 12X 24Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 11X 19Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 11X 19Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 12X 19Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 12X 19Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 8X 19Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 8X 19Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 12X 10Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 12X 10Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 13X 10Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 13X 10Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 7X 12Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 7X 12Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 7X 14Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 7X 14Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 13X 14Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 13X 14Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 9X 17Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 9X 17Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 14X 17Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 14X 17Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 15X 16Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 15X 16Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 17X 6Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 17X 6Y/"
+                    },
+                    {
+                        "name": "Floor 9 Curio Otherworld Image 10X 8Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Curio Otherworld Image 10X 8Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 13X 8Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 13X 8Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 6X 6& - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 6X 6&/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 6X 7Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 6X 7Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 21X 13Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 21X 13Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 23X 24Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 23X 24Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 25X 14Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 25X 14Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 8X 24Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 8X 24Y/"
+                    },
+                    {
+                        "name": "Floor 9 Chest 7X 19Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Chest 7X 19Y/"
+                    },
+                    {
+                        "name": "Floor 9 Curio Vase Of Merkatza 8X 22Y - ",
+                        "ref": "Apse/Floor 9/Floor 9 Curio Vase Of Merkatza 8X 22Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 16X 22Y (Suspicious Chest Key) - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 16X 22Y (Suspicious Chest Key)/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 8X 23Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 8X 23Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 8X 21Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 8X 21Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 12X 21Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 12X 21Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 11X 14Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 11X 14Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 11X 12Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 11X 12Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 11X 9Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 11X 9Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 6X 6Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 6X 6Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 7X 10Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 7X 10Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 7X 8Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 7X 8Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 14X 6Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 14X 6Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 15X 10Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 15X 10Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 16X 12Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 16X 12Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 6X 14Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 6X 14Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 7X 18Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 7X 18Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 7X 22Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 7X 22Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 6X 24Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 6X 24Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 6X 25Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 6X 25Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 17X 20Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 17X 20Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 23X 24Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 23X 24Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 23X 25Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 23X 25Y/"
+                    },
+                    {
+                        "name": "Innermost Level Chest 21X 15Y - ",
+                        "ref": "Apse/Innermost Level/Innermost Level Chest 21X 15Y/"
+                    },
+                    {
+                        "name": "Find Apse Innermost Level Wardrobe - ",
+                        "ref": "Apse/Innermost Level/Find Apse Innermost Level Wardrobe/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 825,
+                        "y": 508,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Chancel",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Grand Necrohall Chest 4X 23Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 4X 23Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 8X 26Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 8X 26Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 18X 24Y (Marquis Chest Key) - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 18X 24Y (Marquis Chest Key)/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 18X 27Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 18X 27Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 15X 27Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 15X 27Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 22X 27Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 22X 27Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 22X 16Y (Marquis Chest Key) - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 22X 16Y (Marquis Chest Key)/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 22X 19Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 22X 19Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 23X 19Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 23X 19Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 22X 14Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 22X 14Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 29X 19Y (Ashen Chest Key) - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 29X 19Y (Ashen Chest Key)/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 29X 16Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 29X 16Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 29X 13Y (Marquis Chest Key) - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 29X 13Y (Marquis Chest Key)/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 28X 10Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 28X 10Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 19X 8Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 19X 8Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 14X 6Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 14X 6Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 18X 5Y (Marquis Chest Key) - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 18X 5Y (Marquis Chest Key)/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 18X 3Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 18X 3Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 15X 4Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 15X 4Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 13X 9Y (Marquis Chest Key) - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 13X 9Y (Marquis Chest Key)/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 11X 3Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 11X 3Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 10X 10Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 10X 10Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 3X 10Y (Suspicious Chest Key) - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 3X 10Y (Suspicious Chest Key)/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 2X 12Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 2X 12Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 6X 15Y (Marquis Chest Key) - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 6X 15Y (Marquis Chest Key)/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 8X 17Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 8X 17Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 10X 20Y (Marquis Chest Key) - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 10X 20Y (Marquis Chest Key)/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 21X 20Y (Marquis Chest Key) - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 21X 20Y (Marquis Chest Key)/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 21X 11Y (Marquis Chest Key) - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 21X 11Y (Marquis Chest Key)/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 10X 11Y (Marquis Chest Key) - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 10X 11Y (Marquis Chest Key)/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 18X 19Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 18X 19Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 17X 11Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 17X 11Y/"
+                    },
+                    {
+                        "name": "Grand Necrohall Chest 17X 13Y - ",
+                        "ref": "Chancel/Grand Necrohall/Grand Necrohall Chest 17X 13Y/"
+                    },
+                    {
+                        "name": "Necrohall Lower Curio Binark VIIs Royal Staff 16X 15Y - ",
+                        "ref": "Chancel/Necrohall Lower/Necrohall Lower Curio Binark VIIs Royal Staff 16X 15Y/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1310,
+                        "y": 2190,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Crimson Transept",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Great Labyrinth Chest 11X 24Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 11X 24Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 11X 25Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 11X 25Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 11X 26Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 11X 26Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 1X 7Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 1X 7Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 5X 12Y (Crimson Chest Key) - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 5X 12Y (Crimson Chest Key)/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 7X 12Y (Crimson Chest Key) - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 7X 12Y (Crimson Chest Key)/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 4X 22Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 4X 22Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 4X 23Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 4X 23Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 4X 24Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 4X 24Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 18X 30Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 18X 30Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 27X 28Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 27X 28Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 27X 29Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 27X 29Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 27X 30Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 27X 30Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 5X 10Y (Crimson Chest Key) - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 5X 10Y (Crimson Chest Key)/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 7X 10Y (Crimson Chest Key) - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 7X 10Y (Crimson Chest Key)/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 5X 8Y (Crimson Chest Key) - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 5X 8Y (Crimson Chest Key)/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 7X 8Y (Ashen Chest Key) - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 7X 8Y (Ashen Chest Key)/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 28X 17Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 28X 17Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 29X 17Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 29X 17Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 28X 18Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 28X 18Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 29X 18Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 29X 18Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Curio Green Birdbeast Cloth 12X 9Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Curio Green Birdbeast Cloth 12X 9Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 15X 8Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 15X 8Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 17X 8Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 17X 8Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 9X 1Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 9X 1Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 10X 1Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 10X 1Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 12X 1Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 12X 1Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 13X 1Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 13X 1Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 5X 6Y (Crimson Chest Key) - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 5X 6Y (Crimson Chest Key)/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 7X 6Y (Crimson Chest Key) - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 7X 6Y (Crimson Chest Key)/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 5X 3Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 5X 3Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 7X 3Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 7X 3Y/"
+                    },
+                    {
+                        "name": "Great Labyrinth Chest 19X 6Y - ",
+                        "ref": "Crimson Transept/Great Labyrinth/Great Labyrinth Chest 19X 6Y/"
+                    },
+                    {
+                        "name": "Underground Chest 23X 12Y (Suspicious Chest Key) - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 23X 12Y (Suspicious Chest Key)/"
+                    },
+                    {
+                        "name": "Underground Chest 7X 16Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 7X 16Y/"
+                    },
+                    {
+                        "name": "Underground Chest 8X 16Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 8X 16Y/"
+                    },
+                    {
+                        "name": "Underground Chest 12X 10Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 12X 10Y/"
+                    },
+                    {
+                        "name": "Underground Chest 13X 10Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 13X 10Y/"
+                    },
+                    {
+                        "name": "Underground Chest 27X 6Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 27X 6Y/"
+                    },
+                    {
+                        "name": "Underground Chest 27X 7Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 27X 7Y/"
+                    },
+                    {
+                        "name": "Underground Curio Guillotine Dice 19X 12Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Curio Guillotine Dice 19X 12Y/"
+                    },
+                    {
+                        "name": "Underground Chest 22X 15Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 22X 15Y/"
+                    },
+                    {
+                        "name": "Underground Chest 23X 15Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 23X 15Y/"
+                    },
+                    {
+                        "name": "Underground Chest 8X 20Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 8X 20Y/"
+                    },
+                    {
+                        "name": "Underground Chest 2X 16Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 2X 16Y/"
+                    },
+                    {
+                        "name": "Underground Chest 7X 7Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 7X 7Y/"
+                    },
+                    {
+                        "name": "Underground Chest 8X 8Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 8X 8Y/"
+                    },
+                    {
+                        "name": "Underground Chest 6X 12Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 6X 12Y/"
+                    },
+                    {
+                        "name": "Underground Chest 4X 7Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 4X 7Y/"
+                    },
+                    {
+                        "name": "Underground Chest 4X 9Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 4X 9Y/"
+                    },
+                    {
+                        "name": "Underground Chest 2X 9Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 2X 9Y/"
+                    },
+                    {
+                        "name": "Underground Chest 2X 7Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 2X 7Y/"
+                    },
+                    {
+                        "name": "Underground Chest 30X 14Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 30X 14Y/"
+                    },
+                    {
+                        "name": "Underground Chest 29X 18Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 29X 18Y/"
+                    },
+                    {
+                        "name": "Underground Chest 3X 26Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 3X 26Y/"
+                    },
+                    {
+                        "name": "Underground Chest 11X 24Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 11X 24Y/"
+                    },
+                    {
+                        "name": "Underground Chest 7X 24Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Chest 7X 24Y/"
+                    },
+                    {
+                        "name": "Underground Curio Screw Of Ghalaya 5X 23Y - ",
+                        "ref": "Crimson Transept/Underground/Underground Curio Screw Of Ghalaya 5X 23Y/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 420,
+                        "y": 1002,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Event",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Wiccard And Woodooms - ",
+                        "ref": "Event/Narthex/B2/Wiccard And Woodooms/"
+                    },
+                    {
+                        "name": "Wiccard & Chinhead - ",
+                        "ref": "Event/Narthex/B3/Wiccard & Chinhead/"
+                    },
+                    {
+                        "name": "Wiccard & Basila - ",
+                        "ref": "Event/Narthex/B5/Wiccard & Basila/"
+                    },
+                    {
+                        "name": "Wiccard And Toad - ",
+                        "ref": "Event/Narthex/B6/Wiccard And Toad/"
+                    },
+                    {
+                        "name": "Wiccard & Dark Priest - ",
+                        "ref": "Event/Narthex/B7/Wiccard & Dark Priest/"
+                    },
+                    {
+                        "name": "Wiccard & Dias - ",
+                        "ref": "Event/Apse/Floor 2/Wiccard & Dias/"
+                    },
+                    {
+                        "name": "Wiccard & Caterpillar Guard - ",
+                        "ref": "Event/Apse/Floor 5/Wiccard & Caterpillar Guard/"
+                    },
+                    {
+                        "name": "Wiccard & King HHH - ",
+                        "ref": "Event/Apse/Floor 7/Wiccard & King HHH/"
+                    },
+                    {
+                        "name": "Thunder Colt - ",
+                        "ref": "Event/Yellow Transept/Layer 2/Thunder Colt/"
+                    },
+                    {
+                        "name": "Lion Marquis - ",
+                        "ref": "Event/Crimson Transept/Great Labyrinth/Lion Marquis/"
+                    },
+                    {
+                        "name": "Marquis Statue - ",
+                        "ref": "Event/Chancel/Grand Necrohall/Marquis Statue/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 484,
+                        "y": 1575,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Events",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Meat Soldier, Magia Tokens & Wiccard - ",
+                        "ref": "Events/Floor 9/Meat Soldier, Magia Tokens & Wiccard/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 775,
+                        "y": 1947,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Indigo Transept",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Waterway 1 Chest 11X 19Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 11X 19Y/"
+                    },
+                    {
+                        "name": "Waterway 1 Chest 11X 20Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 11X 20Y/"
+                    },
+                    {
+                        "name": "Waterway 1 Chest 16X 19Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 16X 19Y/"
+                    },
+                    {
+                        "name": "Waterway 1 Chest 18X 19Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 18X 19Y/"
+                    },
+                    {
+                        "name": "Waterway 1 Chest 16X 18Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 16X 18Y/"
+                    },
+                    {
+                        "name": "Waterway 1 Chest 18X 20Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 18X 20Y/"
+                    },
+                    {
+                        "name": "Waterway 1 Chest 20X 13Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 20X 13Y/"
+                    },
+                    {
+                        "name": "Waterway 1 Chest 20X 11Y (Indigo Chest Key) - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 20X 11Y (Indigo Chest Key)/"
+                    },
+                    {
+                        "name": "Waterway 1 Chest 10X 12Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 10X 12Y/"
+                    },
+                    {
+                        "name": "Waterway 1 Chest 11X 11Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 11X 11Y/"
+                    },
+                    {
+                        "name": "Waterway 1 Chest 11X 13Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 11X 13Y/"
+                    },
+                    {
+                        "name": "Waterway 1 Chest 14X 17Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 14X 17Y/"
+                    },
+                    {
+                        "name": "Waterway 1 Curio Molg Island Image 16X 15Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Curio Molg Island Image 16X 15Y/"
+                    },
+                    {
+                        "name": "Waterway 1 Chest 14X 15Y - ",
+                        "ref": "Indigo Transept/Waterway 1/Waterway 1 Chest 14X 15Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 24X 17Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 24X 17Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 22X 14Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 22X 14Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 22X 10Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 22X 10Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 22X 11Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 22X 11Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 24X 8Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 24X 8Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 20X 8Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 20X 8Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 8X 7Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 8X 7Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 14X 12Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 14X 12Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 14X 8Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 14X 8Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 8X 10Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 8X 10Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 16X 15Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 16X 15Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 21X 19Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 21X 19Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 18X 16Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 18X 16Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 20X 14Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 20X 14Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 11X 19Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 11X 19Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 14X 19Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 14X 19Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 21X 23Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 21X 23Y/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 18X 18Y (Indigo Chest Key) - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 18X 18Y (Indigo Chest Key)/"
+                    },
+                    {
+                        "name": "Waterway 2 Chest 19X 18Y (Indigo Chest Key) - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Chest 19X 18Y (Indigo Chest Key)/"
+                    },
+                    {
+                        "name": "Waterway 2 Curio Consorts Earrings 16X 22Y - ",
+                        "ref": "Indigo Transept/Waterway 2/Waterway 2 Curio Consorts Earrings 16X 22Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 7X 22Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 7X 22Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 13X 23Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 13X 23Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 17X 24Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 17X 24Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 18X 23Y (Ashen Chest Key) - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 18X 23Y (Ashen Chest Key)/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 20X 18Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 20X 18Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 15X 21Y (Indigo Chest Key) - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 15X 21Y (Indigo Chest Key)/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 17X 18Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 17X 18Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 12X 17Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 12X 17Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 8X 14Y (Suspicious Chest Key) - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 8X 14Y (Suspicious Chest Key)/"
+                    },
+                    {
+                        "name": "Waterway 3 Curio No.9 Monument Slab 8X 16Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Curio No.9 Monument Slab 8X 16Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 16X 14Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 16X 14Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 7X 8Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 7X 8Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 10X 9Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 10X 9Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 12X 7Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 12X 7Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 14X 7Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 14X 7Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 16X 7Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 16X 7Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 15X 11Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 15X 11Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 21X 11Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 21X 11Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 25X 4Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 25X 4Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 25X 10Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 25X 10Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 16X 4Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 16X 4Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 15X 4Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 15X 4Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 15X 2Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 15X 2Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 13X 5Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 13X 5Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 8X 26Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 8X 26Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 9X 26Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 9X 26Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 6X 25Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 6X 25Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 5X 22Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 5X 22Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 5X 23Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 5X 23Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Curio Clairvoyance Medallion 6X 21Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Curio Clairvoyance Medallion 6X 21Y/"
+                    },
+                    {
+                        "name": "Waterway 3 Chest 21X 10Y - ",
+                        "ref": "Indigo Transept/Waterway 3/Waterway 3 Chest 21X 10Y/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1473,
+                        "y": 240,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Main Menu",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Act 1 Completion - ",
+                        "ref": "Main Menu/Act 1 Completion/"
+                    },
+                    {
+                        "name": "Act 1 Completion Goal - ",
+                        "ref": "Main Menu/Act 1 Completion Goal/"
+                    },
+                    {
+                        "name": "Starting Defensive Facet - ",
+                        "ref": "Main Menu/Starting Defensive Facet/"
+                    },
+                    {
+                        "name": "Starting Offensive Facet - ",
+                        "ref": "Main Menu/Starting Offensive Facet/"
+                    },
+                    {
+                        "name": "Starting Support Facet - ",
+                        "ref": "Main Menu/Starting Support Facet/"
+                    },
+                    {
+                        "name": "Starting Narthex Floor - ",
+                        "ref": "Main Menu/Starting Narthex Floor/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2354,
+                        "y": 894,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Memo",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Help Make Sweets - ",
+                        "ref": "Memo/Act 1/Help Make Sweets/"
+                    },
+                    {
+                        "name": "Trying To Like Carrots - ",
+                        "ref": "Memo/Act 1/Trying To Like Carrots/"
+                    },
+                    {
+                        "name": "Explorers Memento - ",
+                        "ref": "Memo/Act 1/Explorers Memento/"
+                    },
+                    {
+                        "name": "A Writers Request - ",
+                        "ref": "Memo/Act 1/A Writers Request/"
+                    },
+                    {
+                        "name": "Secret Decorations - ",
+                        "ref": "Memo/Act 1/Secret Decorations/"
+                    },
+                    {
+                        "name": "Using A Treasure Chest - ",
+                        "ref": "Memo/Act 1/Using A Treasure Chest/"
+                    },
+                    {
+                        "name": "Meaty Nobles - ",
+                        "ref": "Memo/Act 1/Meaty Nobles/"
+                    },
+                    {
+                        "name": "Cleaning Litter - ",
+                        "ref": "Memo/Act 1/Cleaning Litter/"
+                    },
+                    {
+                        "name": "Cant Do It Myself - ",
+                        "ref": "Memo/Act 1/Cant Do It Myself/"
+                    },
+                    {
+                        "name": "The Stargazer - ",
+                        "ref": "Memo/Act 1/The Stargazer/"
+                    },
+                    {
+                        "name": "Traveling Smile-Makers - ",
+                        "ref": "Memo/Act 1/Traveling Smile-Makers/"
+                    },
+                    {
+                        "name": "A Bottled Grape Liquor - ",
+                        "ref": "Memo/Act 1/A Bottled Grape Liquor/"
+                    },
+                    {
+                        "name": "Honey For Honey Toast - ",
+                        "ref": "Memo/Act 1/Honey For Honey Toast/"
+                    },
+                    {
+                        "name": "An Important Customer - ",
+                        "ref": "Memo/Act 1/An Important Customer/"
+                    },
+                    {
+                        "name": "Decorative Flowers - ",
+                        "ref": "Memo/Act 1/Decorative Flowers/"
+                    },
+                    {
+                        "name": "A Potion For The Ball - ",
+                        "ref": "Memo/Act 1/A Potion For The Ball/"
+                    },
+                    {
+                        "name": "Diamonds In The Rough - ",
+                        "ref": "Memo/Act 1/Diamonds In The Rough/"
+                    },
+                    {
+                        "name": "Strange Red Fruit - ",
+                        "ref": "Memo/Act 1/Strange Red Fruit/"
+                    },
+                    {
+                        "name": "Palace Exorcism - ",
+                        "ref": "Memo/Act 1/Palace Exorcism/"
+                    },
+                    {
+                        "name": "The Mob Wants Blood - ",
+                        "ref": "Memo/Act 1/The Mob Wants Blood/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1288,
+                        "y": 1762,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Narthex",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "B1 Chest 24X 6Y - ",
+                        "ref": "Narthex/B1/B1 Chest 24X 6Y/"
+                    },
+                    {
+                        "name": "B1 Chest 17X 7Y - ",
+                        "ref": "Narthex/B1/B1 Chest 17X 7Y/"
+                    },
+                    {
+                        "name": "B1 Chest 19X 13Y - ",
+                        "ref": "Narthex/B1/B1 Chest 19X 13Y/"
+                    },
+                    {
+                        "name": "B1 Chest 6X 14Y - ",
+                        "ref": "Narthex/B1/B1 Chest 6X 14Y/"
+                    },
+                    {
+                        "name": "B1 Chest 25X 15Y - ",
+                        "ref": "Narthex/B1/B1 Chest 25X 15Y/"
+                    },
+                    {
+                        "name": "B1 Chest 10X 16Y - ",
+                        "ref": "Narthex/B1/B1 Chest 10X 16Y/"
+                    },
+                    {
+                        "name": "B1 Chest 14X 16Y - ",
+                        "ref": "Narthex/B1/B1 Chest 14X 16Y/"
+                    },
+                    {
+                        "name": "B1 Chest 25X 24Y - ",
+                        "ref": "Narthex/B1/B1 Chest 25X 24Y/"
+                    },
+                    {
+                        "name": "B1 Chest 20X 6Y  - ",
+                        "ref": "Narthex/B1/B1 Chest 20X 6Y /"
+                    },
+                    {
+                        "name": "B1 Chest 22X 6Y - ",
+                        "ref": "Narthex/B1/B1 Chest 22X 6Y/"
+                    },
+                    {
+                        "name": "B1 Chest 15X 7Y - ",
+                        "ref": "Narthex/B1/B1 Chest 15X 7Y/"
+                    },
+                    {
+                        "name": "B1 Chest 20X 7Y (Suspicious Chest Key) - ",
+                        "ref": "Narthex/B1/B1 Chest 20X 7Y (Suspicious Chest Key)/"
+                    },
+                    {
+                        "name": "B1 Chest 22X 7Y - ",
+                        "ref": "Narthex/B1/B1 Chest 22X 7Y/"
+                    },
+                    {
+                        "name": "B1 Chest 25X 13Y - ",
+                        "ref": "Narthex/B1/B1 Chest 25X 13Y/"
+                    },
+                    {
+                        "name": "B1 Chest 6X 16Y - ",
+                        "ref": "Narthex/B1/B1 Chest 6X 16Y/"
+                    },
+                    {
+                        "name": "B1 Chest 11X 17Y - ",
+                        "ref": "Narthex/B1/B1 Chest 11X 17Y/"
+                    },
+                    {
+                        "name": "B1 Chest 20X 17Y - ",
+                        "ref": "Narthex/B1/B1 Chest 20X 17Y/"
+                    },
+                    {
+                        "name": "B1 Chest 14X 20Y (Narthex Chest Key) - ",
+                        "ref": "Narthex/B1/B1 Chest 14X 20Y (Narthex Chest Key)/"
+                    },
+                    {
+                        "name": "B1 Curio Catalog Obscura 14X 18Y - ",
+                        "ref": "Narthex/B1/B1 Curio Catalog Obscura 14X 18Y/"
+                    },
+                    {
+                        "name": "B1 Curio Sage Salles Bust 25X 20Y - ",
+                        "ref": "Narthex/B1/B1 Curio Sage Salles Bust 25X 20Y/"
+                    },
+                    {
+                        "name": "B1 Chest 7X 23Y - ",
+                        "ref": "Narthex/B1/B1 Chest 7X 23Y/"
+                    },
+                    {
+                        "name": "B1 Chest 7X 24Y - ",
+                        "ref": "Narthex/B1/B1 Chest 7X 24Y/"
+                    },
+                    {
+                        "name": "B1 Chest 21X 9Y (Ashen Chest Key) - ",
+                        "ref": "Narthex/B1/B1 Chest 21X 9Y (Ashen Chest Key)/"
+                    },
+                    {
+                        "name": "B2 Chest 23X 8Y - ",
+                        "ref": "Narthex/B2/B2 Chest 23X 8Y/"
+                    },
+                    {
+                        "name": "B2 Chest 21X 12Y - ",
+                        "ref": "Narthex/B2/B2 Chest 21X 12Y/"
+                    },
+                    {
+                        "name": "B2 Chest 21X 15Y - ",
+                        "ref": "Narthex/B2/B2 Chest 21X 15Y/"
+                    },
+                    {
+                        "name": "B2 Chest 25X 19Y - ",
+                        "ref": "Narthex/B2/B2 Chest 25X 19Y/"
+                    },
+                    {
+                        "name": "B2 Chest 19X 25Y - ",
+                        "ref": "Narthex/B2/B2 Chest 19X 25Y/"
+                    },
+                    {
+                        "name": "B2 Curio Otherworldly Sample 18X 22Y - ",
+                        "ref": "Narthex/B2/B2 Curio Otherworldly Sample 18X 22Y/"
+                    },
+                    {
+                        "name": "B2 Chest 21X 17Y - ",
+                        "ref": "Narthex/B2/B2 Chest 21X 17Y/"
+                    },
+                    {
+                        "name": "B2 Chest 24X 6Y (Narthex Chest Key) - ",
+                        "ref": "Narthex/B2/B2 Chest 24X 6Y (Narthex Chest Key)/"
+                    },
+                    {
+                        "name": "B2 Chest 25X 8Y - ",
+                        "ref": "Narthex/B2/B2 Chest 25X 8Y/"
+                    },
+                    {
+                        "name": "B2 Chest 19X 15Y - ",
+                        "ref": "Narthex/B2/B2 Chest 19X 15Y/"
+                    },
+                    {
+                        "name": "B2 Chest 18X 17Y - ",
+                        "ref": "Narthex/B2/B2 Chest 18X 17Y/"
+                    },
+                    {
+                        "name": "B2 Chest 25X 21Y - ",
+                        "ref": "Narthex/B2/B2 Chest 25X 21Y/"
+                    },
+                    {
+                        "name": "B2 Chest 15X 23Y - ",
+                        "ref": "Narthex/B2/B2 Chest 15X 23Y/"
+                    },
+                    {
+                        "name": "B2 Chest 16X 13Y - ",
+                        "ref": "Narthex/B2/B2 Chest 16X 13Y/"
+                    },
+                    {
+                        "name": "B2 Chest 10X 12Y - ",
+                        "ref": "Narthex/B2/B2 Chest 10X 12Y/"
+                    },
+                    {
+                        "name": "B2 Chest 12X 14Y - ",
+                        "ref": "Narthex/B2/B2 Chest 12X 14Y/"
+                    },
+                    {
+                        "name": "B2 Chest 14X 16Y - ",
+                        "ref": "Narthex/B2/B2 Chest 14X 16Y/"
+                    },
+                    {
+                        "name": "B2 Chest 10X 7Y - ",
+                        "ref": "Narthex/B2/B2 Chest 10X 7Y/"
+                    },
+                    {
+                        "name": "B2 Chest 11X 14Y - ",
+                        "ref": "Narthex/B2/B2 Chest 11X 14Y/"
+                    },
+                    {
+                        "name": "B2 Chest 8X 15Y - ",
+                        "ref": "Narthex/B2/B2 Chest 8X 15Y/"
+                    },
+                    {
+                        "name": "B2 Chest 21X 24Y - ",
+                        "ref": "Narthex/B2/B2 Chest 21X 24Y/"
+                    },
+                    {
+                        "name": "B2 Chest 13X 25Y - ",
+                        "ref": "Narthex/B2/B2 Chest 13X 25Y/"
+                    },
+                    {
+                        "name": "B2 Chest 6X 25Y (Narthex Chest Key) - ",
+                        "ref": "Narthex/B2/B2 Chest 6X 25Y (Narthex Chest Key)/"
+                    },
+                    {
+                        "name": "B3 Chest 11X 19Y - ",
+                        "ref": "Narthex/B3/B3 Chest 11X 19Y/"
+                    },
+                    {
+                        "name": "B3 Chest 11X 21Y - ",
+                        "ref": "Narthex/B3/B3 Chest 11X 21Y/"
+                    },
+                    {
+                        "name": "B3 Chest 15X 23Y - ",
+                        "ref": "Narthex/B3/B3 Chest 15X 23Y/"
+                    },
+                    {
+                        "name": "B3 Chest 15X 24Y - ",
+                        "ref": "Narthex/B3/B3 Chest 15X 24Y/"
+                    },
+                    {
+                        "name": "B3 Chest 15X 19Y - ",
+                        "ref": "Narthex/B3/B3 Chest 15X 19Y/"
+                    },
+                    {
+                        "name": "B3 Chest 19X 19Y - ",
+                        "ref": "Narthex/B3/B3 Chest 19X 19Y/"
+                    },
+                    {
+                        "name": "B3 Chest 17X 19Y - ",
+                        "ref": "Narthex/B3/B3 Chest 17X 19Y/"
+                    },
+                    {
+                        "name": "B3 16X 25Y - ",
+                        "ref": "Narthex/B3/B3 16X 25Y/"
+                    },
+                    {
+                        "name": "B3 20X 25Y - ",
+                        "ref": "Narthex/B3/B3 20X 25Y/"
+                    },
+                    {
+                        "name": "B3 Chest 20X 22Y - ",
+                        "ref": "Narthex/B3/B3 Chest 20X 22Y/"
+                    },
+                    {
+                        "name": "B3 Chest 20X 20Y - ",
+                        "ref": "Narthex/B3/B3 Chest 20X 20Y/"
+                    },
+                    {
+                        "name": "B3 Chest 6X 12Y (Narthex Chest Key) - ",
+                        "ref": "Narthex/B3/B3 Chest 6X 12Y (Narthex Chest Key)/"
+                    },
+                    {
+                        "name": "B3 Chest 12X 15Y - ",
+                        "ref": "Narthex/B3/B3 Chest 12X 15Y/"
+                    },
+                    {
+                        "name": "B3 Chest 20X 11Y - ",
+                        "ref": "Narthex/B3/B3 Chest 20X 11Y/"
+                    },
+                    {
+                        "name": "B3 Chest 6X 6Y - ",
+                        "ref": "Narthex/B3/B3 Chest 6X 6Y/"
+                    },
+                    {
+                        "name": "B3 Chest 17X 8Y - ",
+                        "ref": "Narthex/B3/B3 Chest 17X 8Y/"
+                    },
+                    {
+                        "name": "B3 Chest 25X 8Y (Narthex Chest Key) - ",
+                        "ref": "Narthex/B3/B3 Chest 25X 8Y (Narthex Chest Key)/"
+                    },
+                    {
+                        "name": "B3 Chest 23X 22Y - ",
+                        "ref": "Narthex/B3/B3 Chest 23X 22Y/"
+                    },
+                    {
+                        "name": "B3 Curio Merchants Compote 22X 17Y - ",
+                        "ref": "Narthex/B3/B3 Curio Merchants Compote 22X 17Y/"
+                    },
+                    {
+                        "name": "B3 Chest 25X 11Y - ",
+                        "ref": "Narthex/B3/B3 Chest 25X 11Y/"
+                    },
+                    {
+                        "name": "B3 Chest 24X 11Y - ",
+                        "ref": "Narthex/B3/B3 Chest 24X 11Y/"
+                    },
+                    {
+                        "name": "B3 Chest 7X 19Y - ",
+                        "ref": "Narthex/B3/B3 Chest 7X 19Y/"
+                    },
+                    {
+                        "name": "B3 Chest 13X 25Y - ",
+                        "ref": "Narthex/B3/B3 Chest 13X 25Y/"
+                    },
+                    {
+                        "name": "B4 Chest 20X 24Y - ",
+                        "ref": "Narthex/B4/B4 Chest 20X 24Y/"
+                    },
+                    {
+                        "name": "B4 Chest 16X 20Y - ",
+                        "ref": "Narthex/B4/B4 Chest 16X 20Y/"
+                    },
+                    {
+                        "name": "B4 Chest 14X 19Y - ",
+                        "ref": "Narthex/B4/B4 Chest 14X 19Y/"
+                    },
+                    {
+                        "name": "B4 Chest 21X 14Y - ",
+                        "ref": "Narthex/B4/B4 Chest 21X 14Y/"
+                    },
+                    {
+                        "name": "B4 Chest 22X 11Y - ",
+                        "ref": "Narthex/B4/B4 Chest 22X 11Y/"
+                    },
+                    {
+                        "name": "B4 Chest 14X 15Y - ",
+                        "ref": "Narthex/B4/B4 Chest 14X 15Y/"
+                    },
+                    {
+                        "name": "B4 Chest 15X 15Y - ",
+                        "ref": "Narthex/B4/B4 Chest 15X 15Y/"
+                    },
+                    {
+                        "name": "B4 Chest 19X 10Y - ",
+                        "ref": "Narthex/B4/B4 Chest 19X 10Y/"
+                    },
+                    {
+                        "name": "B4 Curio Queens Jewelry 23X 8Y - ",
+                        "ref": "Narthex/B4/B4 Curio Queens Jewelry 23X 8Y/"
+                    },
+                    {
+                        "name": "B4 Chest 17X 11Y - ",
+                        "ref": "Narthex/B4/B4 Chest 17X 11Y/"
+                    },
+                    {
+                        "name": "B4 Chest 16X 11Y - ",
+                        "ref": "Narthex/B4/B4 Chest 16X 11Y/"
+                    },
+                    {
+                        "name": "B4 Chest 13X 3Y - ",
+                        "ref": "Narthex/B4/B4 Chest 13X 3Y/"
+                    },
+                    {
+                        "name": "B4 Chest 12X 25Y - ",
+                        "ref": "Narthex/B4/B4 Chest 12X 25Y/"
+                    },
+                    {
+                        "name": "B4 Chest 9X 20Y - ",
+                        "ref": "Narthex/B4/B4 Chest 9X 20Y/"
+                    },
+                    {
+                        "name": "B4 Chest 12X 19Y - ",
+                        "ref": "Narthex/B4/B4 Chest 12X 19Y/"
+                    },
+                    {
+                        "name": "B4 Chest 12X 20Y - ",
+                        "ref": "Narthex/B4/B4 Chest 12X 20Y/"
+                    },
+                    {
+                        "name": "B4 Chest 12X 21Y (Ashen Chest Key) - ",
+                        "ref": "Narthex/B4/B4 Chest 12X 21Y (Ashen Chest Key)/"
+                    },
+                    {
+                        "name": "B4 Chest 10X 11Y - ",
+                        "ref": "Narthex/B4/B4 Chest 10X 11Y/"
+                    },
+                    {
+                        "name": "B4 Chest 7X 15Y - ",
+                        "ref": "Narthex/B4/B4 Chest 7X 15Y/"
+                    },
+                    {
+                        "name": "B4 Chest 14X 9Y - ",
+                        "ref": "Narthex/B4/B4 Chest 14X 9Y/"
+                    },
+                    {
+                        "name": "B4 Chest 6X 6Y - ",
+                        "ref": "Narthex/B4/B4 Chest 6X 6Y/"
+                    },
+                    {
+                        "name": "B4 Chest 12X 6Y - ",
+                        "ref": "Narthex/B4/B4 Chest 12X 6Y/"
+                    },
+                    {
+                        "name": "B5 Chest 17X 18Y - ",
+                        "ref": "Narthex/B5/B5 Chest 17X 18Y/"
+                    },
+                    {
+                        "name": "B5 Chest 16X 19Y - ",
+                        "ref": "Narthex/B5/B5 Chest 16X 19Y/"
+                    },
+                    {
+                        "name": "Find Narthex B5 Wardrobe - ",
+                        "ref": "Narthex/B5/Find Narthex B5 Wardrobe/"
+                    },
+                    {
+                        "name": "B5 Chest 8X 22Y - ",
+                        "ref": "Narthex/B5/B5 Chest 8X 22Y/"
+                    },
+                    {
+                        "name": "B5 Chest 7X 23Y - ",
+                        "ref": "Narthex/B5/B5 Chest 7X 23Y/"
+                    },
+                    {
+                        "name": "B5 Chest 8X 23Y - ",
+                        "ref": "Narthex/B5/B5 Chest 8X 23Y/"
+                    },
+                    {
+                        "name": "B5 Chest 6X 25Y - ",
+                        "ref": "Narthex/B5/B5 Chest 6X 25Y/"
+                    },
+                    {
+                        "name": "B5 Chest 11X 19Y (Narthex Chest Key II) - ",
+                        "ref": "Narthex/B5/B5 Chest 11X 19Y (Narthex Chest Key II)/"
+                    },
+                    {
+                        "name": "B5 Chest 12X 19Y (Narthex Chest Key II) - ",
+                        "ref": "Narthex/B5/B5 Chest 12X 19Y (Narthex Chest Key II)/"
+                    },
+                    {
+                        "name": "B5 Chest 10X 8Y - ",
+                        "ref": "Narthex/B5/B5 Chest 10X 8Y/"
+                    },
+                    {
+                        "name": "B5 Chest 6X 6Y - ",
+                        "ref": "Narthex/B5/B5 Chest 6X 6Y/"
+                    },
+                    {
+                        "name": "B5 Chest 7X 6Y - ",
+                        "ref": "Narthex/B5/B5 Chest 7X 6Y/"
+                    },
+                    {
+                        "name": "B5 Chest 14X 9Y - ",
+                        "ref": "Narthex/B5/B5 Chest 14X 9Y/"
+                    },
+                    {
+                        "name": "B5 Chest 7X 16Y - ",
+                        "ref": "Narthex/B5/B5 Chest 7X 16Y/"
+                    },
+                    {
+                        "name": "B5 Curio Amu-Inscribed Bureau - ",
+                        "ref": "Narthex/B5/B5 Curio Amu-Inscribed Bureau/"
+                    },
+                    {
+                        "name": "B5 Chest 8X 17Y - ",
+                        "ref": "Narthex/B5/B5 Chest 8X 17Y/"
+                    },
+                    {
+                        "name": "B5 Chest 25X 7Y - ",
+                        "ref": "Narthex/B5/B5 Chest 25X 7Y/"
+                    },
+                    {
+                        "name": "B5 Chest 25X 8Y - ",
+                        "ref": "Narthex/B5/B5 Chest 25X 8Y/"
+                    },
+                    {
+                        "name": "B5 Chest 25X 14Y - ",
+                        "ref": "Narthex/B5/B5 Chest 25X 14Y/"
+                    },
+                    {
+                        "name": "B5 Chest 22X 18Y - ",
+                        "ref": "Narthex/B5/B5 Chest 22X 18Y/"
+                    },
+                    {
+                        "name": "B5 Chest 25X 16Y - ",
+                        "ref": "Narthex/B5/B5 Chest 25X 16Y/"
+                    },
+                    {
+                        "name": "B5 Chest 20X 10Y - ",
+                        "ref": "Narthex/B5/B5 Chest 20X 10Y/"
+                    },
+                    {
+                        "name": "B5 Chest 19X 13Y - ",
+                        "ref": "Narthex/B5/B5 Chest 19X 13Y/"
+                    },
+                    {
+                        "name": "B6 Chest 6X 25Y - ",
+                        "ref": "Narthex/B6/B6 Chest 6X 25Y/"
+                    },
+                    {
+                        "name": "B6 Chest 7X 25Y - ",
+                        "ref": "Narthex/B6/B6 Chest 7X 25Y/"
+                    },
+                    {
+                        "name": "B6 Chest 12X 19Y - ",
+                        "ref": "Narthex/B6/B6 Chest 12X 19Y/"
+                    },
+                    {
+                        "name": "B6 Chest 6X 14Y - ",
+                        "ref": "Narthex/B6/B6 Chest 6X 14Y/"
+                    },
+                    {
+                        "name": "B6 Chest 8X 14Y - ",
+                        "ref": "Narthex/B6/B6 Chest 8X 14Y/"
+                    },
+                    {
+                        "name": "B6 Chest 7X 12Y - ",
+                        "ref": "Narthex/B6/B6 Chest 7X 12Y/"
+                    },
+                    {
+                        "name": "B6 Chest 10X 12Y - ",
+                        "ref": "Narthex/B6/B6 Chest 10X 12Y/"
+                    },
+                    {
+                        "name": "B6 Chest 8X 7Y - ",
+                        "ref": "Narthex/B6/B6 Chest 8X 7Y/"
+                    },
+                    {
+                        "name": "B6 Chest 11X 7Y - ",
+                        "ref": "Narthex/B6/B6 Chest 11X 7Y/"
+                    },
+                    {
+                        "name": "B6 Chest 13X 6Y - ",
+                        "ref": "Narthex/B6/B6 Chest 13X 6Y/"
+                    },
+                    {
+                        "name": "B6 Chest 15X 11Y - ",
+                        "ref": "Narthex/B6/B6 Chest 15X 11Y/"
+                    },
+                    {
+                        "name": "B6 Chest 6X 19Y (Narthex Chest Key II) - ",
+                        "ref": "Narthex/B6/B6 Chest 6X 19Y (Narthex Chest Key II)/"
+                    },
+                    {
+                        "name": "B6 Chest 6X 20Y (Narthex Chest Key II) - ",
+                        "ref": "Narthex/B6/B6 Chest 6X 20Y (Narthex Chest Key II)/"
+                    },
+                    {
+                        "name": "B6 Curio St. Mins Demon Mask 16X 20Y - ",
+                        "ref": "Narthex/B6/B6 Curio St. Mins Demon Mask 16X 20Y/"
+                    },
+                    {
+                        "name": "B6 Chest 16X 24Y - ",
+                        "ref": "Narthex/B6/B6 Chest 16X 24Y/"
+                    },
+                    {
+                        "name": "B6 Chest 21X 24Y - ",
+                        "ref": "Narthex/B6/B6 Chest 21X 24Y/"
+                    },
+                    {
+                        "name": "B6 Chest 25X 25Y - ",
+                        "ref": "Narthex/B6/B6 Chest 25X 25Y/"
+                    },
+                    {
+                        "name": "B6 Chest 25X 23Y - ",
+                        "ref": "Narthex/B6/B6 Chest 25X 23Y/"
+                    },
+                    {
+                        "name": "B6 Chest 25X 20Y - ",
+                        "ref": "Narthex/B6/B6 Chest 25X 20Y/"
+                    },
+                    {
+                        "name": "B6 Chest 21X 20Y - ",
+                        "ref": "Narthex/B6/B6 Chest 21X 20Y/"
+                    },
+                    {
+                        "name": "B6 Chest 18X 11Y - ",
+                        "ref": "Narthex/B6/B6 Chest 18X 11Y/"
+                    },
+                    {
+                        "name": "B6 Chest 14X 14Y - ",
+                        "ref": "Narthex/B6/B6 Chest 14X 14Y/"
+                    },
+                    {
+                        "name": "B6 Chest 23X 18Y - ",
+                        "ref": "Narthex/B6/B6 Chest 23X 18Y/"
+                    },
+                    {
+                        "name": "B6 Chest 24X 15Y - ",
+                        "ref": "Narthex/B6/B6 Chest 24X 15Y/"
+                    },
+                    {
+                        "name": "B6 Chest 25X 14Y (Suspicious Chest Key) - ",
+                        "ref": "Narthex/B6/B6 Chest 25X 14Y (Suspicious Chest Key)/"
+                    },
+                    {
+                        "name": "B6 Chest 24X 10Y - ",
+                        "ref": "Narthex/B6/B6 Chest 24X 10Y/"
+                    },
+                    {
+                        "name": "B6 Chest 21X 10Y - ",
+                        "ref": "Narthex/B6/B6 Chest 21X 10Y/"
+                    },
+                    {
+                        "name": "B7 Chest 23X 15Y - ",
+                        "ref": "Narthex/B7/B7 Chest 23X 15Y/"
+                    },
+                    {
+                        "name": "B7 Chest 24X 21Y - ",
+                        "ref": "Narthex/B7/B7 Chest 24X 21Y/"
+                    },
+                    {
+                        "name": "B7 Chest 25X 23Y - ",
+                        "ref": "Narthex/B7/B7 Chest 25X 23Y/"
+                    },
+                    {
+                        "name": "B7 Chest 18X 24Y - ",
+                        "ref": "Narthex/B7/B7 Chest 18X 24Y/"
+                    },
+                    {
+                        "name": "B7 Chest 23X 6Y - ",
+                        "ref": "Narthex/B7/B7 Chest 23X 6Y/"
+                    },
+                    {
+                        "name": "B7 Chest 24X 6Y - ",
+                        "ref": "Narthex/B7/B7 Chest 24X 6Y/"
+                    },
+                    {
+                        "name": "B7 Chest 15X 6Y - ",
+                        "ref": "Narthex/B7/B7 Chest 15X 6Y/"
+                    },
+                    {
+                        "name": "B7 Chest 17X 10Y - ",
+                        "ref": "Narthex/B7/B7 Chest 17X 10Y/"
+                    },
+                    {
+                        "name": "B7 Chest 12X 23Y - ",
+                        "ref": "Narthex/B7/B7 Chest 12X 23Y/"
+                    },
+                    {
+                        "name": "B7 Chest 16X 23Y - ",
+                        "ref": "Narthex/B7/B7 Chest 16X 23Y/"
+                    },
+                    {
+                        "name": "B7 Chest 16X 24Y - ",
+                        "ref": "Narthex/B7/B7 Chest 16X 24Y/"
+                    },
+                    {
+                        "name": "B7 Chest 10X 21Y - ",
+                        "ref": "Narthex/B7/B7 Chest 10X 21Y/"
+                    },
+                    {
+                        "name": "B7 Chest 10X 22Y - ",
+                        "ref": "Narthex/B7/B7 Chest 10X 22Y/"
+                    },
+                    {
+                        "name": "B7 Chest 8X 15Y - ",
+                        "ref": "Narthex/B7/B7 Chest 8X 15Y/"
+                    },
+                    {
+                        "name": "B7 Chest 11X 19Y - ",
+                        "ref": "Narthex/B7/B7 Chest 11X 19Y/"
+                    },
+                    {
+                        "name": "B7 Chest 11X 14Y - ",
+                        "ref": "Narthex/B7/B7 Chest 11X 14Y/"
+                    },
+                    {
+                        "name": "B7 Curio Abyssal Conch Shell 11X 17Y - ",
+                        "ref": "Narthex/B7/B7 Curio Abyssal Conch Shell 11X 17Y/"
+                    },
+                    {
+                        "name": "B7 Chest 15X 17Y (Suspicious Chest Key) - ",
+                        "ref": "Narthex/B7/B7 Chest 15X 17Y (Suspicious Chest Key)/"
+                    },
+                    {
+                        "name": "B7 Chest 14X 14Y - ",
+                        "ref": "Narthex/B7/B7 Chest 14X 14Y/"
+                    },
+                    {
+                        "name": "B7 Chest 14X 20Y - ",
+                        "ref": "Narthex/B7/B7 Chest 14X 20Y/"
+                    },
+                    {
+                        "name": "B7 Chest 18X 21Y - ",
+                        "ref": "Narthex/B7/B7 Chest 18X 21Y/"
+                    },
+                    {
+                        "name": "B7 Chest 11X 4Y - ",
+                        "ref": "Narthex/B7/B7 Chest 11X 4Y/"
+                    },
+                    {
+                        "name": "B7 Chest 13X 4Y - ",
+                        "ref": "Narthex/B7/B7 Chest 13X 4Y/"
+                    },
+                    {
+                        "name": "B7 Chest 14X 9Y (Ashen Chest Key) - ",
+                        "ref": "Narthex/B7/B7 Chest 14X 9Y (Ashen Chest Key)/"
+                    },
+                    {
+                        "name": "B7 Chest 14X 13Y - ",
+                        "ref": "Narthex/B7/B7 Chest 14X 13Y/"
+                    },
+                    {
+                        "name": "B7 Chest 5X 15Y - ",
+                        "ref": "Narthex/B7/B7 Chest 5X 15Y/"
+                    },
+                    {
+                        "name": "B7 Chest 4X 10Y - ",
+                        "ref": "Narthex/B7/B7 Chest 4X 10Y/"
+                    },
+                    {
+                        "name": "B7 Chest 3X 7Y - ",
+                        "ref": "Narthex/B7/B7 Chest 3X 7Y/"
+                    },
+                    {
+                        "name": "B7 Chest 8X 8Y - ",
+                        "ref": "Narthex/B7/B7 Chest 8X 8Y/"
+                    },
+                    {
+                        "name": "B7 Chest 11X 11Y - ",
+                        "ref": "Narthex/B7/B7 Chest 11X 11Y/"
+                    },
+                    {
+                        "name": "B7 Chest 6X 5Y - ",
+                        "ref": "Narthex/B7/B7 Chest 6X 5Y/"
+                    },
+                    {
+                        "name": "B7 Chest 6X 7Y - ",
+                        "ref": "Narthex/B7/B7 Chest 6X 7Y/"
+                    },
+                    {
+                        "name": "B7 Chest 6X 8Y - ",
+                        "ref": "Narthex/B7/B7 Chest 6X 8Y/"
+                    },
+                    {
+                        "name": "B7 Curio Ancient Sages Book 5X 4Y - ",
+                        "ref": "Narthex/B7/B7 Curio Ancient Sages Book 5X 4Y/"
+                    },
+                    {
+                        "name": "B7 Chest 22X 6Y - ",
+                        "ref": "Narthex/B7/B7 Chest 22X 6Y/"
+                    },
+                    {
+                        "name": "B7 Chest 21X 6Y (Suspicious Chest Key) - ",
+                        "ref": "Narthex/B7/B7 Chest 21X 6Y (Suspicious Chest Key)/"
+                    },
+                    {
+                        "name": "B7 Chest 18X 10Y - ",
+                        "ref": "Narthex/B7/B7 Chest 18X 10Y/"
+                    },
+                    {
+                        "name": "B7 Chest 18X 6Y - ",
+                        "ref": "Narthex/B7/B7 Chest 18X 6Y/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 71,
+                        "y": 832,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Narthex B3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "B3 Chest 6X 19Y - ",
+                        "ref": "Narthex B3/B3 Chest 6X 19Y/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 647,
+                        "y": 2055,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yellow Transept",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Layer 1 Chest 19X 16Y (Yellow Chest Key) - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Chest 19X 16Y (Yellow Chest Key)/"
+                    },
+                    {
+                        "name": "Layer 1 Chest 23X 12Y - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Chest 23X 12Y/"
+                    },
+                    {
+                        "name": "Layer 1 Chest 23X 19Y - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Chest 23X 19Y/"
+                    },
+                    {
+                        "name": "Layer 1 Chest 18X 22Y - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Chest 18X 22Y/"
+                    },
+                    {
+                        "name": "Layer 1 Chest 22X 9Y - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Chest 22X 9Y/"
+                    },
+                    {
+                        "name": "Layer 1 Chest 22X 10Y - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Chest 22X 10Y/"
+                    },
+                    {
+                        "name": "Layer 1 Chest 11X 14Y - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Chest 11X 14Y/"
+                    },
+                    {
+                        "name": "Layer 1 Chest 13X 18Y - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Chest 13X 18Y/"
+                    },
+                    {
+                        "name": "Layer 1 Chest 14X 23Y - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Chest 14X 23Y/"
+                    },
+                    {
+                        "name": "Layer 1 Chest 11X 12Y - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Chest 11X 12Y/"
+                    },
+                    {
+                        "name": "Layer 1 Chest 9X 9Y - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Chest 9X 9Y/"
+                    },
+                    {
+                        "name": "Layer 1 Chest 9X 10Y - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Chest 9X 10Y/"
+                    },
+                    {
+                        "name": "Layer 1 Curio Cranbianas Cup 8X 10Y - ",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Curio Cranbianas Cup 8X 10Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 8X 17Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 8X 17Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 10X 18Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 10X 18Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 8X 12Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 8X 12Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 8X 14Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 8X 14Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 13X 12Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 13X 12Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 8X 9Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 8X 9Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 9X 9Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 9X 9Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 22X 17Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 22X 17Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 23X 21Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 23X 21Y/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 17X 21Y (Yellow Chest Key) - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 17X 21Y (Yellow Chest Key)/"
+                    },
+                    {
+                        "name": "Layer 2 Chest 16X 21Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Chest 16X 21Y/"
+                    },
+                    {
+                        "name": "Layer 2 Curio Giant Fire Lizard Egg 14X 23Y - ",
+                        "ref": "Yellow Transept/Layer 2/Layer 2 Curio Giant Fire Lizard Egg 14X 23Y/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 9X 14Y - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 9X 14Y/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 11X 12Y - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 11X 12Y/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 14X 23Y - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 14X 23Y/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 17X 18Y - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 17X 18Y/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 14X 19Y - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 14X 19Y/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 10X 19Y - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 10X 19Y/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 23X 14Y - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 23X 14Y/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 17X 22Y - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 17X 22Y/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 17X 23Y - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 17X 23Y/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 18X 10Y - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 18X 10Y/"
+                    },
+                    {
+                        "name": "Layer 3 Curio Nubys Skull 16X 9Y - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Curio Nubys Skull 16X 9Y/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 11X 8Y - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 11X 8Y/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 8X 8Y (Yellow Chest Key) - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 8X 8Y (Yellow Chest Key)/"
+                    },
+                    {
+                        "name": "Layer 3 Chest 9X 8Y (Yellow Chest Key) - ",
+                        "ref": "Yellow Transept/Layer 3/Layer 3 Chest 9X 8Y (Yellow Chest Key)/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 89,
+                        "y": 1571,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yellow Transept Layer 2 Chest 18X 7Y",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Yellow Transept Layer 2 Chest 18X 7Y - ",
+                        "ref": "Yellow Transept Layer 2 Chest 18X 7Y/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1896,
+                        "y": 533,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yellow Transept Layer 2 Chest 20X 5Y",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Yellow Transept Layer 2 Chest 20X 5Y - ",
+                        "ref": "Yellow Transept Layer 2 Chest 20X 5Y/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 893,
+                        "y": 1513,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yellow Transept Layer 2 Chest 26X 10Y",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Yellow Transept Layer 2 Chest 26X 10Y - ",
+                        "ref": "Yellow Transept Layer 2 Chest 26X 10Y/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1226,
+                        "y": 1156,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yellow Transept Layer 2 Chest 26X 8Y",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Yellow Transept Layer 2 Chest 26X 8Y - ",
+                        "ref": "Yellow Transept Layer 2 Chest 26X 8Y/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1036,
+                        "y": 2434,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Yellow Transept Layer 2 Curio Testorant 25X 12Y",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Yellow Transept Layer 2 Curio Testorant 25X 12Y - ",
+                        "ref": "Yellow Transept Layer 2 Curio Testorant 25X 12Y/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1847,
+                        "y": 404,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]
