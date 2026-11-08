@@ -1,6 +1,6 @@
 [
     {
-        "name": "unsealingritual",
+        "name": "Unsealing Ritual",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_question.png",
         "initial_active_state": false,
@@ -8,7 +8,7 @@
         "codes": "unsealingritual"
     },
     {
-        "name": "galleriacatalog",
+        "name": "Galleria Catalog",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_question.png",
         "initial_active_state": false,
@@ -16,7 +16,7 @@
         "codes": "galleriacatalog"
     },
     {
-        "name": "visitagentleworld",
+        "name": "Visit a Gentle World",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -24,7 +24,7 @@
         "codes": "visitagentleworld"
     },
         {
-        "name": "visitanightmareworld",
+        "name": "Visit a Nightmare World",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -32,7 +32,7 @@
         "codes": "visitanightmareworld"
     },
     {
-        "name": "progressivestartleenemies",
+        "name": "Progressive Startle Enemies",
         "type": "consumable",
         "img": "images/items/witch_petition/red_tag.png",
         "min_quantity": 0,
@@ -46,7 +46,7 @@
         "codes": "progressivestartleenemies"
     },
     {
-        "name": "progressivepost-battlerecovery",
+        "name": "Progressive Post-Battle Recovery",
         "type": "consumable",
         "img": "images/items/witch_petition/red_tag.png",
         "min_quantity": 0,
@@ -60,7 +60,7 @@
         "codes": "progressivepost-battlerecovery"
     },
     {
-        "name": "immortality",
+        "name": "Immortality",
         "type": "toggle",
         "img": "images/items/witch_petition/red_tag.png",
         "initial_active_state": false,
@@ -68,7 +68,7 @@
         "codes": "immortality"
     },
     {
-        "name": "progressivetalisman",
+        "name": "Progressive Talisman",
         "type": "consumable",
         "img": "images/items/witch_petition/blue_tag.png",
         "min_quantity": 0,
@@ -82,7 +82,7 @@
         "codes": "progressivetalisman"
     },
     {
-        "name": "userfoffensively",
+        "name": "Use RF Offensively",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_tag.png",
         "initial_active_state": false,
@@ -90,7 +90,7 @@
         "codes": "userfoffensively"
     },
     {
-        "name": "progressiveincreasetravelrange",
+        "name": "Progressive Increase Travel Range",
         "type": "consumable",
         "img": "images/items/witch_petition/blue_tag.png",
         "min_quantity": 0,
@@ -104,7 +104,7 @@
         "codes": "progressiveincreasetravelrange"
     },
     {
-        "name": "footwear",
+        "name": "Footwear",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -112,7 +112,7 @@
         "codes": "footwear"
     },
     {
-        "name": "userfdefensively",
+        "name": "Use RF Defensively",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_tag.png",
         "initial_active_state": false,
@@ -120,7 +120,7 @@
         "codes": "userfdefensively"
     },
     {
-        "name": "leavesnotesatwill",
+        "name": "Leave Notes At Will",
         "type": "toggle",
         "img": "images/items/witch_petition/blue_tag.png",
         "initial_active_state": false,
@@ -128,7 +128,7 @@
         "codes": "leavesnotesatwill"
     },
     {
-        "name": "progressivemorerewards",
+        "name": "Progressive More Rewards",
         "type": "consumable",
         "img": "images/items/witch_petition/gray_rune.png",
         "min_quantity": 0,
@@ -142,7 +142,7 @@
         "codes": "progressivemorerewards"
     },
     {
-        "name": "progressivestopenemies",
+        "name": "Progressive Stop Enemies",
         "type": "consumable",
         "img": "images/items/witch_petition/purple_tag.png",
         "min_quantity": 0,
@@ -156,7 +156,7 @@
         "codes": "progressivestopenemies"
     },
     {
-        "name": "renamesoulpacts",
+        "name": "Rename Soul Pacts",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -164,7 +164,7 @@
         "codes": "renamesoulpacts"
     },
     {
-        "name": "progressivestockpilexp",
+        "name": "Progressive Stockpile EXP",
         "type": "consumable",
         "img": "images/items/witch_petition/purple_tag.png",
         "min_quantity": 0,
@@ -178,7 +178,7 @@
         "codes": "progressivestockpilexp"
     },
     {
-        "name": "progressiveescapebattleseasier",
+        "name": "Progressive Escape Battles Easier",
         "type": "consumable",
         "img": "images/items/witch_petition/red_tag.png",
         "min_quantity": 0,
@@ -192,7 +192,7 @@
         "codes": "progressiveescapebattleseasier"
     },
     {
-        "name": "possess",
+        "name": "Possess",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -200,7 +200,7 @@
         "codes": "possess"
     },
     {
-        "name": "dodgepitfalls",
+        "name": "Dodge Pitfalls",
         "type": "toggle",
         "img": "images/items/witch_petition/blue_tag.png",
         "initial_active_state": false,
@@ -208,7 +208,7 @@
         "codes": "dodgepitfalls"
     },
     {
-        "name": "hastyrfuse",
+        "name": "Hasty RF Use",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_tag.png",
         "initial_active_state": false,
@@ -216,7 +216,7 @@
         "codes": "hastyrfuse"
     },
     {
-        "name": "progressiveswimming",
+        "name": "Progressive Swimming",
         "type": "consumable",
         "img": "images/items/witch_petition/blue_tag.png",
         "min_quantity": 0,
@@ -230,7 +230,7 @@
         "codes": "progressiveswimming"
     },
     {
-        "name": "progressivesearchforthelost",
+        "name": "Progressive Search For The Lost",
         "type": "consumable",
         "img": "images/items/witch_petition/blue_tag.png",
         "min_quantity": 0,
@@ -244,7 +244,7 @@
         "codes": "progressivesearchforthelost"
     },
     {
-        "name": "exorcise",
+        "name": "Exorcise",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -252,7 +252,7 @@
         "codes": "exorcise"
     },
     {
-        "name": "progressiveeattastymeat",
+        "name": "Progressive Eat Tasty Meat",
         "type": "consumable",
         "img": "images/items/witch_petition/red_tag.png",
         "min_quantity": 0,
@@ -266,7 +266,7 @@
         "codes": "progressiveeattastymeat"
     },
     {
-        "name": "stopbeforeapitfall",
+        "name": "Stop Before a Pitfall",
         "type": "toggle",
         "img": "images/items/witch_petition/blue_tag.png",
         "initial_active_state": false,
@@ -274,7 +274,7 @@
         "codes": "stopbeforeapitfall"
     },
     {
-        "name": "tacticalrfuse",
+        "name": "Tactical RF Use",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_tag.png",
         "initial_active_state": false,
@@ -282,7 +282,7 @@
         "codes": "tacticalrfuse"
     },
     {
-        "name": "scapegoat",
+        "name": "Scapegoat",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -290,7 +290,7 @@
         "codes": "scapegoat"
     },
     {
-        "name": "progressiveblockenemies",
+        "name": "Progressive Block Enemies",
         "type": "consumable",
         "img": "images/items/witch_petition/purple_tag.png",
         "min_quantity": 0,
@@ -304,7 +304,7 @@
         "codes": "progressiveblockenemies"
     },
     {
-        "name": "wallbreaker",
+        "name": "Wallbreaker",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_tag.png",
         "initial_active_state": false,
@@ -312,7 +312,7 @@
         "codes": "wallbreaker"
     },
     {
-        "name": "progressivehidefromenemies",
+        "name": "Progressive Hide From Enemies",
         "type": "consumable",
         "img": "images/items/witch_petition/blue_tag.png",
         "min_quantity": 0,
@@ -326,7 +326,7 @@
         "codes": "progressivehidefromenemies"
     },
     {
-        "name": "renamepuppetsoldiers",
+        "name": "Rename Puppet Soldiers",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -334,7 +334,7 @@
         "codes": "renamepuppetsoldiers"
     },
     {
-        "name": "progressiveleavelabyrinthatwill",
+        "name": "Progressive Leave Labyrinth At Will",
         "type": "consumable",
         "img": "images/items/witch_petition/purple_tag.png",
         "min_quantity": 0,
@@ -348,7 +348,7 @@
         "codes": "progressiveleavelabyrinthatwill"
     },
     {
-        "name": "bringmanaintolabyrinth",
+        "name": "Bring Mana Into Labyrinth",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_tag.png",
         "initial_active_state": false,
@@ -356,7 +356,7 @@
         "codes": "bringmanaintolabyrinth"
     },
     {
-        "name": "bringthemback",
+        "name": "Bring Them Back",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -364,7 +364,7 @@
         "codes": "bringthemback"
     },
     {
-        "name": "treasure",
+        "name": "Treasure",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -372,7 +372,7 @@
         "codes": "treasure"
     },
     {
-        "name": "morestatgrowthoptions",
+        "name": "More Stat Growth Options",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -380,7 +380,7 @@
         "codes": "morestatgrowthoptions"
     },
     {
-        "name": "progressiveformations",
+        "name": "Progressive Formations",
         "type": "consumable",
         "img": "images/items/witch_petition/red_tag.png",
         "min_quantity": 0,
@@ -394,7 +394,7 @@
         "codes": "progressiveformations"
     },
     {
-        "name": "learnenemymoves",
+        "name": "Learn Enemy Moves",
         "type": "toggle",
         "img": "images/items/witch_petition/red_tag.png",
         "initial_active_state": false,
@@ -402,7 +402,7 @@
         "codes": "learnenemymoves"
     },
     {
-        "name": "findmoreitems",
+        "name": "Find More Items",
         "type": "toggle",
         "img": "images/items/witch_petition/blue_tag.png",
         "initial_active_state": false,
@@ -410,7 +410,7 @@
         "codes": "findmoreitems"
     },
     {
-        "name": "useportalmagic",
+        "name": "Use Portal Magic",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_tag.png",
         "initial_active_state": false,
@@ -418,7 +418,7 @@
         "codes": "useportalmagic"
     },
     {
-        "name": "specialordersinbattle",
+        "name": "Special Orders In Battle",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_tag.png",
         "initial_active_state": false,
@@ -426,7 +426,7 @@
         "codes": "specialordersinbattle"
     },
     {
-        "name": "destroyotherswithtackle",
+        "name": "Destroy Others With Tackle",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_tag.png",
         "initial_active_state": false,
@@ -434,7 +434,7 @@
         "codes": "destroyotherswithtackle"
     },
     {
-        "name": "leavenotesonmap",
+        "name": "Leave Notes on Map",
         "type": "toggle",
         "img": "images/items/witch_petition/blue_tag.png",
         "initial_active_state": false,
@@ -442,7 +442,7 @@
         "codes": "leavenotesonmap"
     },
     {
-        "name": "avoidenemiesaltogether",
+        "name": "Avoid Enemies Altogether",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_tag.png",
         "initial_active_state": false,
@@ -450,7 +450,7 @@
         "codes": "avoidenemiesaltogether"
     },
     {
-        "name": "lureenemies",
+        "name": "Lure Enemies",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_tag.png",
         "initial_active_state": false,

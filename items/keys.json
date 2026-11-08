@@ -1,6 +1,6 @@
 [
     {
-        "name": "marquischestkey",
+        "name": "Marquis' Chest Key",
         "type": "toggle",
         "img": "images/items/keys/act1_key.png",
         "initial_active_state": false,
@@ -8,7 +8,7 @@
         "codes": "marquischestkey"
     },
     {
-        "name": "ashenchestkey",
+        "name": "Ashen Chest Key",
         "type": "toggle",
         "img": "images/items/keys/act1_key.png",
         "initial_active_state": false,
@@ -16,7 +16,7 @@
         "codes": "ashenchestkey"
     },
     {
-        "name": "crimsonchestkey",
+        "name": "Crimson Chest Key",
         "type": "toggle",
         "img": "images/items/keys/act1_key.png",
         "initial_active_state": false,
@@ -24,7 +24,7 @@
         "codes": "crimsonchestkey"
     },
     {
-        "name": "yellowchestkey",
+        "name": "Yellow Chest Key",
         "type": "toggle",
         "img": "images/items/keys/act1_key.png",
         "initial_active_state": false,
@@ -32,7 +32,7 @@
         "codes": "yellowchestkey"
     },
     {
-        "name": "apsechestkey",
+        "name": "Apse Chest Key",
         "type": "toggle",
         "img": "images/items/keys/act1_key.png",
         "initial_active_state": false,
@@ -40,7 +40,7 @@
         "codes": "apsechestkey"
     },
     {
-        "name": "apsechestkeyii",
+        "name": "Apse Chest Key II",
         "type": "toggle",
         "img": "images/items/keys/act1_key.png",
         "initial_active_state": false,
@@ -48,7 +48,7 @@
         "codes": "apsechestkeyii"
     },
     {
-        "name": "apsechestkeyiii",
+        "name": "Apse Chest Key III",
         "type": "toggle",
         "img": "images/items/keys/act1_key.png",
         "initial_active_state": false,
@@ -56,7 +56,7 @@
         "codes": "apsechestkeyiii"
     },
     {
-        "name": "narthexchestkey",
+        "name": "Narthex Chest Key",
         "type": "toggle",
         "img": "images/items/keys/act1_key.png",
         "initial_active_state": false,
@@ -64,7 +64,7 @@
         "codes": "narthexchestkey"
     },
     {
-        "name": "narthexchestkeyii",
+        "name": "Narthex Chest Key II",
         "type": "toggle",
         "img": "images/items/keys/act1_key.png",
         "initial_active_state": false,
@@ -72,7 +72,7 @@
         "codes": "narthexchestkeyii"
     },
     {
-        "name": "suspiciouschestkey",
+        "name": "Suspicious Chest Key",
         "type": "toggle",
         "img": "images/items/keys/act1_key.png",
         "initial_active_state": false,
@@ -80,7 +80,7 @@
         "codes": "suspiciouschestkey"
     },
     {
-        "name": "indigochestkey",
+        "name": "Indigo Chest Key",
         "type": "toggle",
         "img": "images/items/keys/act1_key.png",
         "initial_active_state": false,

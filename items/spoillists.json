@@ -1,6 +1,6 @@
 [
     {
-        "name": "crimsontranseptspoilslist",
+        "name": "C. Transept Spoils List",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -8,7 +8,7 @@
         "codes": "crimsontranseptspoilslist"
     },
     {
-        "name": "narthexspoilslist",
+        "name": "Narthex Spoils List",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -16,7 +16,7 @@
         "codes": "narthexspoilslist"
     },
     {
-        "name": "chancelspoilslist",
+        "name": "Chancel Spoils List",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -24,7 +24,7 @@
         "codes": "chancelspoilslist"
     },
     {
-        "name": "apsespoilslist",
+        "name": "Apse Spoils List",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -32,7 +32,7 @@
         "codes": "apsespoilslist"
     },
     {
-        "name": "indigotranseptspoilslist",
+        "name": "Indigo Transept Spoils List",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
@@ -40,7 +40,7 @@
         "codes": "indigotranseptspoilslist"
     },
     {
-        "name": "yellowtranseptspoilslist",
+        "name": "Yellow Transept Spoils List",
         "type": "toggle",
         "img": "images/items/witch_petition/gray_rune.png",
         "initial_active_state": false,
