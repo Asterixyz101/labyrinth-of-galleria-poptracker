@@ -47,6 +47,22 @@
         "overlay_align": "right",
         "codes": "shinobushi(f)"
     },
+        {
+        "name": "shinobushi(m)",
+        "type": "toggle",
+        "img": "images/items/shinobushi(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shinobushi(m)"
+    },
+    {
+        "name": "theatricaldolce(f)",
+        "type": "toggle",
+        "img": "images/items/theatricaldolce(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "theatricaldolce(f)"
+    },
     {
         "name": "famyuchaser(m)",
         "type": "toggle",
