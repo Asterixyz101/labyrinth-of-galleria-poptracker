@@ -348,9 +348,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 1",
-                                "x": 1149,
-                                "y": 312,
-                                "size": 10,
+                                "x": 1296,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -905,9 +905,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 2",
-                                "x": 726,
-                                "y": 326,
-                                "size": 10,
+                                "x": 1296,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1176,9 +1176,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 1037,
-                                "y": 584,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1696,9 +1696,9 @@
                         "map_locations": [
                             {
                                 "map": "Indigo Transept Waterway 3",
-                                "x": 927,
-                                "y": 564,
-                                "size": 10,
+                                "x": 976,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]

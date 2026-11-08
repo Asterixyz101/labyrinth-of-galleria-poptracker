@@ -738,9 +738,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 1",
-                                "x": 1350,
-                                "y": 239,
-                                "size": 10,
+                                "x": 1680,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -764,9 +764,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 1",
-                                "x": 1087,
-                                "y": 308,
-                                "size": 10,
+                                "x": 1392,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1321,9 +1321,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 2",
-                                "x": 1183,
-                                "y": 725,
-                                "size": 10,
+                                "x": 1008,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2008,9 +2008,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 3",
-                                "x": 1119,
-                                "y": 439,
-                                "size": 10,
+                                "x": 1456,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2539,9 +2539,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 4",
-                                "x": 1067,
-                                "y": 489,
-                                "size": 10,
+                                "x": 1584,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3408,9 +3408,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 5",
-                                "x": 771,
-                                "y": 507,
-                                "size": 10,
+                                "x": 1104,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3824,9 +3824,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 5",
-                                "x": 900,
-                                "y": 288,
-                                "size": 10,
+                                "x": 1648,
+                                "y": 470,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4875,9 +4875,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 6",
-                                "x": 675,
-                                "y": 161,
-                                "size": 10,
+                                "x": 1456,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -5614,9 +5614,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 7",
-                                "x": 958,
-                                "y": 476,
-                                "size": 10,
+                                "x": 1232,
+                                "y": 854,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -7092,9 +7092,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 9",
-                                "x": 984,
-                                "y": 467,
-                                "size": 10,
+                                "x": 1104,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -7326,9 +7326,9 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 9",
-                                "x": 1069,
-                                "y": 439,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]

@@ -348,9 +348,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 1",
-                                "x": 1063,
-                                "y": 333,
-                                "size": 10,
+                                "x": 1040,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -671,9 +671,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 1024,
-                                "y": 345,
-                                "size": 10,
+                                "x": 1232,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -801,9 +801,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 2",
-                                "x": 1168,
-                                "y": 183,
-                                "size": 10,
+                                "x": 1584,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1098,9 +1098,9 @@
                         "map_locations": [
                             {
                                 "map": "Yellow Transept Layer 3",
-                                "x": 1244,
-                                "y": 263,
-                                "size": 10,
+                                "x": 1296,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
