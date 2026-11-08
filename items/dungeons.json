@@ -1,6 +1,6 @@
 [
     {
-        "name": "progressivenarthex",
+        "name": "Progressive Narthex",
         "type": "consumable",
         "img": "images/items/dungeons/narthex.png",
         "min_quantity": 0,
@@ -14,7 +14,7 @@
         "codes": "progressivenarthex"
     },
     {
-        "name": "progressiveapse",
+        "name": "Progressive Apse",
         "type": "consumable",
         "img": "images/items/dungeons/apse.png",
         "min_quantity": 0,
@@ -28,7 +28,7 @@
         "codes": "progressiveapse"
     },
     {
-        "name": "progressiveyellowtransept",
+        "name": "Progressive Yellow Transept",
         "type": "consumable",
         "img": "images/items/dungeons/yellow transept.png",
         "min_quantity": 0,
@@ -42,7 +42,7 @@
         "codes": "progressiveyellowtransept"
     },
     {
-        "name": "progressiveindigotransept",
+        "name": "Progressive Indigo Transept",
         "type": "consumable",
         "img": "images/items/dungeons/indigo transept.png",
         "min_quantity": 0,
@@ -56,7 +56,7 @@
         "codes": "progressiveindigotransept"
     },
     {
-        "name": "progressivecrimsontransept",
+        "name": "Progressive Crimson Transept",
         "type": "consumable",
         "img": "images/items/dungeons/crimson transept.png",
         "min_quantity": 0,
@@ -70,7 +70,7 @@
         "codes": "progressivecrimsontransept"
     },
     {
-        "name": "progressivechancel",
+        "name": "Progressive Chancel",
         "type": "consumable",
         "img": "images/items/dungeons/chancel.png",
         "min_quantity": 0,
