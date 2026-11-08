@@ -48,15 +48,6 @@
                 }
             },
             {
-                "title": "Events",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Events"
-                    ]
-                }
-            },
-            {
                 "title": "Indigo Transept",
                 "content": {
                     "type": "map",
@@ -148,15 +139,6 @@
                     "type": "map",
                     "maps": [
                         "Event"
-                    ]
-                }
-            },
-            {
-                "title": "Events",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Events"
                     ]
                 }
             },

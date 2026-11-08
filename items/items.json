@@ -1,345 +1,11 @@
 [
     {
-        "name": "apsechestkey",
-        "type": "toggle",
-        "img": "images/items/apsechestkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "apsechestkey"
-    },
-    {
-        "name": "immortality",
-        "type": "toggle",
-        "img": "images/items/immortality.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "immortality"
-    },
-    {
-        "name": "shinobushi(m)",
-        "type": "toggle",
-        "img": "images/items/shinobushi(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinobushi(m)"
-    },
-    {
-        "name": "userfdefensively",
-        "type": "toggle",
-        "img": "images/items/userfdefensively.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "userfdefensively"
-    },
-    {
-        "name": "useportalmagic",
-        "type": "toggle",
-        "img": "images/items/useportalmagic.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "useportalmagic"
-    },
-    {
-        "name": "wallbreaker",
-        "type": "toggle",
-        "img": "images/items/wallbreaker.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wallbreaker"
-    },
-    {
-        "name": "visitanightmareworld",
-        "type": "toggle",
-        "img": "images/items/visitanightmareworld.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "visitanightmareworld"
-    },
-    {
-        "name": "progressiveblockenemies",
-        "type": "consumable",
-        "img": "images/items/progressiveblockenemies.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressiveblockenemies"
-    },
-    {
-        "name": "progressiveformations",
-        "type": "consumable",
-        "img": "images/items/progressiveformations.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressiveformations"
-    },
-    {
         "name": "unsealingritual",
         "type": "toggle",
         "img": "images/items/unsealingritual.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "unsealingritual"
-    },
-    {
-        "name": "theatricalstar(f)",
-        "type": "toggle",
-        "img": "images/items/theatricalstar(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "theatricalstar(f)"
-    },
-    {
-        "name": "progressiveswimming",
-        "type": "consumable",
-        "img": "images/items/progressiveswimming.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressiveswimming"
-    },
-    {
-        "name": "asterashe(m)",
-        "type": "toggle",
-        "img": "images/items/asterashe(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "asterashe(m)"
-    },
-    {
-        "name": "magiaconcieri(m)",
-        "type": "toggle",
-        "img": "images/items/magiaconcieri(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "magiaconcieri(m)"
-    },
-    {
-        "name": "famyuseeker(f)",
-        "type": "toggle",
-        "img": "images/items/famyuseeker(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "famyuseeker(f)"
-    },
-    {
-        "name": "destroyotherswithtackle",
-        "type": "toggle",
-        "img": "images/items/destroyotherswithtackle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "destroyotherswithtackle"
-    },
-    {
-        "name": "shinomashira(m)",
-        "type": "toggle",
-        "img": "images/items/shinomashira(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinomashira(m)"
-    },
-    {
-        "name": "visitagentleworld",
-        "type": "toggle",
-        "img": "images/items/visitagentleworld.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "visitagentleworld"
-    },
-    {
-        "name": "hastyrfuse",
-        "type": "toggle",
-        "img": "images/items/hastyrfuse.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "hastyrfuse"
-    },
-    {
-        "name": "rapidvenator(f)",
-        "type": "toggle",
-        "img": "images/items/rapidvenator(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rapidvenator(f)"
-    },
-    {
-        "name": "bringmanaintolabyrinth",
-        "type": "toggle",
-        "img": "images/items/bringmanaintolabyrinth.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bringmanaintolabyrinth"
-    },
-    {
-        "name": "astercrow(m)",
-        "type": "toggle",
-        "img": "images/items/astercrow(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "astercrow(m)"
-    },
-    {
-        "name": "wondercorsair(m)",
-        "type": "toggle",
-        "img": "images/items/wondercorsair(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wondercorsair(m)"
-    },
-    {
-        "name": "longjump",
-        "type": "toggle",
-        "img": "images/items/longjump.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "longjump"
-    },
-    {
-        "name": "wonderviande(m)",
-        "type": "toggle",
-        "img": "images/items/wonderviande(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wonderviande(m)"
-    },
-    {
-        "name": "puppetparts",
-        "type": "consumable",
-        "img": "images/items/puppetparts.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "puppetparts"
-    },
-    {
-        "name": "yellowchestkey",
-        "type": "toggle",
-        "img": "images/items/yellowchestkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "yellowchestkey"
-    },
-    {
-        "name": "treasure",
-        "type": "toggle",
-        "img": "images/items/treasure.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "treasure"
-    },
-    {
-        "name": "peerfortress(m)",
-        "type": "toggle",
-        "img": "images/items/peerfortress(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "peerfortress(m)"
-    },
-    {
-        "name": "ashenchestkey",
-        "type": "toggle",
-        "img": "images/items/ashenchestkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ashenchestkey"
-    },
-    {
-        "name": "cursedswampswimming",
-        "type": "toggle",
-        "img": "images/items/cursedswampswimming.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cursedswampswimming"
-    },
-    {
-        "name": "primareaper",
-        "type": "toggle",
-        "img": "images/items/primareaper.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "primareaper"
-    },
-    {
-        "name": "wondercorsair(f)",
-        "type": "toggle",
-        "img": "images/items/wondercorsair(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wondercorsair(f)"
-    },
-    {
-        "name": "renamesoulpacts",
-        "type": "toggle",
-        "img": "images/items/renamesoulpacts.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "renamesoulpacts"
-    },
-    {
-        "name": "gothiccoppelia",
-        "type": "toggle",
-        "img": "images/items/gothiccoppelia.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gothiccoppelia"
-    },
-    {
-        "name": "shinobushi(f)",
-        "type": "toggle",
-        "img": "images/items/shinobushi(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinobushi(f)"
-    },
-    {
-        "name": "progressiveeattastymeat",
-        "type": "consumable",
-        "img": "images/items/progressiveeattastymeat.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressiveeattastymeat"
-    },
-    {
-        "name": "yellowtranseptspoilslist",
-        "type": "toggle",
-        "img": "images/items/yellowtranseptspoilslist.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "yellowtranseptspoilslist"
-    },
-    {
-        "name": "gothicgrattonia",
-        "type": "toggle",
-        "img": "images/items/gothicgrattonia.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gothicgrattonia"
     },
     {
         "name": "progressivestartleenemies",
@@ -356,26 +22,68 @@
         "codes": "progressivestartleenemies"
     },
     {
-        "name": "scapegoat",
+        "name": "visitagentleworld",
         "type": "toggle",
-        "img": "images/items/scapegoat.png",
+        "img": "images/items/visitagentleworld.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "scapegoat"
+        "codes": "visitagentleworld"
     },
     {
-        "name": "progressivestopenemies",
-        "type": "consumable",
-        "img": "images/items/progressivestopenemies.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
+        "name": "primacupido",
+        "type": "toggle",
+        "img": "images/items/primacupido.png",
+        "initial_active_state": false,
         "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressivestopenemies"
+        "codes": "primacupido"
+    },
+    {
+        "name": "marquischestkey",
+        "type": "toggle",
+        "img": "images/items/marquischestkey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "marquischestkey"
+    },
+    {
+        "name": "shinobushi(m)",
+        "type": "toggle",
+        "img": "images/items/shinobushi(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shinobushi(m)"
+    },
+    {
+        "name": "ashenchestkey",
+        "type": "toggle",
+        "img": "images/items/ashenchestkey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ashenchestkey"
+    },
+    {
+        "name": "highjump",
+        "type": "toggle",
+        "img": "images/items/highjump.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "highjump"
+    },
+    {
+        "name": "darklight",
+        "type": "toggle",
+        "img": "images/items/darklight.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "darklight"
+    },
+    {
+        "name": "asterashe(f)",
+        "type": "toggle",
+        "img": "images/items/asterashe(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "asterashe(f)"
     },
     {
         "name": "peerchariot(m)",
@@ -386,74 +94,20 @@
         "codes": "peerchariot(m)"
     },
     {
-        "name": "theatricalstar(m)",
+        "name": "rapidraptor(f)",
         "type": "toggle",
-        "img": "images/items/theatricalstar(m).png",
+        "img": "images/items/rapidraptor(f).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "theatricalstar(m)"
+        "codes": "rapidraptor(f)"
     },
     {
-        "name": "tacticalrfuse",
+        "name": "crimsontranseptspoilslist",
         "type": "toggle",
-        "img": "images/items/tacticalrfuse.png",
+        "img": "images/items/crimsontranseptspoilslist.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "tacticalrfuse"
-    },
-    {
-        "name": "galleriacatalog",
-        "type": "toggle",
-        "img": "images/items/galleriacatalog.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "galleriacatalog"
-    },
-    {
-        "name": "bringthemback",
-        "type": "toggle",
-        "img": "images/items/bringthemback.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bringthemback"
-    },
-    {
-        "name": "leavenotesonmap",
-        "type": "toggle",
-        "img": "images/items/leavenotesonmap.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "leavenotesonmap"
-    },
-    {
-        "name": "progressiveleavelabyrinthatwill",
-        "type": "consumable",
-        "img": "images/items/progressiveleavelabyrinthatwill.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressiveleavelabyrinthatwill"
-    },
-    {
-        "name": "chancelspoilslist",
-        "type": "toggle",
-        "img": "images/items/chancelspoilslist.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chancelspoilslist"
-    },
-    {
-        "name": "apsechestkeyii",
-        "type": "toggle",
-        "img": "images/items/apsechestkeyii.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "apsechestkeyii"
+        "codes": "crimsontranseptspoilslist"
     },
     {
         "name": "progressivepost-battlerecovery",
@@ -470,88 +124,36 @@
         "codes": "progressivepost-battlerecovery"
     },
     {
-        "name": "progressiveescapebattleseasier",
-        "type": "consumable",
-        "img": "images/items/progressiveescapebattleseasier.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressiveescapebattleseasier"
-    },
-    {
-        "name": "marquischestkey",
+        "name": "immortality",
         "type": "toggle",
-        "img": "images/items/marquischestkey.png",
+        "img": "images/items/immortality.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "marquischestkey"
+        "codes": "immortality"
     },
     {
-        "name": "avoidenemiesaltogether",
+        "name": "famyuchaser(f)",
         "type": "toggle",
-        "img": "images/items/avoidenemiesaltogether.png",
+        "img": "images/items/famyuchaser(f).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "avoidenemiesaltogether"
+        "codes": "famyuchaser(f)"
     },
     {
-        "name": "narthexspoilslist",
+        "name": "visitanightmareworld",
         "type": "toggle",
-        "img": "images/items/narthexspoilslist.png",
+        "img": "images/items/visitanightmareworld.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "narthexspoilslist"
+        "codes": "visitanightmareworld"
     },
     {
-        "name": "lureenemies",
+        "name": "crimsonchestkey",
         "type": "toggle",
-        "img": "images/items/lureenemies.png",
+        "img": "images/items/crimsonchestkey.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "lureenemies"
-    },
-    {
-        "name": "progressivesearchforthelost",
-        "type": "consumable",
-        "img": "images/items/progressivesearchforthelost.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressivesearchforthelost"
-    },
-    {
-        "name": "specialordersinbattle",
-        "type": "toggle",
-        "img": "images/items/specialordersinbattle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "specialordersinbattle"
-    },
-    {
-        "name": "dodgepitfalls",
-        "type": "toggle",
-        "img": "images/items/dodgepitfalls.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dodgepitfalls"
-    },
-    {
-        "name": "apsespoilslist",
-        "type": "toggle",
-        "img": "images/items/apsespoilslist.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "apsespoilslist"
+        "codes": "crimsonchestkey"
     },
     {
         "name": "progressivetalisman",
@@ -576,66 +178,20 @@
         "codes": "rapidraptor(m)"
     },
     {
-        "name": "astercrow(f)",
+        "name": "userfoffensively",
         "type": "toggle",
-        "img": "images/items/astercrow(f).png",
+        "img": "images/items/userfoffensively.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "astercrow(f)"
+        "codes": "userfoffensively"
     },
     {
-        "name": "rapidraptor(f)",
+        "name": "primareaper",
         "type": "toggle",
-        "img": "images/items/rapidraptor(f).png",
+        "img": "images/items/primareaper.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "rapidraptor(f)"
-    },
-    {
-        "name": "rapidvenator(m)",
-        "type": "toggle",
-        "img": "images/items/rapidvenator(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rapidvenator(m)"
-    },
-    {
-        "name": "progressivemorerewards",
-        "type": "consumable",
-        "img": "images/items/progressivemorerewards.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressivemorerewards"
-    },
-    {
-        "name": "famyuseeker(m)",
-        "type": "toggle",
-        "img": "images/items/famyuseeker(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "famyuseeker(m)"
-    },
-    {
-        "name": "renamepuppetsoldiers",
-        "type": "toggle",
-        "img": "images/items/renamepuppetsoldiers.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "renamepuppetsoldiers"
-    },
-    {
-        "name": "morestatgrowthoptions",
-        "type": "toggle",
-        "img": "images/items/morestatgrowthoptions.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "morestatgrowthoptions"
+        "codes": "primareaper"
     },
     {
         "name": "progressiveincreasetravelrange",
@@ -652,9 +208,81 @@
         "codes": "progressiveincreasetravelrange"
     },
     {
-        "name": "progressiveindigotransept",
+        "name": "peerfortress(f)",
+        "type": "toggle",
+        "img": "images/items/peerfortress(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "peerfortress(f)"
+    },
+    {
+        "name": "footwear",
+        "type": "toggle",
+        "img": "images/items/footwear.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "footwear"
+    },
+    {
+        "name": "peerfortress(m)",
+        "type": "toggle",
+        "img": "images/items/peerfortress(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "peerfortress(m)"
+    },
+    {
+        "name": "yellowchestkey",
+        "type": "toggle",
+        "img": "images/items/yellowchestkey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yellowchestkey"
+    },
+    {
+        "name": "rapidvenator(f)",
+        "type": "toggle",
+        "img": "images/items/rapidvenator(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rapidvenator(f)"
+    },
+    {
+        "name": "magiamaid(m)",
+        "type": "toggle",
+        "img": "images/items/magiamaid(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magiamaid(m)"
+    },
+    {
+        "name": "userfdefensively",
+        "type": "toggle",
+        "img": "images/items/userfdefensively.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "userfdefensively"
+    },
+    {
+        "name": "shinomashira(f)",
+        "type": "toggle",
+        "img": "images/items/shinomashira(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shinomashira(f)"
+    },
+    {
+        "name": "narthexspoilslist",
+        "type": "toggle",
+        "img": "images/items/narthexspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "narthexspoilslist"
+    },
+    {
+        "name": "puppetparts",
         "type": "consumable",
-        "img": "images/items/progressiveindigotransept.png",
+        "img": "images/items/puppetparts.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -663,15 +291,147 @@
         "overlay_align": "right",
         "overlay_font_size": 14,
         "overlay_background": "#000000",
-        "codes": "progressiveindigotransept"
+        "codes": "puppetparts"
     },
     {
-        "name": "userfoffensively",
+        "name": "chancelspoilslist",
         "type": "toggle",
-        "img": "images/items/userfoffensively.png",
+        "img": "images/items/chancelspoilslist.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "userfoffensively"
+        "codes": "chancelspoilslist"
+    },
+    {
+        "name": "apsespoilslist",
+        "type": "toggle",
+        "img": "images/items/apsespoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "apsespoilslist"
+    },
+    {
+        "name": "magiamaid(f)",
+        "type": "toggle",
+        "img": "images/items/magiamaid(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magiamaid(f)"
+    },
+    {
+        "name": "leavesnotesatwill",
+        "type": "toggle",
+        "img": "images/items/leavesnotesatwill.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leavesnotesatwill"
+    },
+    {
+        "name": "cursedswampswimming",
+        "type": "toggle",
+        "img": "images/items/cursedswampswimming.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cursedswampswimming"
+    },
+    {
+        "name": "progressivemorerewards",
+        "type": "consumable",
+        "img": "images/items/progressivemorerewards.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivemorerewards"
+    },
+    {
+        "name": "theatricalstar(f)",
+        "type": "toggle",
+        "img": "images/items/theatricalstar(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "theatricalstar(f)"
+    },
+    {
+        "name": "gothiccoppelia",
+        "type": "toggle",
+        "img": "images/items/gothiccoppelia.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gothiccoppelia"
+    },
+    {
+        "name": "magiaconcieri(f)",
+        "type": "toggle",
+        "img": "images/items/magiaconcieri(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magiaconcieri(f)"
+    },
+    {
+        "name": "astercrow(m)",
+        "type": "toggle",
+        "img": "images/items/astercrow(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "astercrow(m)"
+    },
+    {
+        "name": "shinobushi(f)",
+        "type": "toggle",
+        "img": "images/items/shinobushi(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shinobushi(f)"
+    },
+    {
+        "name": "shinelight",
+        "type": "toggle",
+        "img": "images/items/shinelight.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shinelight"
+    },
+    {
+        "name": "rapidvenator(m)",
+        "type": "toggle",
+        "img": "images/items/rapidvenator(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rapidvenator(m)"
+    },
+    {
+        "name": "progressivestopenemies",
+        "type": "consumable",
+        "img": "images/items/progressivestopenemies.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivestopenemies"
+    },
+    {
+        "name": "renamesoulpacts",
+        "type": "toggle",
+        "img": "images/items/renamesoulpacts.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "renamesoulpacts"
+    },
+    {
+        "name": "apsechestkeyiii",
+        "type": "toggle",
+        "img": "images/items/apsechestkeyiii.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "apsechestkeyiii"
     },
     {
         "name": "progressivestockpilexp",
@@ -688,12 +448,164 @@
         "codes": "progressivestockpilexp"
     },
     {
-        "name": "narthexchestkey",
+        "name": "progressivenarthex",
+        "type": "consumable",
+        "img": "images/items/progressivenarthex.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivenarthex"
+    },
+    {
+        "name": "wondercorsair(m)",
         "type": "toggle",
-        "img": "images/items/narthexchestkey.png",
+        "img": "images/items/wondercorsair(m).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "narthexchestkey"
+        "codes": "wondercorsair(m)"
+    },
+    {
+        "name": "narthexchestkeyii",
+        "type": "toggle",
+        "img": "images/items/narthexchestkeyii.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "narthexchestkeyii"
+    },
+    {
+        "name": "theatricalstar(m)",
+        "type": "toggle",
+        "img": "images/items/theatricalstar(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "theatricalstar(m)"
+    },
+    {
+        "name": "famyuseeker(f)",
+        "type": "toggle",
+        "img": "images/items/famyuseeker(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "famyuseeker(f)"
+    },
+    {
+        "name": "progressiveescapebattleseasier",
+        "type": "consumable",
+        "img": "images/items/progressiveescapebattleseasier.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveescapebattleseasier"
+    },
+    {
+        "name": "shinomashira(m)",
+        "type": "toggle",
+        "img": "images/items/shinomashira(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shinomashira(m)"
+    },
+    {
+        "name": "possess",
+        "type": "toggle",
+        "img": "images/items/possess.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "possess"
+    },
+    {
+        "name": "dodgepitfalls",
+        "type": "toggle",
+        "img": "images/items/dodgepitfalls.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dodgepitfalls"
+    },
+    {
+        "name": "hastyrfuse",
+        "type": "toggle",
+        "img": "images/items/hastyrfuse.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hastyrfuse"
+    },
+    {
+        "name": "famyuchaser(m)",
+        "type": "toggle",
+        "img": "images/items/famyuchaser(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "famyuchaser(m)"
+    },
+    {
+        "name": "progressiveswimming",
+        "type": "consumable",
+        "img": "images/items/progressiveswimming.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveswimming"
+    },
+    {
+        "name": "theatricaldolce(m)",
+        "type": "toggle",
+        "img": "images/items/theatricaldolce(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "theatricaldolce(m)"
+    },
+    {
+        "name": "progressivesearchforthelost",
+        "type": "consumable",
+        "img": "images/items/progressivesearchforthelost.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivesearchforthelost"
+    },
+    {
+        "name": "theatricaldolce(f)",
+        "type": "toggle",
+        "img": "images/items/theatricaldolce(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "theatricaldolce(f)"
+    },
+    {
+        "name": "suspiciouschestkey",
+        "type": "toggle",
+        "img": "images/items/suspiciouschestkey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "suspiciouschestkey"
+    },
+    {
+        "name": "exorcise",
+        "type": "toggle",
+        "img": "images/items/exorcise.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "exorcise"
     },
     {
         "name": "progressiveapse",
@@ -710,49 +622,9 @@
         "codes": "progressiveapse"
     },
     {
-        "name": "magiaconcieri(f)",
-        "type": "toggle",
-        "img": "images/items/magiaconcieri(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "magiaconcieri(f)"
-    },
-    {
-        "name": "exorcise",
-        "type": "toggle",
-        "img": "images/items/exorcise.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "exorcise"
-    },
-    {
-        "name": "leavesnotesatwill",
-        "type": "toggle",
-        "img": "images/items/leavesnotesatwill.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "leavesnotesatwill"
-    },
-    {
-        "name": "peerfortress(f)",
-        "type": "toggle",
-        "img": "images/items/peerfortress(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "peerfortress(f)"
-    },
-    {
-        "name": "stopbeforeapitfall",
-        "type": "toggle",
-        "img": "images/items/stopbeforeapitfall.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "stopbeforeapitfall"
-    },
-    {
-        "name": "progressivecrimsontransept",
+        "name": "progressiveindigotransept",
         "type": "consumable",
-        "img": "images/items/progressivecrimsontransept.png",
+        "img": "images/items/progressiveindigotransept.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -761,87 +633,53 @@
         "overlay_align": "right",
         "overlay_font_size": 14,
         "overlay_background": "#000000",
-        "codes": "progressivecrimsontransept"
+        "codes": "progressiveindigotransept"
     },
     {
-        "name": "crimsonchestkey",
+        "name": "apsechestkeyii",
         "type": "toggle",
-        "img": "images/items/crimsonchestkey.png",
+        "img": "images/items/apsechestkeyii.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "crimsonchestkey"
+        "codes": "apsechestkeyii"
     },
     {
-        "name": "theatricaldolce(f)",
+        "name": "magiaconcieri(m)",
         "type": "toggle",
-        "img": "images/items/theatricaldolce(f).png",
+        "img": "images/items/magiaconcieri(m).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "theatricaldolce(f)"
+        "codes": "magiaconcieri(m)"
     },
     {
-        "name": "footwear",
+        "name": "longjump",
         "type": "toggle",
-        "img": "images/items/footwear.png",
+        "img": "images/items/longjump.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "footwear"
+        "codes": "longjump"
     },
     {
-        "name": "darklight",
-        "type": "toggle",
-        "img": "images/items/darklight.png",
-        "initial_active_state": false,
+        "name": "progressiveeattastymeat",
+        "type": "consumable",
+        "img": "images/items/progressiveeattastymeat.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
         "overlay_align": "right",
-        "codes": "darklight"
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveeattastymeat"
     },
     {
-        "name": "act1completed",
+        "name": "narthexchestkey",
         "type": "toggle",
-        "img": "images/items/act1completed.png",
+        "img": "images/items/narthexchestkey.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "act1completed"
-    },
-    {
-        "name": "shinomashira(f)",
-        "type": "toggle",
-        "img": "images/items/shinomashira(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinomashira(f)"
-    },
-    {
-        "name": "indigochestkey",
-        "type": "toggle",
-        "img": "images/items/indigochestkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "indigochestkey"
-    },
-    {
-        "name": "highjump",
-        "type": "toggle",
-        "img": "images/items/highjump.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "highjump"
-    },
-    {
-        "name": "magiamaid(m)",
-        "type": "toggle",
-        "img": "images/items/magiamaid(m).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "magiamaid(m)"
-    },
-    {
-        "name": "primacupido",
-        "type": "toggle",
-        "img": "images/items/primacupido.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "primacupido"
+        "codes": "narthexchestkey"
     },
     {
         "name": "wonderviande(f)",
@@ -852,20 +690,20 @@
         "codes": "wonderviande(f)"
     },
     {
-        "name": "suspiciouschestkey",
+        "name": "stopbeforeapitfall",
         "type": "toggle",
-        "img": "images/items/suspiciouschestkey.png",
+        "img": "images/items/stopbeforeapitfall.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "suspiciouschestkey"
+        "codes": "stopbeforeapitfall"
     },
     {
-        "name": "famyuchaser(m)",
+        "name": "tacticalrfuse",
         "type": "toggle",
-        "img": "images/items/famyuchaser(m).png",
+        "img": "images/items/tacticalrfuse.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "famyuchaser(m)"
+        "codes": "tacticalrfuse"
     },
     {
         "name": "peerchariot(f)",
@@ -876,33 +714,17 @@
         "codes": "peerchariot(f)"
     },
     {
-        "name": "magiamaid(f)",
+        "name": "scapegoat",
         "type": "toggle",
-        "img": "images/items/magiamaid(f).png",
+        "img": "images/items/scapegoat.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "magiamaid(f)"
+        "codes": "scapegoat"
     },
     {
-        "name": "asterashe(f)",
-        "type": "toggle",
-        "img": "images/items/asterashe(f).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "asterashe(f)"
-    },
-    {
-        "name": "shinelight",
-        "type": "toggle",
-        "img": "images/items/shinelight.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "shinelight"
-    },
-    {
-        "name": "progressiveyellowtransept",
+        "name": "progressiveblockenemies",
         "type": "consumable",
-        "img": "images/items/progressiveyellowtransept.png",
+        "img": "images/items/progressiveblockenemies.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -911,51 +733,47 @@
         "overlay_align": "right",
         "overlay_font_size": 14,
         "overlay_background": "#000000",
-        "codes": "progressiveyellowtransept"
+        "codes": "progressiveblockenemies"
     },
     {
-        "name": "famyuchaser(f)",
+        "name": "gothicgrattonia",
         "type": "toggle",
-        "img": "images/items/famyuchaser(f).png",
+        "img": "images/items/gothicgrattonia.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "famyuchaser(f)"
+        "codes": "gothicgrattonia"
     },
     {
-        "name": "progressivechancel",
-        "type": "consumable",
-        "img": "images/items/progressivechancel.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressivechancel"
-    },
-    {
-        "name": "progressivenarthex",
-        "type": "consumable",
-        "img": "images/items/progressivenarthex.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressivenarthex"
-    },
-    {
-        "name": "narthexchestkeyii",
+        "name": "astercrow(f)",
         "type": "toggle",
-        "img": "images/items/narthexchestkeyii.png",
+        "img": "images/items/astercrow(f).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "narthexchestkeyii"
+        "codes": "astercrow(f)"
+    },
+    {
+        "name": "indigochestkey",
+        "type": "toggle",
+        "img": "images/items/indigochestkey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "indigochestkey"
+    },
+    {
+        "name": "wallbreaker",
+        "type": "toggle",
+        "img": "images/items/wallbreaker.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wallbreaker"
+    },
+    {
+        "name": "wondercorsair(f)",
+        "type": "toggle",
+        "img": "images/items/wondercorsair(f).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wondercorsair(f)"
     },
     {
         "name": "indigotranseptspoilslist",
@@ -964,22 +782,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "indigotranseptspoilslist"
-    },
-    {
-        "name": "possess",
-        "type": "toggle",
-        "img": "images/items/possess.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "possess"
-    },
-    {
-        "name": "crimsontranseptspoilslist",
-        "type": "toggle",
-        "img": "images/items/crimsontranseptspoilslist.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "crimsontranseptspoilslist"
     },
     {
         "name": "progressivehidefromenemies",
@@ -996,28 +798,132 @@
         "codes": "progressivehidefromenemies"
     },
     {
-        "name": "findmoreitems",
+        "name": "renamepuppetsoldiers",
         "type": "toggle",
-        "img": "images/items/findmoreitems.png",
+        "img": "images/items/renamepuppetsoldiers.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "findmoreitems"
+        "codes": "renamepuppetsoldiers"
     },
     {
-        "name": "apsechestkeyiii",
-        "type": "toggle",
-        "img": "images/items/apsechestkeyiii.png",
-        "initial_active_state": false,
+        "name": "progressiveleavelabyrinthatwill",
+        "type": "consumable",
+        "img": "images/items/progressiveleavelabyrinthatwill.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
         "overlay_align": "right",
-        "codes": "apsechestkeyiii"
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveleavelabyrinthatwill"
     },
     {
-        "name": "theatricaldolce(m)",
+        "name": "asterashe(m)",
         "type": "toggle",
-        "img": "images/items/theatricaldolce(m).png",
+        "img": "images/items/asterashe(m).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "theatricaldolce(m)"
+        "codes": "asterashe(m)"
+    },
+    {
+        "name": "bringmanaintolabyrinth",
+        "type": "toggle",
+        "img": "images/items/bringmanaintolabyrinth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bringmanaintolabyrinth"
+    },
+    {
+        "name": "progressiveyellowtransept",
+        "type": "consumable",
+        "img": "images/items/progressiveyellowtransept.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveyellowtransept"
+    },
+    {
+        "name": "bringthemback",
+        "type": "toggle",
+        "img": "images/items/bringthemback.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bringthemback"
+    },
+    {
+        "name": "galleriacatalog",
+        "type": "toggle",
+        "img": "images/items/galleriacatalog.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "galleriacatalog"
+    },
+    {
+        "name": "treasure",
+        "type": "toggle",
+        "img": "images/items/treasure.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "treasure"
+    },
+    {
+        "name": "morestatgrowthoptions",
+        "type": "toggle",
+        "img": "images/items/morestatgrowthoptions.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "morestatgrowthoptions"
+    },
+    {
+        "name": "progressivecrimsontransept",
+        "type": "consumable",
+        "img": "images/items/progressivecrimsontransept.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivecrimsontransept"
+    },
+    {
+        "name": "act1completed",
+        "type": "toggle",
+        "img": "images/items/act1completed.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "act1completed"
+    },
+    {
+        "name": "wonderviande(m)",
+        "type": "toggle",
+        "img": "images/items/wonderviande(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wonderviande(m)"
+    },
+    {
+        "name": "progressiveformations",
+        "type": "consumable",
+        "img": "images/items/progressiveformations.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveformations"
     },
     {
         "name": "learnenemymoves",
@@ -1026,6 +932,100 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "learnenemymoves"
+    },
+    {
+        "name": "findmoreitems",
+        "type": "toggle",
+        "img": "images/items/findmoreitems.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "findmoreitems"
+    },
+    {
+        "name": "useportalmagic",
+        "type": "toggle",
+        "img": "images/items/useportalmagic.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "useportalmagic"
+    },
+    {
+        "name": "specialordersinbattle",
+        "type": "toggle",
+        "img": "images/items/specialordersinbattle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "specialordersinbattle"
+    },
+    {
+        "name": "yellowtranseptspoilslist",
+        "type": "toggle",
+        "img": "images/items/yellowtranseptspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yellowtranseptspoilslist"
+    },
+    {
+        "name": "destroyotherswithtackle",
+        "type": "toggle",
+        "img": "images/items/destroyotherswithtackle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "destroyotherswithtackle"
+    },
+    {
+        "name": "progressivechancel",
+        "type": "consumable",
+        "img": "images/items/progressivechancel.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivechancel"
+    },
+    {
+        "name": "leavenotesonmap",
+        "type": "toggle",
+        "img": "images/items/leavenotesonmap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leavenotesonmap"
+    },
+    {
+        "name": "famyuseeker(m)",
+        "type": "toggle",
+        "img": "images/items/famyuseeker(m).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "famyuseeker(m)"
+    },
+    {
+        "name": "avoidenemiesaltogether",
+        "type": "toggle",
+        "img": "images/items/avoidenemiesaltogether.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "avoidenemiesaltogether"
+    },
+    {
+        "name": "apsechestkey",
+        "type": "toggle",
+        "img": "images/items/apsechestkey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "apsechestkey"
+    },
+    {
+        "name": "lureenemies",
+        "type": "toggle",
+        "img": "images/items/lureenemies.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lureenemies"
     },
     {
         "name": "update",

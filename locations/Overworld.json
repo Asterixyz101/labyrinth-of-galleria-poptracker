@@ -661,8 +661,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1778,
-                        "y": 1052,
+                        "x": 779,
+                        "y": 1193,
                         "size": 6
                     }
                 ]
@@ -1884,8 +1884,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1056,
-                        "y": 1439,
+                        "x": 1839,
+                        "y": 2182,
                         "size": 6
                     }
                 ]
@@ -2039,8 +2039,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 146,
-                        "y": 2184,
+                        "x": 1192,
+                        "y": 923,
                         "size": 6
                     }
                 ]
@@ -2290,8 +2290,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1247,
-                        "y": 1203,
+                        "x": 2404,
+                        "y": 1432,
                         "size": 6
                     }
                 ]
@@ -2346,6 +2346,10 @@
                         "ref": "Event/Crimson Transept/Great Labyrinth/Lion Marquis/"
                     },
                     {
+                        "name": "Meat Soldier, Magia Tokens & Wiccard - ",
+                        "ref": "Event/Floor 9/Meat Soldier, Magia Tokens & Wiccard/"
+                    },
+                    {
                         "name": "Marquis Statue - ",
                         "ref": "Event/Chancel/Grand Necrohall/Marquis Statue/"
                     }
@@ -2353,31 +2357,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1701,
-                        "y": 2114,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Events",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Meat Soldier, Magia Tokens & Wiccard - ",
-                        "ref": "Events/Floor 9/Meat Soldier, Magia Tokens & Wiccard/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 758,
-                        "y": 925,
+                        "x": 2455,
+                        "y": 804,
                         "size": 6
                     }
                 ]
@@ -2655,8 +2636,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1114,
-                        "y": 1962,
+                        "x": 2049,
+                        "y": 878,
                         "size": 6
                     }
                 ]
@@ -2698,8 +2679,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1063,
-                        "y": 1175,
+                        "x": 1083,
+                        "y": 1986,
                         "size": 6
                     }
                 ]
@@ -2797,8 +2778,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1692,
-                        "y": 2089,
+                        "x": 1552,
+                        "y": 2192,
                         "size": 6
                     }
                 ]
@@ -3536,8 +3517,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2040,
-                        "y": 556,
+                        "x": 1540,
+                        "y": 384,
                         "size": 6
                     }
                 ]
@@ -3731,8 +3712,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2239,
-                        "y": 2419,
+                        "x": 1342,
+                        "y": 1658,
                         "size": 6
                     }
                 ]
