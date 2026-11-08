@@ -1580,6 +1580,13 @@
                                 "y": 2340,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 782,
+                                "y": 380,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1605,6 +1612,13 @@
                                 "x": 36,
                                 "y": 2071,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1403,
+                                "y": 490,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -1632,6 +1646,13 @@
                                 "y": 751,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1259,
+                                "y": 306,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1657,6 +1678,13 @@
                                 "x": 2475,
                                 "y": 1362,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 867,
+                                "y": 567,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -1684,6 +1712,13 @@
                                 "y": 956,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1069,
+                                "y": 575,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1709,6 +1744,13 @@
                                 "x": 226,
                                 "y": 1944,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1069,
+                                "y": 496,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -1736,6 +1778,13 @@
                                 "y": 2114,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1040,
+                                "y": 380,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1761,6 +1810,13 @@
                                 "x": 1891,
                                 "y": 2459,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1270,
+                                "y": 402,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -1788,6 +1844,13 @@
                                 "y": 1236,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1157,
+                                "y": 731,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1813,6 +1876,13 @@
                                 "x": 1911,
                                 "y": 2159,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1137,
+                                "y": 782,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -1840,6 +1910,13 @@
                                 "y": 850,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1284,
+                                "y": 629,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1865,6 +1942,13 @@
                                 "x": 2330,
                                 "y": 123,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1264,
+                                "y": 476,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -1892,6 +1976,13 @@
                                 "y": 1574,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1245,
+                                "y": 487,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1917,6 +2008,13 @@
                                 "x": 400,
                                 "y": 2133,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1344,
+                                "y": 513,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -1944,6 +2042,13 @@
                                 "y": 2156,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1103,
+                                "y": 442,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -1969,6 +2074,13 @@
                                 "x": 1471,
                                 "y": 2475,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1508,
+                                "y": 521,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -1996,6 +2108,13 @@
                                 "y": 1689,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1522,
+                                "y": 419,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2021,6 +2140,13 @@
                                 "x": 1343,
                                 "y": 2132,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1369,
+                                "y": 425,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2048,6 +2174,13 @@
                                 "y": 2402,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1296,
+                                "y": 419,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2073,6 +2206,13 @@
                                 "x": 368,
                                 "y": 1301,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1247,
+                                "y": 374,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2100,6 +2240,13 @@
                                 "y": 1642,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1089,
+                                "y": 286,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2125,6 +2272,13 @@
                                 "x": 2250,
                                 "y": 1642,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1137,
+                                "y": 303,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2152,6 +2306,13 @@
                                 "y": 674,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1057,
+                                "y": 260,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2177,6 +2338,13 @@
                                 "x": 1069,
                                 "y": 928,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B3",
+                                "x": 1029,
+                                "y": 309,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2215,6 +2383,13 @@
                                 "y": 374,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1107,
+                                "y": 343,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2240,6 +2415,13 @@
                                 "x": 902,
                                 "y": 2429,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1078,
+                                "y": 352,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2267,6 +2449,13 @@
                                 "y": 1020,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1030,
+                                "y": 456,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2292,6 +2481,13 @@
                                 "x": 2473,
                                 "y": 1899,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1081,
+                                "y": 491,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2319,6 +2515,13 @@
                                 "y": 1453,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1140,
+                                "y": 450,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2344,6 +2547,13 @@
                                 "x": 1473,
                                 "y": 1872,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1161,
+                                "y": 337,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2371,6 +2581,13 @@
                                 "y": 2138,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1024,
+                                "y": 331,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2396,6 +2613,13 @@
                                 "x": 1286,
                                 "y": 1828,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1010,
+                                "y": 420,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2423,6 +2647,13 @@
                                 "y": 2121,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1030,
+                                "y": 562,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2448,6 +2679,13 @@
                                 "x": 1135,
                                 "y": 2318,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1433,
+                                "y": 441,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2475,6 +2713,13 @@
                                 "y": 1900,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1457,
+                                "y": 393,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2500,6 +2745,13 @@
                                 "x": 1797,
                                 "y": 223,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1362,
+                                "y": 328,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2527,6 +2779,13 @@
                                 "y": 239,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1303,
+                                "y": 308,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2552,6 +2811,13 @@
                                 "x": 2145,
                                 "y": 2409,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1324,
+                                "y": 346,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2579,6 +2845,13 @@
                                 "y": 2325,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1069,
+                                "y": 785,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2604,6 +2877,13 @@
                                 "x": 370,
                                 "y": 2257,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1501,
+                                "y": 524,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2631,6 +2911,13 @@
                                 "y": 1611,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1493,
+                                "y": 322,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2656,6 +2943,13 @@
                                 "x": 1652,
                                 "y": 747,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1543,
+                                "y": 518,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2683,6 +2977,13 @@
                                 "y": 560,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1507,
+                                "y": 619,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2708,6 +3009,13 @@
                                 "x": 169,
                                 "y": 428,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1525,
+                                "y": 696,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2735,6 +3043,13 @@
                                 "y": 1548,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1555,
+                                "y": 592,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2760,6 +3075,13 @@
                                 "x": 1498,
                                 "y": 1615,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B4",
+                                "x": 1380,
+                                "y": 764,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2798,6 +3120,13 @@
                                 "y": 852,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1250,
+                                "y": 479,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2823,6 +3152,13 @@
                                 "x": 1657,
                                 "y": 1439,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1333,
+                                "y": 453,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2850,6 +3186,13 @@
                                 "y": 303,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1327,
+                                "y": 399,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2875,6 +3218,13 @@
                                 "x": 686,
                                 "y": 1176,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1205,
+                                "y": 450,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2902,6 +3252,13 @@
                                 "y": 108,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1042,
+                                "y": 521,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2927,6 +3284,13 @@
                                 "x": 1422,
                                 "y": 257,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1167,
+                                "y": 408,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -2954,6 +3318,13 @@
                                 "y": 405,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1285,
+                                "y": 722,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -2979,6 +3350,13 @@
                                 "x": 1851,
                                 "y": 1334,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1528,
+                                "y": 545,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3006,6 +3384,13 @@
                                 "y": 74,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1190,
+                                "y": 574,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3031,6 +3416,13 @@
                                 "x": 1409,
                                 "y": 2014,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1232,
+                                "y": 521,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3058,6 +3450,13 @@
                                 "y": 1105,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1104,
+                                "y": 512,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3083,6 +3482,13 @@
                                 "x": 2490,
                                 "y": 1408,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1229,
+                                "y": 518,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3110,6 +3516,13 @@
                                 "y": 1187,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1344,
+                                "y": 550,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3135,6 +3548,13 @@
                                 "x": 531,
                                 "y": 1517,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1285,
+                                "y": 613,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3162,6 +3582,13 @@
                                 "y": 1836,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1404,
+                                "y": 503,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3187,6 +3614,13 @@
                                 "x": 314,
                                 "y": 870,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1448,
+                                "y": 447,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3214,6 +3648,13 @@
                                 "y": 1575,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1294,
+                                "y": 438,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3239,6 +3680,13 @@
                                 "x": 2476,
                                 "y": 864,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1442,
+                                "y": 423,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3266,6 +3714,13 @@
                                 "y": 29,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1519,
+                                "y": 435,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3291,6 +3746,13 @@
                                 "x": 1033,
                                 "y": 1730,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1445,
+                                "y": 370,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3318,6 +3780,13 @@
                                 "y": 1744,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1448,
+                                "y": 370,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3344,6 +3813,13 @@
                                 "y": 1280,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1389,
+                                "y": 305,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3369,6 +3845,13 @@
                                 "x": 1802,
                                 "y": 1552,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B5",
+                                "x": 1297,
+                                "y": 322,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3407,6 +3890,13 @@
                                 "y": 1392,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 1170,
+                                "y": 441,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3432,6 +3922,13 @@
                                 "x": 1472,
                                 "y": 1149,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 1336,
+                                "y": 515,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3459,6 +3956,13 @@
                                 "y": 958,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 1259,
+                                "y": 396,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3484,6 +3988,13 @@
                                 "x": 654,
                                 "y": 775,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 1558,
+                                "y": 521,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3511,6 +4022,13 @@
                                 "y": 2442,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 1507,
+                                "y": 583,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3536,6 +4054,13 @@
                                 "x": 846,
                                 "y": 1360,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 604,
+                                "y": 278,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3563,6 +4088,13 @@
                                 "y": 1633,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 1407,
+                                "y": 657,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3588,6 +4120,13 @@
                                 "x": 430,
                                 "y": 1128,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 1125,
+                                "y": 728,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3615,6 +4154,13 @@
                                 "y": 2328,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 776,
+                                "y": 352,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3640,6 +4186,13 @@
                                 "x": 595,
                                 "y": 1295,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 408,
+                                "y": 308,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3667,6 +4220,13 @@
                                 "y": 1276,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 998,
+                                "y": 574,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3692,6 +4252,13 @@
                                 "x": 767,
                                 "y": 273,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 841,
+                                "y": 500,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3719,6 +4286,13 @@
                                 "y": 2025,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 1312,
+                                "y": 559,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3744,6 +4318,13 @@
                                 "x": 2416,
                                 "y": 1577,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 915,
+                                "y": 577,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3771,6 +4352,13 @@
                                 "y": 659,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 876,
+                                "y": 559,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3796,6 +4384,13 @@
                                 "x": 2465,
                                 "y": 2240,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 1353,
+                                "y": 592,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3823,6 +4418,13 @@
                                 "y": 1090,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 950,
+                                "y": 589,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3848,6 +4450,13 @@
                                 "x": 1106,
                                 "y": 706,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 989,
+                                "y": 628,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3875,6 +4484,13 @@
                                 "y": 1291,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 1104,
+                                "y": 553,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3900,6 +4516,13 @@
                                 "x": 1170,
                                 "y": 941,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 1101,
+                                "y": 548,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3927,6 +4550,13 @@
                                 "y": 361,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 1140,
+                                "y": 580,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -3952,6 +4582,13 @@
                                 "x": 876,
                                 "y": 1492,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 734,
+                                "y": 527,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -3979,6 +4616,13 @@
                                 "y": 55,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 462,
+                                "y": 450,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4004,6 +4648,13 @@
                                 "x": 2205,
                                 "y": 2286,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 598,
+                                "y": 542,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4031,6 +4682,13 @@
                                 "y": 1290,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 847,
+                                "y": 571,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4057,6 +4715,13 @@
                                 "y": 898,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 681,
+                                "y": 518,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4082,6 +4747,13 @@
                                 "x": 2091,
                                 "y": 568,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B6",
+                                "x": 888,
+                                "y": 370,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4120,6 +4792,13 @@
                                 "y": 2472,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1181,
+                                "y": 468,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4145,6 +4824,13 @@
                                 "x": 148,
                                 "y": 107,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 826,
+                                "y": 379,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4172,6 +4858,13 @@
                                 "y": 1421,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 862,
+                                "y": 367,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4197,6 +4890,13 @@
                                 "x": 735,
                                 "y": 1143,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1537,
+                                "y": 473,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4224,6 +4924,13 @@
                                 "y": 1545,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 989,
+                                "y": 382,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4249,6 +4956,13 @@
                                 "x": 475,
                                 "y": 498,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 817,
+                                "y": 447,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4276,6 +4990,13 @@
                                 "y": 587,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1045,
+                                "y": 447,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4301,6 +5022,13 @@
                                 "x": 1212,
                                 "y": 2362,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1475,
+                                "y": 482,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4328,6 +5056,13 @@
                                 "y": 1719,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1368,
+                                "y": 577,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4353,6 +5088,13 @@
                                 "x": 1802,
                                 "y": 1502,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1202,
+                                "y": 589,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4380,6 +5122,13 @@
                                 "y": 2090,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1113,
+                                "y": 553,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4405,6 +5154,13 @@
                                 "x": 1536,
                                 "y": 1929,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1309,
+                                "y": 545,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4432,6 +5188,13 @@
                                 "y": 247,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1401,
+                                "y": 610,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4457,6 +5220,13 @@
                                 "x": 118,
                                 "y": 1349,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1267,
+                                "y": 580,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4484,6 +5254,13 @@
                                 "y": 1138,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1101,
+                                "y": 550,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4509,6 +5286,13 @@
                                 "x": 1667,
                                 "y": 23,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1312,
+                                "y": 539,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4536,6 +5320,13 @@
                                 "y": 1909,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1051,
+                                "y": 562,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4561,6 +5352,13 @@
                                 "x": 2176,
                                 "y": 404,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1013,
+                                "y": 583,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4588,6 +5386,13 @@
                                 "y": 1101,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 865,
+                                "y": 536,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4613,6 +5418,13 @@
                                 "x": 2470,
                                 "y": 454,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1113,
+                                "y": 352,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4640,6 +5452,13 @@
                                 "y": 499,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1244,
+                                "y": 592,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4665,6 +5484,13 @@
                                 "x": 1698,
                                 "y": 1026,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1036,
+                                "y": 628,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4692,6 +5518,13 @@
                                 "y": 1034,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1170,
+                                "y": 613,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4717,6 +5550,13 @@
                                 "x": 366,
                                 "y": 2230,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1090,
+                                "y": 595,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4744,6 +5584,13 @@
                                 "y": 2376,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1256,
+                                "y": 577,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4769,6 +5616,13 @@
                                 "x": 720,
                                 "y": 1725,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 847,
+                                "y": 343,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4796,6 +5650,13 @@
                                 "y": 84,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 844,
+                                "y": 539,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4821,6 +5682,13 @@
                                 "x": 2190,
                                 "y": 230,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 782,
+                                "y": 417,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4848,6 +5716,13 @@
                                 "y": 31,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 974,
+                                "y": 411,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4873,6 +5748,13 @@
                                 "x": 1848,
                                 "y": 983,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 956,
+                                "y": 385,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4900,6 +5782,13 @@
                                 "y": 83,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 669,
+                                "y": 302,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4925,6 +5814,13 @@
                                 "x": 1673,
                                 "y": 507,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 782,
+                                "y": 491,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -4952,6 +5848,13 @@
                                 "y": 2379,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 1033,
+                                "y": 432,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -4977,6 +5880,13 @@
                                 "x": 1200,
                                 "y": 1131,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 980,
+                                "y": 565,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -5004,6 +5914,13 @@
                                 "y": 1524,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 980,
+                                "y": 577,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -5029,6 +5946,13 @@
                                 "x": 1245,
                                 "y": 909,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 977,
+                                "y": 465,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
@@ -5056,6 +5980,13 @@
                                 "y": 949,
                                 "size": 6,
                                 "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 891,
+                                "y": 601,
+                                "size": 10,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -5081,6 +6012,13 @@
                                 "x": 1113,
                                 "y": 830,
                                 "size": 6,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Narthex B7",
+                                "x": 752,
+                                "y": 491,
+                                "size": 10,
                                 "shape": "rect"
                             }
                         ]
