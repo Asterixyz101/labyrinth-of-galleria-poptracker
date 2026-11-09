@@ -1307,7 +1307,7 @@
                             {
                                 "map": "Narthex B3",
                                 "x": 1264,
-                                "y": 790,
+                                "y": 758,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -1333,7 +1333,7 @@
                             {
                                 "map": "Narthex B3",
                                 "x": 1264,
-                                "y": 822,
+                                "y": 790,
                                 "size": 32,
                                 "shape": "rect"
                             }
