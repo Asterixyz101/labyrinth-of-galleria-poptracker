@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Main Menu",
-                        "x": 344,
-                        "y": 316,
+                        "x": 280,
+                        "y": 312,
                         "size": 32,
                         "shape": "rect"
                     }
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Main Menu",
-                        "x": 2128,
-                        "y": 478,
-                        "size": 6,
+                        "x": 344,
+                        "y": 312,
+                        "size": 32,
                         "shape": "rect"
                     }
                 ]
@@ -79,8 +79,8 @@
                 "map_locations": [
                     {
                         "map": "Main Menu",
-                        "x": 127,
-                        "y": 58,
+                        "x": 312,
+                        "y": 152,
                         "size": 32,
                         "shape": "rect"
                     }
@@ -105,8 +105,8 @@
                 "map_locations": [
                     {
                         "map": "Main Menu",
-                        "x": 192,
-                        "y": 58,
+                        "x": 248,
+                        "y": 152,
                         "size": 32,
                         "shape": "rect"
                     }
@@ -131,8 +131,8 @@
                 "map_locations": [
                     {
                         "map": "Main Menu",
-                        "x": 261,
-                        "y": 54,
+                        "x": 376,
+                        "y": 152,
                         "size": 32,
                         "shape": "rect"
                     }
@@ -157,8 +157,8 @@
                 "map_locations": [
                     {
                         "map": "Main Menu",
-                        "x": 339,
-                        "y": 57,
+                        "x": 440,
+                        "y": 152,
                         "size": 32,
                         "shape": "rect"
                     }
