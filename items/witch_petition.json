@@ -304,14 +304,6 @@
         "codes": "progressiveblockenemies"
     },
     {
-        "name": "Wallbreaker",
-        "type": "toggle",
-        "img": "images/items/witch_petition/purple_tag.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wallbreaker"
-    },
-    {
         "name": "Progressive Hide From Enemies",
         "type": "consumable",
         "img": "images/items/witch_petition/blue_tag.png",
