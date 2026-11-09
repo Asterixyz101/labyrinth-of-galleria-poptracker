@@ -17,6 +17,15 @@
                     "type": "tabbed",
                     "tabs": [
                         {
+                            "title": "World Map",
+                            "content": {
+                                "type":"map",
+                                "maps": [
+                                    "Overworld"
+                                ]
+                            }
+                        },
+                        {
                             "title": "Narthex",
                             "content": {
                                 "type": "tabbed",

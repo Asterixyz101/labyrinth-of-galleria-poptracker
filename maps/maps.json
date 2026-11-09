@@ -12,6 +12,12 @@
         "img": "images/maps/Misc/Main Menu.png"
     },
     {
+        "name": "Overworld",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Misc/act1_world_map.png"
+    },
+    {
         "name": "Narthex B1",
         "location_size": 6,
         "location_border_thickness": 1,
