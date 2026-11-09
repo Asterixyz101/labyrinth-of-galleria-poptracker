@@ -8,6 +8,14 @@
         "codes": "highjump"
     },
     {
+        "name": "Wallbreaker",
+        "type": "toggle",
+        "img": "images/items/witch_petition/purple_tag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wallbreaker"
+    },
+    {
         "name": "Dark Light",
         "type": "toggle",
         "img": "images/items/witch_petition/purple_tag.png",
