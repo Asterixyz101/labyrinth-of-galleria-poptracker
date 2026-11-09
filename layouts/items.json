@@ -1,5 +1,85 @@
 {
-    "shared_item_grid_horizontal": {
+    "act1_facet_grid": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_size": "42,78",
+                        "rows": [
+                            [
+                                "magiamaid(m)",
+                                "astercrow(m)",
+                                "shinomashira(m)",
+                                "theatricalstar(m)",
+                                "gothiccoppelia",
+                                "peerfortress(m)",
+                                "wondercorsair(m)",
+                                "rapidvenator(m)",
+                                "famyuseeker(m)"
+                            ],
+                            [
+                                "magiamaid(f)",
+                                "astercrow(f)",
+                                "shinomashira(f)",
+                                "theatricalstar(f)",
+                                "primareaper",
+                                "peerfortress(f)",
+                                "wondercorsair(f)",
+                                "rapidvenator(f)",
+                                "famyuseeker(f)"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "act1_dungeon_grid": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_size": "98,60",
+                        "rows": [
+                            [
+                                "progressivenarthex",
+                                "progressiveapse",
+                                "progressiveyellowtransept"
+                            ],
+                            [
+                                "progressivecrimsontransept",
+                                "progressiveindigotransept",
+                                "progressivechancel"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "act1_spoilslist_grid": {
         "type": "array",
         "orientation": "vertical",
         "margin": "0,0",
@@ -16,121 +96,212 @@
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
                         "item_height": 36,
-                        "item_width": 36,
                         "rows": [
                             [
-                                "unsealingritual",
-                                "progressivestartleenemies",
-                                "visitagentleworld",
-                                "marquischestkey",
-                                "ashenchestkey",
-                                "highjump",
-                                "darklight"
+                                "narthexspoilslist",
+                                "apsespoilslist",
+                                "yellowtranseptspoilslist"
                             ],
                             [
                                 "crimsontranseptspoilslist",
-                                "progressivepost-battlerecovery",
-                                "immortality",
-                                "visitanightmareworld",
-                                "crimsonchestkey",
-                                "progressivetalisman",
-                                "userfoffensively",
-                                "primareaper"
-                            ],
-                            [
-                                "progressiveincreasetravelrange",
-                                "peerfortress(f)",
-                                "footwear",
-                                "peerfortress(m)",
-                                "yellowchestkey",
-                                "rapidvenator(f)",
-                                "magiamaid(m)",
-                                "userfdefensively",
-                                "shinomashira(f)",
-                                "narthexspoilslist"
-                            ],
-                            [
-                                "chancelspoilslist",
-                                "apsespoilslist",
-                                "magiamaid(f)",
-                                "leavesnotesatwill",
-                                "cursedswampswimming",
-                                "progressivemorerewards",
-                                "theatricalstar(f)",
-                                "gothiccoppelia",
-                                "astercrow(m)"
-                            ],
-                            [
-                                "shinelight",
-                                "rapidvenator(m)",
-                                "progressivestopenemies",
-                                "renamesoulpacts",
-                                "apsechestkeyiii",
-                                "progressivestockpilexp",
-                                "progressivenarthex",
-                                "wondercorsair(m)",
-                                "narthexchestkeyii",
-                                "theatricalstar(m)",
-                                "famyuseeker(f)"
-                            ],
-                            [
-                                "progressiveescapebattleseasier",
-                                "shinomashira(m)",
-                                "possess",
-                                "dodgepitfalls",
-                                "hastyrfuse",
-                                "progressiveswimming",
-                                "progressivesearchforthelost",
-                                "suspiciouschestkey"
-                            ],
-                            [
-                                "exorcise",
-                                "progressiveapse",
-                                "progressiveindigotransept",
-                                "apsechestkeyii",
-                                "longjump",
-                                "progressiveeattastymeat",
-                                "narthexchestkey",
-                                "stopbeforeapitfall",
-                                "tacticalrfuse"
-                            ],
-                            [
-                                "scapegoat",
-                                "progressiveblockenemies",
-                                "astercrow(f)",
-                                "indigochestkey",
-                                "wallbreaker",
-                                "wondercorsair(f)",
                                 "indigotranseptspoilslist",
-                                "progressivehidefromenemies",
-                                "renamepuppetsoldiers"
-                            ],
+                                "chancelspoilslist"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "act1_key_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 72,
+                        "rows": [
                             [
-                                "progressiveleavelabyrinthatwill",
-                                "bringmanaintolabyrinth",
-                                "progressiveyellowtransept",
-                                "bringthemback",
-                                "galleriacatalog",
-                                "treasure",
-                                "morestatgrowthoptions",
-                                "progressivecrimsontransept"
-                            ],
-                            [
-                                "progressiveformations",
-                                "learnenemymoves",
-                                "findmoreitems",
-                                "useportalmagic",
-                                "specialordersinbattle",
-                                "yellowtranseptspoilslist",
-                                "destroyotherswithtackle",
-                                "progressivechancel",
-                                "leavenotesonmap",
-                                "famyuseeker(m)",
-                                "avoidenemiesaltogether"
-                            ],
-                            [
+                                "narthexchestkey",
                                 "apsechestkey",
-                                "lureenemies"
+                                "apsechestkeyii",
+                                "apsechestkeyiii"
+                            ],
+                            [
+                                "yellowchestkey",
+                                "crimsonchestkey",
+                                "indigochestkey",
+                                "marquischestkey"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "act1_fantibilities_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 72,
+                        "rows": [
+                            [
+                                "wallbreaker",
+                                "cursedswampswimming",
+                                "shinelight"
+                            ],
+                            [
+                                "longjump",
+                                "darklight",
+                                "highjump"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "act1_progression_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 72,
+                        "rows": [
+                            [
+                                "progressivemorerewards",
+                                "visitanightmareworld",
+                                "findmoreitems",
+                                "userfoffensively",
+                                "userfdefensively"
+                            ],
+                            [
+                                "unsealingritual",
+                                "progressivestockpilexp",
+                                "progressiveformations",
+                                "progressiveleavelabyrinthatwill",
+                                "progressivetalisman",
+                                "progressiveswimming"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "act1_useful_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 72,
+                        "rows": [
+                            [
+                                "visitagentleworld",
+                                "scapegoat",
+                                "possess",
+                                "exorcise",
+                                "bringthemback",
+                                "stopbeforeapitfall",
+                                "specialordersinbattle",
+                                "leavesnotesatwill",
+                                "leavenotesonmap",
+                                "hastyrfuse",
+                                "tacticalrfuse",
+                                "bringmanaintolabyrinth",
+                                "dodgepitfalls",
+                                "progressiveeattastymeat"
+                            ],
+                            [
+                                "progressivepost-battlerecovery",
+                                "avoidenemiesaltogether",
+                                "useportalmagic",
+                                "destroyotherswithtackle",
+                                "lureenemies",
+                                "progressiveescapebattleseasier",
+                                "progressivehidefromenemies",
+                                "progressivestopenemies",
+                                "progressivestartleenemies",
+                                "progressiveincreasetravelrange",
+                                "progressiveblockenemies",
+                                "progressivesearchforthelost",
+                                "immortality",
+                                "treasure"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "act1_filler_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 72,
+                        "rows": [
+                            [
+                                "renamepuppetsoldiers",
+                                "renamesoulpacts",
+                                "galleriacatalog",
+                                "learnenemymoves",
+                                "footwear"
                             ]
                         ]
                     }

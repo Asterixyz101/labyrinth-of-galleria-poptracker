@@ -221,6 +221,32 @@
                             }
                         },
                         {
+                            "title": "Crimson Transept",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Great Labyrinth",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Crimson Transept Great Labyrinth"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Underground",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Crimson Transept Underground"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
                             "title": "Indigo Transept",
                             "content": {
                                 "type": "tabbed",
@@ -249,32 +275,6 @@
                                             "type": "map",
                                             "maps": [
                                                 "Indigo Transept Waterway 3"
-                                            ]
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Crimson Transept",
-                            "content": {
-                                "type": "tabbed",
-                                "tabs": [
-                                    {
-                                        "title": "Great Labyrinth",
-                                        "content": {
-                                            "type": "map",
-                                            "maps": [
-                                                "Crimson Transept Great Labyrinth"
-                                            ]
-                                        }
-                                    },
-                                    {
-                                        "title": "Underground",
-                                        "content": {
-                                            "type": "map",
-                                            "maps": [
-                                                "Crimson Transept Underground"
                                             ]
                                         }
                                     }
@@ -342,6 +342,97 @@
                             }
                         }
                     ]
+                }
+            }
+        ]
+    },
+    "acts_grid": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Act 1",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Facets,Dungeons&Keys",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Facets",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act1_facet_grid"
+                                        }
+                                    },
+                                    {
+                                        "title": "Dungeons",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act1_dungeon_grid"
+                                        }
+                                    },
+                                    {
+                                        "title": "Keys",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act1_key_grid"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Fantibilities&Witch Petitions",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Fantibilities",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act1_fantibilities_grid"
+                                        }
+                                    },
+                                    {
+                                        "title": "Progression",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act1_progression_grid"
+                                        }
+                                    },
+                                    {
+                                        "title": "Useful",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act1_useful_grid"
+                                        }
+                                    },
+                                    {
+                                        "title": "Filler",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act1_filler_grid"
+                                        }
+                                    },
+                                    {
+                                        "title": "Spoils Lists",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act1_spoilslist_grid"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Act 2",
+                "content": {
+                    "type": "tabbed"
                 }
             }
         ]

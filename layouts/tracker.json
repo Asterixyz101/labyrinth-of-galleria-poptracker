@@ -19,7 +19,19 @@
                                 "type": "layout",
                                 "h_alignment": "center",
                                 "v_alignment": "center",
-                                "key": "shared_item_grid_horizontal"
+                                "key": "acts_grid"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "",
+                            "dock": "left",
+                            "margin": "0,0,0,0",
+                            "content": {
+                                "type": "layout",
+                                "h_alignment": "center",
+                                "v_alignment": "center",
+                                "key": ""
                             }
                         }
                     ]
