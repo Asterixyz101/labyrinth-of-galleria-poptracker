@@ -7,6 +7,12 @@ require("scripts.items_import")
 require("scripts.logic.logic_helper")
 require("scripts.logic.base_logic")
 require("scripts.logic.graph_logic.logic_main")
+require("scripts.logic.Narthex")
+require("scripts.logic.Apse")
+require("scripts.logic.Yellow Transept")
+require("scripts.logic.Crimson Transept")
+require("scripts.logic.Indigo Transept")
+require("scripts.logic.Chancel")
 
 -- Maps
 Tracker:AddMaps("maps/maps.json")
