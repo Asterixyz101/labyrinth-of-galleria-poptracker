@@ -21,7 +21,8 @@ end
 
 function canReachNarthexB7()
     return ALL(canReachIndigoWaterway1(),HAS("progressivenarthex",7))
-
+end
+    
 function hasWallbreaker()
     return ALL(HAS("wallbreaker",1),canReachNarthexB2())
 end
