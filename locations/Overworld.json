@@ -738,8 +738,8 @@
                         "ref": "Apse/Floor 1/Floor 1 Chest 11X 6Y/"
                     },
                     {
-                        "name": "Floor 1 Chest 16X 7Y",
-                        "ref": "Apse/Floor 1/Floor 1 Chest 16X 7Y/"
+                        "name": "Floor 1 Chest 16X 8Y",
+                        "ref": "Apse/Floor 1/Floor 1 Chest 16X 8Y/"
                     },
                     {
                         "name": "Floor 1 Chest 20X 7Y",
@@ -1378,8 +1378,8 @@
                         "ref": "Apse/Floor 6/Floor 6 Chest 21X 25Y/"
                     },
                     {
-                        "name": "Floor 6 Chest 6X 12Y",
-                        "ref": "Apse/Floor 6/Floor 6 Chest 6X 12Y/"
+                        "name": "Floor 6 Chest 6X 11Y",
+                        "ref": "Apse/Floor 6/Floor 6 Chest 6X 11Y/"
                     },
                     {
                         "name": "Floor 6 Chest 20X 10Y",
@@ -1622,8 +1622,8 @@
                         "ref": "Apse/Floor 8/Floor 8 Chest 18X 6Y (Suspicious Chest Key)/"
                     },
                     {
-                        "name": "Floor 8 Chest 21X 18Y",
-                        "ref": "Apse/Floor 8/Floor 8 Chest 21X 18Y/"
+                        "name": "Floor 8 Chest 20X 18Y",
+                        "ref": "Apse/Floor 8/Floor 8 Chest 20X 18Y/"
                     },
                     {
                         "name": "Floor 8 Chest 13X 7Y",
@@ -2340,7 +2340,7 @@
                     },
                     {
                         "name": "Meat Soldier, Magia Tokens & Wiccard",
-                        "ref": "Event/Floor 9/Meat Soldier, Magia Tokens & Wiccard/"
+                        "ref": "Event/Apse/Floor 9/Meat Soldier, Magia Tokens & Wiccard/"
                     },
                     {
                         "name": "Marquis Statue",
@@ -3553,8 +3553,8 @@
                         "ref": "Yellow Transept/Layer 1/Layer 1 Chest 9X 10Y/"
                     },
                     {
-                        "name": "Layer 1 Curio Cranbianas Cup 8X 10Y",
-                        "ref": "Yellow Transept/Layer 1/Layer 1 Curio Cranbianas Cup 8X 10Y/"
+                        "name": "Layer 1 Curio Cranbianas Cup 8X 11Y",
+                        "ref": "Yellow Transept/Layer 1/Layer 1 Curio Cranbianas Cup 8X 11Y/"
                     },
                     {
                         "name": "Layer 2 Chest 8X 17Y",

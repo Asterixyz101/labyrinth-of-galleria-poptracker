@@ -330,7 +330,7 @@
                         ]
                     },
                     {
-                        "name": "Layer 1 Curio Cranbianas Cup 8X 10Y",
+                        "name": "Layer 1 Curio Cranbianas Cup 8X 11Y",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -349,7 +349,7 @@
                             {
                                 "map": "Yellow Transept Layer 1",
                                 "x": 1040,
-                                "y": 374,
+                                "y": 406,
                                 "size": 32,
                                 "shape": "rect"
                             }
