@@ -6481,7 +6481,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasApseChestKeyIII"
                         ],
                         "sections": [
                             {
@@ -6533,7 +6533,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -6715,7 +6715,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasAshenChestKey"
                         ],
                         "sections": [
                             {
@@ -6845,7 +6845,8 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1",
+                            "$canReachApseInnermost"
                         ],
                         "sections": [
                             {
@@ -6871,7 +6872,8 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1",
+                            "$canReachApseInnermost"
                         ],
                         "sections": [
                             {
@@ -6897,7 +6899,8 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1",
+                            "$canReachApseInnermost"
                         ],
                         "sections": [
                             {
@@ -6923,7 +6926,8 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1",
+                            "$canReachApseInnermost"
                         ],
                         "sections": [
                             {
@@ -6949,7 +6953,8 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1",
+                            "$canReachApseInnermost"
                         ],
                         "sections": [
                             {
@@ -6975,7 +6980,8 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1",
+                            "$canReachApseInnermost"
                         ],
                         "sections": [
                             {
@@ -7001,7 +7007,8 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1",
+                            "$canReachApseInnermost"
                         ],
                         "sections": [
                             {
@@ -7027,7 +7034,8 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1",
+                            "$canReachApseInnermost"
                         ],
                         "sections": [
                             {
@@ -7053,7 +7061,8 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1",
+                            "$canReachApseInnermost"
                         ],
                         "sections": [
                             {
@@ -7183,7 +7192,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1,progressiveswimming:3"
                         ],
                         "sections": [
                             {
@@ -7209,7 +7218,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1,progressiveswimming:3"
                         ],
                         "sections": [
                             {
@@ -7235,7 +7244,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1,progressiveswimming:3"
                         ],
                         "sections": [
                             {
@@ -7261,7 +7270,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachNarthexB7,cursedswampswimming:1,$canReachIndigoWaterway3"
                         ],
                         "sections": [
                             {
@@ -7287,7 +7296,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachNarthexB7,cursedswampswimming:1,$canReachIndigoWaterway3"
                         ],
                         "sections": [
                             {
@@ -7313,7 +7322,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachNarthexB7,cursedswampswimming:1,$canReachIndigoWaterway3"
                         ],
                         "sections": [
                             {
@@ -7922,7 +7931,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachNarthexB7,cursedswampswimming:1,$canReachIndigoWaterway3"
                         ],
                         "sections": [
                             {
