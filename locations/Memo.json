@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "$canReachApseFloor1"
         ],
         "children": [
             {
@@ -23,7 +23,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -49,7 +49,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -75,7 +75,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -101,7 +101,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -127,7 +127,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -153,7 +153,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -179,7 +179,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachApseFloor2,findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -205,7 +205,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachYellowLayer1,findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -231,7 +231,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -257,7 +257,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachYellowLayer1,findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -283,7 +283,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachApseFloor3,findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -309,7 +309,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachApseFloor3,findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -335,7 +335,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachApseFloor4,findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -361,7 +361,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachCrimsonGreatLabyrinth,findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -387,7 +387,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachCrimsonGreatLabyrinth,findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -413,7 +413,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachCrimsonGreatLabyrinth,findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -439,7 +439,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachCrimsonGreatLabyrinth,findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -465,7 +465,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachCrimsonGreatLabyrinth,findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -491,7 +491,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachApseFloor5,findmoreitems:1"
                         ],
                         "sections": [
                             {
@@ -517,7 +517,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachChancelGrandNecrohall,findmoreitems:1"
                         ],
                         "sections": [
                             {
