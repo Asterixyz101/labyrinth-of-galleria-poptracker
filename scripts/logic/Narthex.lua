@@ -34,15 +34,3 @@ end
 function hasNarthexChestKey()
     return ALL(HAS("narthexchestkey",1),canReachNarthexB4())
 end
-
-function hasSuspiciousChestKey()
-    return false
-end
-
-function hasAshenChestKey()
-    return false
-end
-
-function hasNarthexChestKeyII()
-    return false
-end

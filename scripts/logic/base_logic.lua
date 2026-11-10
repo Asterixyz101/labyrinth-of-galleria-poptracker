@@ -9,3 +9,15 @@
 --     <indentations are just for readability>
 -- end
 --
+
+function hasSuspiciousChestKey()
+    return false
+end
+
+function hasAshenChestKey()
+    return false
+end
+
+function hasNarthexChestKeyII()
+    return false
+end
