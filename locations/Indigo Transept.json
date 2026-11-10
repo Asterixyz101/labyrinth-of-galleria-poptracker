@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "$canReachApseFloor8"
         ],
         "children": [
             {
@@ -14,7 +14,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$canReachIndigoWaterway1"
                 ],
                 "children": [
                     {
@@ -205,7 +205,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasIndigoChestKey"
                         ],
                         "sections": [
                             {
@@ -389,7 +389,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$canReachIndigoWaterway2"
                 ],
                 "children": [
                     {
@@ -840,7 +840,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasIndigoChestKey"
                         ],
                         "sections": [
                             {
@@ -866,7 +866,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasIndigoChestKey"
                         ],
                         "sections": [
                             {
@@ -920,7 +920,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$canReachIndigoWaterway3"
                 ],
                 "children": [
                     {
@@ -1007,7 +1007,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasAshenChestKey"
                         ],
                         "sections": [
                             {
@@ -1059,7 +1059,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasIndigoChestKey"
                         ],
                         "sections": [
                             {
@@ -1137,7 +1137,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasSuspiciousChestKey"
                         ],
                         "sections": [
                             {
@@ -1397,7 +1397,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressivetalisman:3"
                         ],
                         "sections": [
                             {
@@ -1423,7 +1423,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressivetalisman:3"
                         ],
                         "sections": [
                             {
@@ -1449,7 +1449,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressivetalisman:3"
                         ],
                         "sections": [
                             {
@@ -1475,7 +1475,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressivetalisman:3"
                         ],
                         "sections": [
                             {
@@ -1501,7 +1501,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressivetalisman:3"
                         ],
                         "sections": [
                             {
@@ -1527,7 +1527,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressivetalisman:3"
                         ],
                         "sections": [
                             {
@@ -1553,7 +1553,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressivetalisman:3"
                         ],
                         "sections": [
                             {
@@ -1579,7 +1579,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressivetalisman:3"
                         ],
                         "sections": [
                             {
@@ -1605,7 +1605,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressivetalisman:3"
                         ],
                         "sections": [
                             {
@@ -1631,7 +1631,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressivetalisman:3"
                         ],
                         "sections": [
                             {
@@ -1657,7 +1657,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressivetalisman:3"
                         ],
                         "sections": [
                             {
@@ -1683,7 +1683,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressivetalisman:3"
                         ],
                         "sections": [
                             {
@@ -1709,7 +1709,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:3"
                         ],
                         "sections": [
                             {
