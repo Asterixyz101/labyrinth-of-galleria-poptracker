@@ -1433,7 +1433,7 @@
                         ]
                     },
                     {
-                        "name": "Underground Chest 3X 26Y",
+                        "name": "Underground Chest 2X 25Y",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -1451,8 +1451,8 @@
                         "map_locations": [
                             {
                                 "map": "Crimson Transept Underground",
-                                "x": 880,
-                                "y": 886,
+                                "x": 848,
+                                "y": 854,
                                 "size": 32,
                                 "shape": "rect"
                             }
