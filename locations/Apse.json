@@ -14,7 +14,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$canReachApseFloor1"
                 ],
                 "children": [
                     {
@@ -127,7 +127,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canEnterSacredAreas"
                         ],
                         "sections": [
                             {
@@ -153,7 +153,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canEnterSacredAreas"
                         ],
                         "sections": [
                             {
@@ -179,7 +179,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasApseChestKey"
                         ],
                         "sections": [
                             {
@@ -460,7 +460,7 @@
                         ]
                     },
                     {
-                        "name": "Floor 1 Chest 16X 7Y",
+                        "name": "Floor 1 Chest 16X 8Y",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -479,7 +479,7 @@
                             {
                                 "map": "Apse Floor 1",
                                 "x": 1296,
-                                "y": 278,
+                                "y": 310,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -543,7 +543,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasApseChestKey"
                         ],
                         "sections": [
                             {
@@ -569,7 +569,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "shinelight:1"
                         ],
                         "sections": [
                             {
@@ -595,7 +595,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "shinelight:1"
                         ],
                         "sections": [
                             {
@@ -621,7 +621,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canEnterSacredAreas"
                         ],
                         "sections": [
                             {
@@ -647,7 +647,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canEnterSacredAreas"
                         ],
                         "sections": [
                             {
@@ -673,7 +673,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasAshenChestKey"
                         ],
                         "sections": [
                             {
@@ -699,7 +699,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canEnterSacredAreas"
                         ],
                         "sections": [
                             {
@@ -725,7 +725,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canEnterSacredAreas"
                         ],
                         "sections": [
                             {
@@ -746,12 +746,12 @@
                         ]
                     },
                     {
-                        "name": "Floor 1 Curio Star Emperors Stuff 19X 20Y",
+                        "name": "Floor 1 Curio Star Emperors Staff 19X 20Y",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasHighJump"
                         ],
                         "sections": [
                             {
@@ -770,6 +770,32 @@
                                 "shape": "rect"
                             }
                         ]
+                    },
+                    {
+                        "name": "Floor 2 Chest 24X 16Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "progressiveapse:2"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Apse Floor 2",
+                                "x": 1552,
+                                "y": 566,
+                                "size": 32,
+                                "shape": "rect"
+                            }
+                        ]
                     }
                 ]
             },
@@ -779,7 +805,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$canReachApseFloor2"
                 ],
                 "children": [
                     {
@@ -802,32 +828,6 @@
                             {
                                 "map": "Apse Floor 2",
                                 "x": 1424,
-                                "y": 566,
-                                "size": 32,
-                                "shape": "rect"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Floor 2 Chest 24X 16Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Apse Floor 2",
-                                "x": 1552,
                                 "y": 566,
                                 "size": 32,
                                 "shape": "rect"
@@ -1126,7 +1126,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasApseChestKey"
                         ],
                         "sections": [
                             {
@@ -1256,7 +1256,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasLongJump"
                         ],
                         "sections": [
                             {
@@ -1282,7 +1282,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasLongJump"
                         ],
                         "sections": [
                             {
@@ -1308,7 +1308,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasLongJump"
                         ],
                         "sections": [
                             {
@@ -1334,7 +1334,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasLongJump"
                         ],
                         "sections": [
                             {
@@ -1360,7 +1360,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasLongJump"
                         ],
                         "sections": [
                             {
@@ -1388,7 +1388,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$canReachApseFloor3"
                 ],
                 "children": [
                     {
@@ -1579,7 +1579,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasSuspiciousChestKey"
                         ],
                         "sections": [
                             {
@@ -2151,7 +2151,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canEnterSacredAreas"
                         ],
                         "sections": [
                             {
@@ -2177,7 +2177,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canEnterSacredAreas"
                         ],
                         "sections": [
                             {
@@ -2196,95 +2196,6 @@
                                 "shape": "rect"
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "name": "Floor 4",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "Floor 4 Chest 25X 15Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Apse Floor 4",
-                                "x": 1584,
-                                "y": 534,
-                                "size": 32,
-                                "shape": "rect"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Floor 4 Chest 24X 18Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Apse Floor 4",
-                                "x": 1552,
-                                "y": 630,
-                                "size": 32,
-                                "shape": "rect"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Floor 4 Chest 20X 19Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Apse Floor 4",
-                                "x": 1424,
-                                "y": 662,
-                                "size": 32,
-                                "shape": "rect"
-                            }
-                        ]
                     },
                     {
                         "name": "Floor 4 Chest 16X 14Y",
@@ -2292,7 +2203,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveapse:4"
                         ],
                         "sections": [
                             {
@@ -2318,7 +2229,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveapse:4"
                         ],
                         "sections": [
                             {
@@ -2344,7 +2255,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveapse:4,progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -2365,12 +2276,101 @@
                         ]
                     },
                     {
+                        "name": "Floor 4 Chest 20X 19Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "progressiveapse:4,progressiveswimming:1"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Apse Floor 4",
+                                "x": 1424,
+                                "y": 662,
+                                "size": 32,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 4 Chest 25X 15Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "progressiveapse:4,progressiveswimming:1"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Apse Floor 4",
+                                "x": 1584,
+                                "y": 534,
+                                "size": 32,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 4 Chest 24X 18Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "progressiveapse:4,progressiveswimming:1"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Apse Floor 4",
+                                "x": 1552,
+                                "y": 630,
+                                "size": 32,
+                                "shape": "rect"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Floor 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachApseFloor4"
+                ],
+                "children": [
+                    {
                         "name": "Floor 4 Chest 18X 19Y (Apse Chest Key 2)",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasApseChestKeyII,progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -2448,7 +2448,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -2604,7 +2604,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasApseChestKeyII"
                         ],
                         "sections": [
                             {
@@ -2734,7 +2734,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -2890,7 +2890,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -3020,7 +3020,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasHighJump,$hasApseChestKeyII"
                         ],
                         "sections": [
                             {
@@ -3048,7 +3048,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$canReachApseFloor5"
                 ],
                 "children": [
                     {
@@ -3109,7 +3109,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -3265,7 +3265,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1"
                         ],
                         "sections": [
                             {
@@ -3291,7 +3291,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1"
                         ],
                         "sections": [
                             {
@@ -3317,7 +3317,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1"
                         ],
                         "sections": [
                             {
@@ -3343,7 +3343,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1"
                         ],
                         "sections": [
                             {
@@ -3369,7 +3369,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1"
                         ],
                         "sections": [
                             {
@@ -3395,7 +3395,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "cursedswampswimming:1"
                         ],
                         "sections": [
                             {
@@ -3421,7 +3421,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasApseChestKeyII,cursedswampswimming:1"
                         ],
                         "sections": [
                             {
@@ -3577,7 +3577,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasHighJump,$hasApseChestKeyII"
                         ],
                         "sections": [
                             {
@@ -3603,7 +3603,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasHighJump"
                         ],
                         "sections": [
                             {
@@ -3629,7 +3629,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasHighJump"
                         ],
                         "sections": [
                             {
@@ -3655,7 +3655,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasHighJump"
                         ],
                         "sections": [
                             {
@@ -3681,7 +3681,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasHighJump"
                         ],
                         "sections": [
                             {
@@ -3707,7 +3707,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasHighJump"
                         ],
                         "sections": [
                             {
@@ -3733,7 +3733,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasHighJump"
                         ],
                         "sections": [
                             {
@@ -3759,7 +3759,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasHighJump"
                         ],
                         "sections": [
                             {
@@ -3785,7 +3785,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasHighJump"
                         ],
                         "sections": [
                             {
@@ -3811,7 +3811,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasHighJump"
                         ],
                         "sections": [
                             {
@@ -3839,7 +3839,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$canReachApseFloor6"
                 ],
                 "children": [
                     {
@@ -4082,7 +4082,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -4108,7 +4108,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -4186,7 +4186,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -4212,7 +4212,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -4290,7 +4290,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -4675,7 +4675,7 @@
                         ]
                     },
                     {
-                        "name": "Floor 6 Chest 6X 12Y",
+                        "name": "Floor 6 Chest 6X 11Y",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -4694,7 +4694,7 @@
                             {
                                 "map": "Apse Floor 6",
                                 "x": 976,
-                                "y": 438,
+                                "y": 406,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -4888,7 +4888,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasApseChestKeyII,$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -4914,7 +4914,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasAshenChestKey"
                         ],
                         "sections": [
                             {
@@ -4933,25 +4933,14 @@
                                 "shape": "rect"
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "name": "Floor 7",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
+                    },
                     {
                         "name": "Floor 7 Chest 6X 7Y",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveapse:7"
                         ],
                         "sections": [
                             {
@@ -4977,7 +4966,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveapse:7,progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -5003,7 +4992,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveapse:7"
                         ],
                         "sections": [
                             {
@@ -5029,7 +5018,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveapse:7,progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -5050,64 +5039,12 @@
                         ]
                     },
                     {
-                        "name": "Floor 7 Chest 25X 8Y",
+                        "name": "Floor 7 Chest 24X 15Y",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Apse Floor 7",
-                                "x": 1584,
-                                "y": 310,
-                                "size": 32,
-                                "shape": "rect"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Floor 7 Chest 25X 6Y (Suspicious Chest Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Apse Floor 7",
-                                "x": 1584,
-                                "y": 246,
-                                "size": 32,
-                                "shape": "rect"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Floor 7 Chest 24X 6Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
+                            "progressiveapse:7"
                         ],
                         "sections": [
                             {
@@ -5121,59 +5058,7 @@
                             {
                                 "map": "Apse Floor 7",
                                 "x": 1552,
-                                "y": 246,
-                                "size": 32,
-                                "shape": "rect"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Floor 7 Chest 16X 9Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Apse Floor 7",
-                                "x": 1296,
-                                "y": 342,
-                                "size": 32,
-                                "shape": "rect"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Floor 7 Chest 15X 9Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Apse Floor 7",
-                                "x": 1264,
-                                "y": 342,
+                                "y": 534,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -5185,7 +5070,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveapse:7,progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -5211,7 +5096,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveapse:7"
                         ],
                         "sections": [
                             {
@@ -5237,7 +5122,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveapse:7,progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -5258,12 +5143,90 @@
                         ]
                     },
                     {
-                        "name": "Floor 7 Chest 24X 15Y",
+                        "name": "Floor 7 Chest 16X 9Y",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveapse:7"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Apse Floor 7",
+                                "x": 1296,
+                                "y": 342,
+                                "size": 32,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 7 Chest 15X 9Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "progressiveapse:7,progressiveswimming:1"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Apse Floor 7",
+                                "x": 1264,
+                                "y": 342,
+                                "size": 32,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 7 Chest 25X 8Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "progressiveapse:7,progressiveswimming:1"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Apse Floor 7",
+                                "x": 1584,
+                                "y": 310,
+                                "size": 32,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 7 Chest 24X 6Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "progressiveapse:7,progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -5277,7 +5240,44 @@
                             {
                                 "map": "Apse Floor 7",
                                 "x": 1552,
-                                "y": 534,
+                                "y": 246,
+                                "size": 32,
+                                "shape": "rect"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Floor 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachApseFloor7"
+                ],
+                "children": [
+                    {
+                        "name": "Floor 7 Chest 25X 6Y (Suspicious Chest Key)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "$hasSuspiciousChestKey"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Apse Floor 7",
+                                "x": 1584,
+                                "y": 246,
                                 "size": 32,
                                 "shape": "rect"
                             }
@@ -5367,7 +5367,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasApseChestKeyIII"
                         ],
                         "sections": [
                             {
@@ -5419,7 +5419,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasApseChestKeyIII"
                         ],
                         "sections": [
                             {
@@ -5523,7 +5523,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasApseChestKeyIII"
                         ],
                         "sections": [
                             {
@@ -5601,7 +5601,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -5679,7 +5679,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -5705,7 +5705,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -5731,7 +5731,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -5783,7 +5783,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -5809,7 +5809,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -5835,7 +5835,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -5861,7 +5861,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasSuspiciousChestKey"
                         ],
                         "sections": [
                             {
@@ -5887,7 +5887,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1,progressiveswimming:3"
                         ],
                         "sections": [
                             {
@@ -5913,7 +5913,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1,progressiveswimming:4"
                         ],
                         "sections": [
                             {
@@ -5939,7 +5939,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1,progressiveswimming:4"
                         ],
                         "sections": [
                             {
@@ -5967,7 +5967,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$canReachApseFloor8"
                 ],
                 "children": [
                     {
@@ -6028,7 +6028,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -6158,7 +6158,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "progressiveswimming:1"
                         ],
                         "sections": [
                             {
@@ -6262,7 +6262,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$hasSuspiciousChestKey"
                         ],
                         "sections": [
                             {
@@ -6283,7 +6283,7 @@
                         ]
                     },
                     {
-                        "name": "Floor 8 Chest 21X 18Y",
+                        "name": "Floor 8 Chest 20X 18Y",
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
@@ -6301,7 +6301,7 @@
                         "map_locations": [
                             {
                                 "map": "Apse Floor 8",
-                                "x": 1456,
+                                "x": 1424,
                                 "y": 630,
                                 "size": 32,
                                 "shape": "rect"
@@ -6340,7 +6340,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -6366,7 +6366,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -6392,7 +6392,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -6418,7 +6418,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -6444,7 +6444,7 @@
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$canReachIndigoWaterway1"
                         ],
                         "sections": [
                             {
@@ -6472,7 +6472,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$canReachApseFloor9"
                 ],
                 "children": [
                     {
@@ -7341,7 +7341,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$canReachApseInnermost"
                 ],
                 "children": [
                     {
