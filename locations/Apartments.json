@@ -341,7 +341,7 @@
                 "map_locations": [
                     {
                         "map": "Apartment 1",
-                        "x": 32,
+                        "x": 1888,
                         "y": 32,
                         "size": 64,
                         "shape": "diamond"
@@ -681,7 +681,7 @@
                 "map_locations": [
                     {
                         "map": "Apartment 2",
-                        "x": 32,
+                        "x": 1888,
                         "y": 32,
                         "size": 64,
                         "shape": "diamond"
