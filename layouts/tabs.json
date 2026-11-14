@@ -339,14 +339,32 @@
                                 "type": "tabbed",
                                 "tabs": [
                                     {
-                                        "title": "Apartments",
+                                        "title": "Apartment 1",
                                         "content": {
                                             "type": "map",
                                             "maps": [
-                                                "Apartments"
+                                                "Apartment 1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Apartment 1",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Apartment 1"
                                             ]
                                         }
                                     }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Memo",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Memo 2"
                                 ]
                             }
                         }
