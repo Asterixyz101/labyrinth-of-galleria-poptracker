@@ -50,7 +50,7 @@
     {
         "name": "shinobushi(m)",
         "type": "toggle",
-        "img": "images/items/shinobushi(m).png",
+        "img": "images/items/facets/act2/shinobushi(m).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "shinobushi(m)"
@@ -58,7 +58,7 @@
     {
         "name": "theatricaldolce(f)",
         "type": "toggle",
-        "img": "images/items/theatricaldolce(f).png",
+        "img": "images/items/facets/act2/theatricaldolce(f).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "theatricaldolce(f)"
