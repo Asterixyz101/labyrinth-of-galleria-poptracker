@@ -19,7 +19,7 @@
                         {
                             "title": "World Map",
                             "content": {
-                                "type":"map",
+                                "type": "map",
                                 "maps": [
                                     "Overworld"
                                 ]
@@ -457,9 +457,83 @@
                 }
             },
             {
-                "title": "Act 2",
+                "title": "Act 2 & 3",
                 "content": {
-                    "type": "tabbed"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Facets,Dungeons&Keys",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Facets",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act23_facet_grid"
+                                        }
+                                    },
+                                    {
+                                        "title": "Dungeons",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act23_dungeon_grid"
+                                        }
+                                    },
+                                    {
+                                        "title": "Keys",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act23_key_grid"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Fantibilities&Witch Petitions",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Fantibilities",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act23_fantibilities_grid"
+                                        }
+                                    },
+                                    {
+                                        "title": "Progression",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act23_progression_grid"
+                                        }
+                                    },
+                                    {
+                                        "title": "Useful",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act23_useful_grid"
+                                        }
+                                    },
+                                    {
+                                        "title": "Filler",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act23_filler_grid"
+                                        }
+                                    },
+                                    {
+                                        "title": "Spoils Lists",
+                                        "content": {
+                                            "type": "layout",
+                                            "key": "act23_spoilslist_grid"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
                 }
             }
         ]

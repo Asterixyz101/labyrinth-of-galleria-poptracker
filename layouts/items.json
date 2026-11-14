@@ -308,5 +308,51 @@
                 ]
             }
         ]
+    },
+    "act23_facet_grid": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_size": "42,78",
+                        "rows": [
+                            [
+                                "magiaconcieri(m)",
+                                "asterashe(m)",
+                                "shinobushi(m)",
+                                "theatricaldolce(m)",
+                                "gothicgrattonia",
+                                "peerchariot(m)",
+                                "wonderviande(m)",
+                                "rapidraptor(m)",
+                                "famyuchaser(m)"
+                            ],
+                            [
+                                "magiaconcieri(f)",
+                                "asterashe(f)",
+                                "shinobushi(f)",
+                                "theatricaldolce(f)",
+                                "primacupido",
+                                "peerchariot(f)",
+                                "wonderviande(f)",
+                                "rapidraptor(f)",
+                                "famyuchaser(f)"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 }
