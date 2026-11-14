@@ -180,6 +180,18 @@
         "img": "images/maps/Chancel/Necrohall Lower.png"
     },
     {
+        "name": "Apartment 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apartments/Apartment 1.png"
+    },
+    {
+        "name": "Apartment 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Apartments/Apartment 2.png"
+    },
+    {
         "name": "Narthex",
         "location_size": 6,
         "location_border_thickness": 1,
